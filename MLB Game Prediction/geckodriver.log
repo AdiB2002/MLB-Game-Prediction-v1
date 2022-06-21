@@ -1,0 +1,506 @@
+1655425386147	geckodriver	INFO	Listening on 127.0.0.1:58928
+1655425389194	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58929" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\15127\\AppData\\Local\\Temp\\rust_mozprofileRDu5Ta"
+1655425389699	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:58929
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\15127\\AppData\\Local\\Temp\\rust_mozprofileRDu5Ta\\search.json.mozlz4", (void 0)))
+1655425391207	Marionette	INFO	Listening on port 58953
+DevTools listening on ws://localhost:58929/devtools/browser/eff25534-8aab-41b9-9f7a-06ea2a3575d4
+Read port: 58953
+1655425391337	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.mlbstatic.com/mlb.com/adobe-analytics/target/2.3.0/at.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.mlb.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.mlb.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.mlb.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.mlb.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript warning: https://www.mlbstatic.com/mlb.com/adobe-analytics/target/2.3.0/at.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.mlb.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.mlb.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.mlb.com"
+JavaScript warning: https://z.moatads.com/mlbheader874053601219/moatheader.js, line 219: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.mlbstatic.com/mlb.com/adobe-analytics/target/2.3.0/at.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/mlbheader874053601219/moatheader.js, line 219: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.mlb.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.mlb.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.mlb.com"
+JavaScript error: https://znbsk4yipsnfkyadd-mlb.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_SIID=SI_78Pyax7rwjK0O7H&Q_LOC=https%3A%2F%2Fwww.mlb.com%2Fstarting-lineups%2F2022-04-07&t=1655425399507, line 3: Error: Loading chunk 11 failed.
+(error: https://siteintercept.qualtrics.com/dxjsmodule/11.2bb382f416862e9f4531.chunk.js?Q_CLIENTVERSION=1.73.0&Q_CLIENTTYPE=web&Q_BRANDID=www.mlb.com)
+JavaScript warning: https://www.mlbstatic.com/mlb.com/adobe-analytics/target/2.3.0/at.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/mlbheader874053601219/moatheader.js, line 219: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.mlb.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.mlb.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.mlb.com"
+1655425405602	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1655425405627	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=, line 1: SyntaxError: illegal character U+0001
+1655425405661	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 6227 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1655425425989	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=, line 1: SyntaxError: illegal character U+0001
+1655425426364	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1655425426928	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=, line 1: SyntaxError: illegal character U+0001
+1655425427342	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 5426 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 2586 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 7098 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.mlbstatic.com/mlb.com/adobe-analytics/target/2.3.0/at.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/mlbheader874053601219/moatheader.js, line 219: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.mlb.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.mlb.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.mlb.com"
+JavaScript warning: https://www.mlbstatic.com/mlb.com/adobe-analytics/target/2.3.0/at.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/mlbheader874053601219/moatheader.js, line 219: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.mlb.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.mlb.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.mlb.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 1242 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 7545 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 633 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1655425517082	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=, line 1: SyntaxError: illegal character U+0001
+1655425517237	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 6991 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1655425538541	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=, line 1: SyntaxError: illegal character U+0001
+1655425539123	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 5090 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 5350 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1655425564406	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://717786-tags.mmi360.net/mmi-zip.js?cust=gm&agency=amnet&type=js&plat=CM360&mode=mon&advid=3876771&siteid=5071708&cmpnid=27436570&pcmtid=331536295&crtvid=168958024&rndnum=290495294&site=N8334.2382313DOUBLECLICKBIDMANAG&adid=525555526&aucid=ABAjH0j6szu30bOAZ6UVp7dJrCEB&exch=2&sellid=18388889270 line 1 > eval line 1 > eval, line 22: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 2165 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 2301 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://717786-tags.mmi360.net/mmi-zip.js?cust=gm&agency=amnet&type=js&plat=CM360&mode=mon&advid=3876771&siteid=5071708&cmpnid=26958085&pcmtid=329552249&crtvid=168832738&rndnum=1434023098&site=N8334.2382313DOUBLECLICKBIDMANAG&adid=528429901&aucid=ABAjH0jwmYt4cjShK1OSmaR-TWrT&exch=2&sellid=18388889270 line 1 > eval line 1 > eval, line 22: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 2778 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 493 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://717786-tags.mmi360.net/mmi-zip.js?cust=gm&agency=amnet&type=js&plat=CM360&mode=mon&advid=3876771&siteid=5071708&cmpnid=26958085&pcmtid=329552249&crtvid=169101735&rndnum=3968612727&site=N8334.2382313DOUBLECLICKBIDMANAG&adid=528429901&aucid=ABAjH0jTbQ48vmTb8FraaFG5_aYr&exch=2&sellid=18388889270 line 1 > eval line 1 > eval, line 22: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 7386 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 4379 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 6769 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.mlbstatic.com/mlb.com/adobe-analytics/target/2.3.0/at.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/mlbheader874053601219/moatheader.js, line 219: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.mlb.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.mlb.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.mlb.com"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.36.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+JavaScript error: https://znbsk4yipsnfkyadd-mlb.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_SIID=SI_78Pyax7rwjK0O7H&Q_LOC=https%3A%2F%2Fwww.mlb.com%2Fstarting-lineups%2F2022-04-09&t=1655425674468, line 3: Error: Loading chunk 11 failed.
+(error: https://siteintercept.qualtrics.com/dxjsmodule/11.2bb382f416862e9f4531.chunk.js?Q_CLIENTVERSION=1.73.0&Q_CLIENTTYPE=web&Q_BRANDID=www.mlb.com)
+JavaScript warning: https://www.mlbstatic.com/mlb.com/adobe-analytics/target/2.3.0/at.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.mlb.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.mlb.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.mlb.com"
+JavaScript warning: https://z.moatads.com/mlbheader874053601219/moatheader.js, line 219: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 4665 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 6377 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1655425704211	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 3580 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://717786-tags.mmi360.net/mmi-zip.js?cust=gm&agency=amnet&type=js&plat=CM360&mode=mon&advid=3876771&siteid=5071708&cmpnid=26894324&pcmtid=322529010&crtvid=169964842&rndnum=3264992169&site=N8334.2382313DOUBLECLICKBIDMANAG&adid=527659987&aucid=ABAjH0jFRg7uIbZRnFct_VY5p0Sv&exch=6&sellid=18388889270 line 1 > eval line 1 > eval, line 22: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 6426 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 2897 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://717786-tags.mmi360.net/mmi-zip.js?cust=gm&agency=amnet&type=js&plat=CM360&mode=mon&advid=3876771&siteid=5071708&cmpnid=26958085&pcmtid=329552249&crtvid=169101735&rndnum=261728332&site=N8334.2382313DOUBLECLICKBIDMANAG&adid=528429901&aucid=ABAjH0hLx41o2nQG_FJ5UkPlY0fI&exch=10&sellid=18388889270 line 1 > eval line 1 > eval, line 22: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 4837 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://717786-tags.mmi360.net/mmi-zip.js?cust=gm&agency=amnet&type=js&plat=CM360&mode=mon&advid=3876771&siteid=5071708&cmpnid=26958085&pcmtid=329552249&crtvid=169260840&rndnum=137823664&site=N8334.2382313DOUBLECLICKBIDMANAG&adid=528429901&aucid=ABAjH0gXjCkAVuaTSXtOcSTmgC5Y&exch=6&sellid=18388889270 line 1 > eval line 1 > eval, line 22: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 5064 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 848 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 3557 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 7191 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1655425822192	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 5644 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 75 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1655425836320	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=, line 1: SyntaxError: illegal character U+0001
+1655425837287	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 2101 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://s0.2mdn.net/sadbundle/1397287475913862434/index.html, line 1107: TypeError: a.g is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 6233 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://s0.2mdn.net/sadbundle/1397287475913862434/index.html, line 1122: TypeError: this.g is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://717786-tags.mmi360.net/mmi-zip.js?cust=gm&agency=amnet&type=js&plat=CM360&mode=mon&advid=3876771&siteid=5071708&cmpnid=26958085&pcmtid=323460130&crtvid=169101735&rndnum=410408055&site=N8334.2382313DOUBLECLICKBIDMANAG&adid=528113925&aucid=ABAjH0j7KNouGoi_DGHPrh2F0_AB&exch=10&sellid=18388889270 line 1 > eval line 1 > eval, line 22: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://717786-tags.mmi360.net/mmi-zip.js?cust=gm&agency=amnet&type=js&plat=CM360&mode=mon&advid=3876771&siteid=5071708&cmpnid=26958085&pcmtid=323460130&crtvid=168832738&rndnum=1339962413&site=N8334.2382313DOUBLECLICKBIDMANAG&adid=528113925&aucid=ABAjH0gn6VK74IfV1DY7IogzQyNM&exch=2&sellid=18388889270 line 1 > eval line 1 > eval, line 22: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 4982 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 1128 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.mlbstatic.com/mlb.com/adobe-analytics/target/2.3.0/at.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/mlbheader874053601219/moatheader.js, line 219: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.mlb.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.mlb.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.mlb.com"
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.36.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript warning: https://www.mlbstatic.com/mlb.com/adobe-analytics/target/2.3.0/at.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.mlb.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.mlb.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.mlb.com"
+JavaScript warning: https://z.moatads.com/mlbheader874053601219/moatheader.js, line 219: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 822 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1655425925603	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=, line 1: SyntaxError: illegal character U+0001
+1655425925650	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1655425926012	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 5798 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1655425976143	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://717786-tags.mmi360.net/mmi-zip.js?cust=gm&agency=amnet&type=js&plat=CM360&mode=mon&advid=3876771&siteid=5071708&cmpnid=26958085&pcmtid=323460130&crtvid=168738026&rndnum=4146810298&site=N8334.2382313DOUBLECLICKBIDMANAG&adid=528113925&aucid=ABAjH0i4LkNCmb12PfKnsyAYpjHY&exch=10&sellid=18388889270 line 1 > eval line 1 > eval, line 22: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 796 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://s0.2mdn.net/3876771/1648489547850/script.js, line 30: TypeError: document.getElementById(...) is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 2595 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 6416 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 4673 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 7170 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 6886 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 121 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 6661 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 3667 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pix.adrta.com/cdnf.js?v=22.90, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 1622 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://717786-tags.mmi360.net/mmi-zip.js?cust=gm&agency=amnet&type=js&plat=CM360&mode=mon&advid=3876771&siteid=5071708&cmpnid=27436570&pcmtid=331536295&crtvid=168958024&rndnum=345038659&site=N8334.2382313DOUBLECLICKBIDMANAG&adid=525555526&aucid=ABAjH0i6_fKUaXwC6A-xWS9Lu18Z&exch=2&sellid=18388889270 line 1 > eval line 1 > eval, line 22: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 4058 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1655426184139	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1655426199707	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1655426200225	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://www.mlbstatic.com/mlb.com/adobe-analytics/target/2.3.0/at.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.mlbstatic.com/mlb.com/adobe-analytics/target/2.3.0/at.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.mlb.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.mlb.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.mlb.com"
+JavaScript warning: https://z.moatads.com/mlbheader874053601219/moatheader.js, line 219: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 3873 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1655426257148	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=, line 1: SyntaxError: illegal character U+0001
+1655426257168	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 4644 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 1928 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 3158 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 6376 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 5531 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 3173 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 4657 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 6858 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1655426351202	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=, line 1: SyntaxError: illegal character U+0001
+1655426352308	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 7127 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 3492 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1655426367891	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://www.mlbstatic.com/mlb.com/adobe-analytics/target/2.3.0/at.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.mlb.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.mlb.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.mlb.com"
+JavaScript warning: https://z.moatads.com/mlbheader874053601219/moatheader.js, line 219: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.mlbstatic.com/mlb.com/adobe-analytics/target/2.3.0/at.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/mlbheader874053601219/moatheader.js, line 219: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.mlb.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.mlb.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.mlb.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 3760 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://717786-tags.mmi360.net/mmi-zip.js?cust=gm&agency=amnet&type=js&plat=CM360&mode=mon&advid=3876771&siteid=5071708&cmpnid=26958085&pcmtid=323460130&crtvid=168832738&rndnum=3254361572&site=N8334.2382313DOUBLECLICKBIDMANAG&adid=528113925&aucid=ABAjH0g_F2H0G2KOhem2kqtGV8-j&exch=2&sellid=18388889270 line 1 > eval line 1 > eval, line 22: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 5368 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 684 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1655426423372	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=, line 1: SyntaxError: illegal character U+0001
+1655426423973	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 7187 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://717786-tags.mmi360.net/mmi-zip.js?cust=gm&agency=amnet&type=js&plat=CM360&mode=mon&advid=3876771&siteid=5071708&cmpnid=26894324&pcmtid=322516508&crtvid=159858584&rndnum=4061548930&site=N8334.2382313DOUBLECLICKBIDMANAG&adid=527353905&aucid=ABAjH0hb8G2iIrCaLpoTa6V-oTa5&exch=6&sellid=18388889270 line 1 > eval line 1 > eval, line 22: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 3596 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 442 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://717786-tags.mmi360.net/mmi-zip.js?cust=gm&agency=amnet&type=js&plat=CM360&mode=mon&advid=3876771&siteid=5071708&cmpnid=26958085&pcmtid=323460130&crtvid=168738026&rndnum=1278791835&site=N8334.2382313DOUBLECLICKBIDMANAG&adid=528113925&aucid=ABAjH0ijTKgztCpcty1CuMh2MiyH&exch=2&sellid=18388889270 line 1 > eval line 1 > eval, line 22: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 1777 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 7359 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1655426492269	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=, line 1: SyntaxError: illegal character U+0001
+1655426493245	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 6429 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://717786-tags.mmi360.net/mmi-zip.js?cust=gm&agency=amnet&type=js&plat=CM360&mode=mon&advid=3876771&siteid=5071708&cmpnid=26958085&pcmtid=323460130&crtvid=169101735&rndnum=1890908503&site=N8334.2382313DOUBLECLICKBIDMANAG&adid=528113925&aucid=ABAjH0h3IdKvTLDOc6AutpMpoR87&exch=10&sellid=18388889270 line 1 > eval line 1 > eval, line 22: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 3931 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 4237 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1655426537474	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=, line 1: SyntaxError: illegal character U+0001
+1655426538513	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 7358 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1655426560743	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=, line 1: SyntaxError: illegal character U+0001
+1655426561884	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1655426588828	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=, line 1: SyntaxError: illegal character U+0001
+1655426590038	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 1983 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1655426607035	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=, line 1: SyntaxError: illegal character U+0001
+1655426608124	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 6068 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 5612 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1655426640100	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://www.mlbstatic.com/mlb.com/adobe-analytics/target/2.3.0/at.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.mlbstatic.com/mlb.com/adobe-analytics/target/2.3.0/at.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/mlbheader874053601219/moatheader.js, line 219: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.mlb.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.mlb.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.mlb.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 5089 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 5287 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 2192 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 5621 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 483 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 170 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 2409 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pix.adrta.com/cdnf.js?v=22.90, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 1258 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 418 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 6751 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 5861 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 1937 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 6485 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 1547 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1655426831734	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1655426832128	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://www.mlbstatic.com/mlb.com/adobe-analytics/target/2.3.0/at.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.mlbstatic.com/mlb.com/adobe-analytics/target/2.3.0/at.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/mlbheader874053601219/moatheader.js, line 219: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.mlb.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.mlb.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.mlb.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 5821 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 5238 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 3468 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 7144 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 3768 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 6286 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1655426929893	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=, line 1: SyntaxError: illegal character U+0001
+1655426929938	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 3255 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 4306 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 4349 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 5604 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 5164 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1655427001600	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=, line 1: SyntaxError: illegal character U+0001
+1655427001691	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1655427001780	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1655427002216	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://www.mlbstatic.com/mlb.com/adobe-analytics/target/2.3.0/at.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.mlbstatic.com/mlb.com/adobe-analytics/target/2.3.0/at.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/mlbheader874053601219/moatheader.js, line 219: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.mlb.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.mlb.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.mlb.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 5994 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1655427035479	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1655427035770	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=, line 1: SyntaxError: illegal character U+0001
+1655427035877	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1655427056485	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=, line 1: SyntaxError: illegal character U+0001
+1655427057035	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+JavaScript warning: https://717786-tags.mmi360.net/mmi-zip.js?cust=gm&agency=amnet&type=js&plat=CM360&mode=mon&advid=3876771&siteid=5071708&cmpnid=26894324&pcmtid=322529010&crtvid=168530772&rndnum=2823341492&site=N8334.2382313DOUBLECLICKBIDMANAG&adid=527659987&aucid=ABAjH0ijjDr81CJO0t10hMc0YXZQ&exch=96&sellid=18388889270 line 1 > eval line 1 > eval, line 22: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 7612 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 2284 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1655427077566	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=, line 1: SyntaxError: illegal character U+0001
+1655427078318	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 6632 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 2772 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1655427100536	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://pix.adrta.com/cdnf.js?v=22.90, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 1403 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 6778 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 7244 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1655427144216	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=, line 1: SyntaxError: illegal character U+0001
+1655427145139	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1655427145192	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 2634 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 1869 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 6062 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1655427202176	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1655427253521	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=, line 1: SyntaxError: illegal character U+0001
+1655427255831	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1655427284587	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1655427300724	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1655427318304	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=, line 1: SyntaxError: illegal character U+0001
+1655427318379	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1655427319589	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 6570 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4d97hOvYbNPTRads-oYzVyXo1KzAmhlYxcafsBn6tZM.js line 2 > eval line 4951 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1655427334552	Marionette	INFO	Stopped listening on port 58953
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Parent 22332, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167

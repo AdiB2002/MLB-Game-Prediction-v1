@@ -1,0 +1,2431 @@
+Week,Home_Team,Away_Team,Result,Date,Home_Team_Win,Home_Team_Loss,Away_Team_Win,Away_Team_Loss
+1,Cubs,Brewers,1,Apr 7,25,41,38,30
+1,Royals,Guardians,1,Apr 7,23,42,34,28
+1,Cardinals,Pirates,1,Apr 7,38,30,26,39
+1,Nationals,Mets,0,Apr 7,24,46,44,24
+1,Braves,Reds,0,Apr 7,38,29,23,43
+1,Angels,Astros,0,Apr 7,33,36,41,25
+1,Diamondbacks,Padres,1,Apr 7,32,36,41,27
+1,Yankees,Red Sox,1,Apr 8,49,17,36,31
+1,Tigers,White Sox,1,Apr 8,26,40,31,33
+1,Phillies,Athletics,1,Apr 8,36,32,23,45
+1,Rays,Orioles,1,Apr 8,36,30,30,38
+1,Rockies,Dodgers,0,Apr 8,30,37,40,25
+1,Twins,Mariners,0,Apr 8,38,30,29,39
+1,Giants,Marlins,1,Apr 8,37,28,29,35
+1,Nationals,Mets,0,Apr 8,24,46,44,24
+1,Blue Jays,Rangers,1,Apr 8,38,28,31,35
+1,Braves,Reds,1,Apr 8,38,29,23,43
+1,Angels,Astros,0,Apr 8,33,36,41,25
+1,Diamondbacks,Padres,0,Apr 8,32,36,41,27
+1,Rays,Orioles,1,Apr 9,36,30,30,38
+1,Tigers,White Sox,0,Apr 9,26,40,31,33
+1,Twins,Mariners,0,Apr 9,38,30,29,39
+1,Cardinals,Pirates,1,Apr 9,38,30,26,39
+1,Cubs,Brewers,1,Apr 9,25,41,38,30
+1,Blue Jays,Rangers,1,Apr 9,38,28,31,35
+1,Phillies,Athletics,1,Apr 9,36,32,23,45
+1,Giants,Marlins,0,Apr 9,37,28,29,35
+1,Yankees,Red Sox,1,Apr 9,49,17,36,31
+1,Royals,Guardians,1,Apr 9,23,42,34,28
+1,Nationals,Mets,0,Apr 9,24,46,44,24
+1,Braves,Reds,1,Apr 9,38,29,23,43
+1,Rockies,Dodgers,1,Apr 9,30,37,40,25
+1,Diamondbacks,Padres,0,Apr 9,32,36,41,27
+1,Angels,Astros,1,Apr 9,33,36,41,25
+1,Phillies,Athletics,0,Apr 10,36,32,23,45
+1,Tigers,White Sox,0,Apr 10,26,40,31,33
+1,Rays,Orioles,1,Apr 10,36,30,30,38
+1,Nationals,Mets,1,Apr 10,24,46,44,24
+1,Braves,Reds,0,Apr 10,38,29,23,43
+1,Blue Jays,Rangers,0,Apr 10,38,28,31,35
+1,Royals,Guardians,0,Apr 10,23,42,34,28
+1,Twins,Mariners,1,Apr 10,38,30,29,39
+1,Cardinals,Pirates,0,Apr 10,38,30,26,39
+1,Cubs,Brewers,0,Apr 10,25,41,38,30
+1,Rockies,Dodgers,1,Apr 10,30,37,40,25
+1,Giants,Marlins,1,Apr 10,37,28,29,35
+1,Angels,Astros,0,Apr 10,33,36,41,25
+1,Diamondbacks,Padres,0,Apr 10,32,36,41,27
+1,Yankees,Red Sox,0,Apr 10,49,17,36,31
+2,Royals,Guardians,0,Apr 11,23,42,34,28
+2,Orioles,Brewers,1,Apr 11,30,38,38,30
+2,Rangers,Rockies,0,Apr 11,31,35,30,37
+2,Tigers,Red Sox,1,Apr 11,26,40,36,31
+2,Rays,Athletics,0,Apr 11,36,30,23,45
+2,Phillies,Mets,1,Apr 11,36,32,44,24
+2,Yankees,Blue Jays,0,Apr 11,49,17,38,28
+2,Braves,Nationals,0,Apr 11,38,29,24,46
+2,Twins,Mariners,1,Apr 11,38,30,29,39
+2,Angels,Marlins,1,Apr 11,33,36,29,35
+2,Giants,Padres,0,Apr 11,37,28,41,27
+2,Tigers,Red Sox,0,Apr 12,26,40,36,31
+2,Reds,Guardians,0,Apr 12,23,43,34,28
+2,White Sox,Mariners,1,Apr 12,31,33,29,39
+2,Pirates,Cubs,0,Apr 12,26,39,25,41
+2,Rays,Athletics,1,Apr 12,36,30,23,45
+2,Phillies,Mets,0,Apr 12,36,32,44,24
+2,Yankees,Blue Jays,1,Apr 12,49,17,38,28
+2,Orioles,Brewers,0,Apr 12,30,38,38,30
+2,Angels,Marlins,1,Apr 12,33,36,29,35
+2,Braves,Nationals,1,Apr 12,38,29,24,46
+2,Twins,Dodgers,0,Apr 12,38,30,40,25
+2,Cardinals,Royals,1,Apr 12,38,30,23,42
+2,Rangers,Rockies,0,Apr 12,31,35,30,37
+2,Diamondbacks,Astros,0,Apr 12,32,36,41,25
+2,Giants,Padres,1,Apr 12,37,28,41,27
+2,Braves,Nationals,0,Apr 13,38,29,24,46
+2,Reds,Guardians,0,Apr 13,23,43,34,28
+2,Pirates,Cubs,1,Apr 13,26,39,25,41
+2,Phillies,Mets,0,Apr 13,36,32,44,24
+2,Tigers,Red Sox,0,Apr 13,26,40,36,31
+2,Twins,Dodgers,0,Apr 13,38,30,40,25
+2,Diamondbacks,Astros,1,Apr 13,32,36,41,25
+2,Giants,Padres,1,Apr 13,37,28,41,27
+2,Rays,Athletics,0,Apr 13,36,30,23,45
+2,Yankees,Blue Jays,0,Apr 13,49,17,38,28
+2,Orioles,Brewers,0,Apr 13,30,38,38,30
+2,White Sox,Mariners,1,Apr 13,31,33,29,39
+2,Rays,Athletics,0,Apr 14,36,30,23,45
+2,White Sox,Mariners,0,Apr 14,31,33,29,39
+2,Brewers,Cardinals,1,Apr 14,38,30,38,30
+2,Pirates,Nationals,1,Apr 14,26,39,24,46
+2,Marlins,Phillies,1,Apr 14,29,35,36,32
+2,Yankees,Blue Jays,1,Apr 14,49,17,38,28
+2,Rangers,Angels,1,Apr 14,31,35,33,36
+2,Royals,Tigers,0,Apr 14,23,42,26,40
+2,Padres,Braves,1,Apr 14,41,27,38,29
+2,Rockies,Cubs,0,Apr 14,30,37,25,41
+2,Dodgers,Reds,1,Apr 14,40,25,23,43
+2,Mets,Diamondbacks,1,Apr 15,44,24,32,36
+2,Red Sox,Twins,0,Apr 15,36,31,38,30
+2,Pirates,Nationals,0,Apr 15,26,39,24,46
+2,Marlins,Phillies,1,Apr 15,29,35,36,32
+2,Orioles,Yankees,1,Apr 15,30,38,49,17
+2,Blue Jays,Athletics,1,Apr 15,38,28,23,45
+2,Guardians,Giants,0,Apr 15,34,28,37,28
+2,White Sox,Rays,1,Apr 15,31,33,36,30
+2,Rangers,Angels,0,Apr 15,31,35,33,36
+2,Royals,Tigers,0,Apr 15,23,42,26,40
+2,Brewers,Cardinals,0,Apr 15,38,30,38,30
+2,Rockies,Cubs,1,Apr 15,30,37,25,41
+2,Padres,Braves,0,Apr 15,41,27,38,29
+2,Mariners,Astros,1,Apr 15,29,39,41,25
+2,Dodgers,Reds,1,Apr 15,40,25,23,43
+2,Mets,Diamondbacks,0,Apr 16,44,24,32,36
+2,White Sox,Rays,1,Apr 16,31,33,36,30
+2,Blue Jays,Athletics,0,Apr 16,38,28,23,45
+2,Padres,Braves,0,Apr 16,41,27,38,29
+2,Royals,Tigers,1,Apr 16,23,42,26,40
+2,Red Sox,Twins,1,Apr 16,36,31,38,30
+2,Guardians,Giants,0,Apr 16,34,28,37,28
+2,Marlins,Phillies,0,Apr 16,29,35,36,32
+2,Pirates,Nationals,1,Apr 16,26,39,24,46
+2,Rangers,Angels,0,Apr 16,31,35,33,36
+2,Orioles,Yankees,0,Apr 16,30,38,49,17
+2,Brewers,Cardinals,0,Apr 16,38,30,38,30
+2,Rockies,Cubs,1,Apr 16,30,37,25,41
+2,Mariners,Astros,0,Apr 16,29,39,41,25
+2,Dodgers,Reds,1,Apr 16,40,25,23,43
+2,Orioles,Yankees,1,Apr 17,30,38,49,17
+2,Red Sox,Twins,1,Apr 17,36,31,38,30
+2,Pirates,Nationals,1,Apr 17,26,39,24,46
+2,Blue Jays,Athletics,1,Apr 17,38,28,23,45
+2,Mets,Diamondbacks,1,Apr 17,44,24,32,36
+2,Guardians,Giants,0,Apr 17,34,28,37,28
+2,Marlins,Phillies,1,Apr 17,29,35,36,32
+2,White Sox,Rays,0,Apr 17,31,33,36,30
+2,Brewers,Cardinals,1,Apr 17,38,30,38,30
+2,Rangers,Angels,0,Apr 17,31,35,33,36
+2,Rockies,Cubs,0,Apr 17,30,37,25,41
+2,Dodgers,Reds,1,Apr 17,40,25,23,43
+2,Mariners,Astros,1,Apr 17,29,39,41,25
+2,Padres,Braves,1,Apr 17,41,27,38,29
+3,Red Sox,Twins,0,Apr 18,36,31,38,30
+3,Cubs,Rays,1,Apr 18,25,41,36,30
+3,Brewers,Pirates,1,Apr 18,38,30,26,39
+3,Astros,Angels,1,Apr 18,41,25,33,36
+3,Rockies,Phillies,1,Apr 18,30,37,36,32
+3,Padres,Reds,1,Apr 18,41,27,23,43
+3,Athletics,Orioles,1,Apr 18,23,45,30,38
+3,Dodgers,Braves,1,Apr 18,40,25,38,29
+3,Nationals,Diamondbacks,1,Apr 19,24,46,32,36
+3,Mets,Giants,1,Apr 19,44,24,37,28
+3,Marlins,Cardinals,0,Apr 19,29,35,38,30
+3,Tigers,Yankees,0,Apr 19,26,40,49,17
+3,Nationals,Diamondbacks,1,Apr 19,24,46,32,36
+3,Mets,Giants,1,Apr 19,44,24,37,28
+3,Red Sox,Blue Jays,1,Apr 19,36,31,38,28
+3,Cubs,Rays,0,Apr 19,25,41,36,30
+3,Brewers,Pirates,1,Apr 19,38,30,26,39
+3,Royals,Twins,1,Apr 19,23,42,38,30
+3,Astros,Angels,0,Apr 19,41,25,33,36
+3,Rockies,Phillies,1,Apr 19,30,37,36,32
+3,Mariners,Rangers,1,Apr 19,29,39,31,35
+3,Padres,Reds,1,Apr 19,41,27,23,43
+3,Athletics,Orioles,1,Apr 19,23,45,30,38
+3,Dodgers,Braves,0,Apr 19,40,25,38,29
+3,Brewers,Pirates,1,Apr 20,38,30,26,39
+3,Guardians,White Sox,1,Apr 20,34,28,31,33
+3,Rockies,Phillies,0,Apr 20,30,37,36,32
+3,Dodgers,Braves,1,Apr 20,40,25,38,29
+3,Padres,Reds,1,Apr 20,41,27,23,43
+3,Athletics,Orioles,0,Apr 20,23,45,30,38
+3,Guardians,White Sox,1,Apr 20,34,28,31,33
+3,Astros,Angels,0,Apr 20,41,25,33,36
+3,Marlins,Cardinals,0,Apr 20,29,35,38,30
+3,Tigers,Yankees,0,Apr 20,26,40,49,17
+3,Nationals,Diamondbacks,0,Apr 20,24,46,32,36
+3,Mets,Giants,0,Apr 20,44,24,37,28
+3,Red Sox,Blue Jays,0,Apr 20,36,31,38,28
+3,Cubs,Rays,0,Apr 20,25,41,36,30
+3,Royals,Twins,1,Apr 20,23,42,38,30
+3,Mariners,Rangers,1,Apr 20,29,39,31,35
+3,Mets,Giants,1,Apr 21,44,24,37,28
+3,Guardians,White Sox,1,Apr 21,34,28,31,33
+3,Tigers,Yankees,1,Apr 21,26,40,49,17
+3,Red Sox,Blue Jays,0,Apr 21,36,31,38,28
+3,Royals,Twins,0,Apr 21,23,42,38,30
+3,Athletics,Orioles,1,Apr 21,23,45,30,38
+3,Nationals,Diamondbacks,0,Apr 21,24,46,32,36
+3,Marlins,Cardinals,1,Apr 21,29,35,38,30
+3,Cubs,Pirates,0,Apr 21,25,41,26,39
+3,Mariners,Rangers,0,Apr 21,29,39,31,35
+3,Cubs,Pirates,0,Apr 22,25,41,26,39
+3,Reds,Cardinals,0,Apr 22,23,43,38,30
+3,Nationals,Giants,0,Apr 22,24,46,37,28
+3,Yankees,Guardians,1,Apr 22,49,17,34,28
+3,Phillies,Brewers,1,Apr 22,36,32,38,30
+3,Rays,Red Sox,0,Apr 22,36,30,36,31
+3,Braves,Marlins,1,Apr 22,38,29,29,35
+3,Astros,Blue Jays,0,Apr 22,41,25,38,28
+3,Twins,White Sox,1,Apr 22,38,30,31,33
+3,Angels,Orioles,0,Apr 22,33,36,30,38
+3,Athletics,Rangers,0,Apr 22,23,45,31,35
+3,Diamondbacks,Mets,0,Apr 22,32,36,44,24
+3,Padres,Dodgers,0,Apr 22,41,27,40,25
+3,Mariners,Royals,1,Apr 22,29,39,23,42
+3,Yankees,Guardians,1,Apr 23,49,17,34,28
+3,Nationals,Giants,0,Apr 23,24,46,37,28
+3,Tigers,Rockies,1,Apr 23,26,40,30,37
+3,Cubs,Pirates,1,Apr 23,25,41,26,39
+3,Twins,White Sox,1,Apr 23,38,30,31,33
+3,Phillies,Brewers,0,Apr 23,36,32,38,30
+3,Athletics,Rangers,0,Apr 23,23,45,31,35
+3,Reds,Cardinals,0,Apr 23,23,43,38,30
+3,Astros,Blue Jays,0,Apr 23,41,25,38,28
+3,Rays,Red Sox,1,Apr 23,36,30,36,31
+3,Tigers,Rockies,0,Apr 23,26,40,30,37
+3,Braves,Marlins,0,Apr 23,38,29,29,35
+3,Diamondbacks,Mets,1,Apr 23,32,36,44,24
+3,Padres,Dodgers,1,Apr 23,41,27,40,25
+3,Angels,Orioles,0,Apr 23,33,36,30,38
+3,Mariners,Royals,1,Apr 23,29,39,23,42
+3,Rays,Red Sox,1,Apr 24,36,30,36,31
+3,Tigers,Rockies,0,Apr 24,26,40,30,37
+3,Nationals,Giants,0,Apr 24,24,46,37,28
+3,Braves,Marlins,0,Apr 24,38,29,29,35
+3,Yankees,Guardians,1,Apr 24,49,17,34,28
+3,Reds,Cardinals,1,Apr 24,23,43,38,30
+3,Astros,Blue Jays,1,Apr 24,41,25,38,28
+3,Twins,White Sox,1,Apr 24,38,30,31,33
+3,Cubs,Pirates,0,Apr 24,25,41,26,39
+3,Athletics,Rangers,1,Apr 24,23,45,31,35
+3,Angels,Orioles,1,Apr 24,33,36,30,38
+3,Diamondbacks,Mets,0,Apr 24,32,36,44,24
+3,Padres,Dodgers,0,Apr 24,41,27,40,25
+3,Mariners,Royals,1,Apr 24,29,39,23,42
+3,Phillies,Brewers,0,Apr 24,36,32,38,30
+4,Brewers,Giants,0,Apr 25,38,30,37,28
+4,Phillies,Rockies,1,Apr 25,36,32,30,37
+4,Blue Jays,Red Sox,1,Apr 25,38,28,36,31
+4,Cardinals,Mets,0,Apr 25,38,30,44,24
+4,Rangers,Astros,1,Apr 25,31,35,41,25
+4,Angels,Guardians,1,Apr 25,33,36,34,28
+4,Diamondbacks,Dodgers,0,Apr 25,32,36,40,25
+4,Pirates,Brewers,0,Apr 26,26,39,38,30
+4,Reds,Padres,0,Apr 26,23,43,41,27
+4,Rays,Mariners,0,Apr 26,36,30,29,39
+4,Phillies,Rockies,1,Apr 26,36,32,30,37
+4,Nationals,Marlins,0,Apr 26,24,46,29,35
+4,Yankees,Orioles,1,Apr 26,49,17,30,38
+4,Blue Jays,Red Sox,1,Apr 26,38,28,36,31
+4,White Sox,Royals,0,Apr 26,31,33,23,42
+4,Braves,Cubs,1,Apr 26,38,29,25,41
+4,Twins,Tigers,1,Apr 26,38,30,26,40
+4,Cardinals,Mets,0,Apr 26,38,30,44,24
+4,Rangers,Astros,0,Apr 26,31,35,41,25
+4,Angels,Guardians,1,Apr 26,33,36,34,28
+4,Diamondbacks,Dodgers,1,Apr 26,32,36,40,25
+4,Giants,Athletics,1,Apr 26,37,28,23,45
+4,Cardinals,Mets,1,Apr 27,38,30,44,24
+4,White Sox,Royals,1,Apr 27,31,33,23,42
+4,Diamondbacks,Dodgers,1,Apr 27,32,36,40,25
+4,Pirates,Brewers,0,Apr 27,26,39,38,30
+4,Reds,Padres,0,Apr 27,23,43,41,27
+4,Rays,Mariners,1,Apr 27,36,30,29,39
+4,Phillies,Rockies,1,Apr 27,36,32,30,37
+4,Yankees,Orioles,1,Apr 27,49,17,30,38
+4,Nationals,Marlins,0,Apr 27,24,46,29,35
+4,Blue Jays,Red Sox,0,Apr 27,38,28,36,31
+4,Braves,Cubs,0,Apr 27,38,29,25,41
+4,Twins,Tigers,1,Apr 27,38,30,26,40
+4,Rangers,Astros,0,Apr 27,31,35,41,25
+4,Angels,Guardians,1,Apr 27,33,36,34,28
+4,Giants,Athletics,0,Apr 27,37,28,23,45
+4,Pirates,Brewers,0,Apr 28,26,39,38,30
+4,Reds,Padres,0,Apr 28,23,43,41,27
+4,Yankees,Orioles,1,Apr 28,49,17,30,38
+4,Phillies,Rockies,1,Apr 28,36,32,30,37
+4,Nationals,Marlins,0,Apr 28,24,46,29,35
+4,Rays,Mariners,1,Apr 28,36,30,29,39
+4,Twins,Tigers,1,Apr 28,38,30,26,40
+4,Rangers,Astros,0,Apr 28,31,35,41,25
+4,White Sox,Royals,0,Apr 28,31,33,23,42
+4,Blue Jays,Red Sox,1,Apr 28,38,28,36,31
+4,Angels,Guardians,1,Apr 28,33,36,34,28
+4,Braves,Cubs,1,Apr 28,38,29,25,41
+4,Cardinals,Diamondbacks,1,Apr 28,38,30,32,36
+4,Pirates,Padres,0,Apr 29,26,39,41,27
+4,Marlins,Mariners,1,Apr 29,29,35,29,39
+4,Orioles,Red Sox,0,Apr 29,30,38,36,31
+4,Blue Jays,Astros,0,Apr 29,38,28,41,25
+4,Rays,Twins,1,Apr 29,36,30,38,30
+4,Mets,Phillies,1,Apr 29,44,24,36,32
+4,White Sox,Angels,0,Apr 29,31,33,33,36
+4,Rangers,Braves,0,Apr 29,31,35,38,29
+4,Brewers,Cubs,1,Apr 29,38,30,25,41
+4,Royals,Yankees,0,Apr 29,23,42,49,17
+4,Cardinals,Diamondbacks,0,Apr 29,38,30,32,36
+4,Rockies,Reds,1,Apr 29,30,37,23,43
+4,Athletics,Guardians,0,Apr 29,23,45,34,28
+4,Dodgers,Tigers,1,Apr 29,40,25,26,40
+4,Giants,Nationals,0,Apr 29,37,28,24,46
+4,Cardinals,Diamondbacks,0,Apr 30,38,30,32,36
+4,Blue Jays,Astros,1,Apr 30,38,28,41,25
+4,White Sox,Angels,1,Apr 30,31,33,33,36
+4,Giants,Nationals,1,Apr 30,37,28,24,46
+4,Athletics,Guardians,0,Apr 30,23,45,34,28
+4,Rays,Twins,0,Apr 30,36,30,38,30
+4,Marlins,Mariners,1,Apr 30,29,35,29,39
+4,Pirates,Padres,1,Apr 30,26,39,41,27
+4,Orioles,Red Sox,1,Apr 30,30,38,36,31
+4,Rangers,Braves,1,Apr 30,31,35,38,29
+4,Mets,Phillies,0,Apr 30,44,24,36,32
+4,Royals,Yankees,0,Apr 30,23,42,49,17
+4,Brewers,Cubs,1,Apr 30,38,30,25,41
+4,Rockies,Reds,1,Apr 30,30,37,23,43
+4,Dodgers,Tigers,0,Apr 30,40,25,26,40
+4,Orioles,Red Sox,1,May 1,30,38,36,31
+4,Rays,Twins,0,May 1,36,30,38,30
+4,Pirates,Padres,0,May 1,26,39,41,27
+4,Blue Jays,Astros,1,May 1,38,28,41,25
+4,Marlins,Mariners,0,May 1,29,35,29,39
+4,Royals,Yankees,0,May 1,23,42,49,17
+4,Brewers,Cubs,0,May 1,38,30,25,41
+4,White Sox,Angels,0,May 1,31,33,33,36
+4,Cardinals,Diamondbacks,1,May 1,38,30,32,36
+4,Rangers,Braves,1,May 1,31,35,38,29
+4,Rockies,Reds,1,May 1,30,37,23,43
+4,Giants,Nationals,0,May 1,37,28,24,46
+4,Athletics,Guardians,0,May 1,23,45,34,28
+4,Dodgers,Tigers,1,May 1,40,25,26,40
+4,Mets,Phillies,1,May 1,44,24,36,32
+5,Cardinals,Royals,1,May 2,38,30,23,42
+5,White Sox,Angels,1,May 2,31,33,33,36
+5,Marlins,Diamondbacks,0,May 2,29,35,32,36
+5,Orioles,Twins,0,May 2,30,38,38,30
+5,Blue Jays,Yankees,0,May 2,38,28,49,17
+5,Mets,Braves,0,May 2,44,24,38,29
+5,Astros,Mariners,1,May 2,41,25,29,39
+5,Athletics,Rays,0,May 2,23,45,36,30
+5,Mets,Braves,1,May 3,44,24,38,29
+5,Mets,Braves,1,May 3,44,24,38,29
+5,Marlins,Diamondbacks,0,May 3,29,35,32,36
+5,Phillies,Rangers,0,May 3,36,32,31,35
+5,Orioles,Twins,0,May 3,30,38,38,30
+5,Blue Jays,Yankees,0,May 3,38,28,49,17
+5,Red Sox,Angels,1,May 3,36,31,33,36
+5,Cubs,White Sox,0,May 3,25,41,31,33
+5,Brewers,Reds,1,May 3,38,30,23,43
+5,Astros,Mariners,1,May 3,41,25,29,39
+5,Royals,Cardinals,1,May 3,23,42,38,30
+5,Rockies,Nationals,0,May 3,30,37,24,46
+5,Athletics,Rays,0,May 3,23,45,36,30
+5,Dodgers,Giants,1,May 3,40,25,37,28
+5,Marlins,Diamondbacks,0,May 4,29,35,32,36
+5,Guardians,Padres,1,May 4,34,28,41,27
+5,Tigers,Pirates,0,May 4,26,40,26,39
+5,Tigers,Pirates,1,May 4,26,40,26,39
+5,Guardians,Padres,0,May 4,34,28,41,27
+5,Mets,Braves,0,May 4,44,24,38,29
+5,Royals,Cardinals,0,May 4,23,42,38,30
+5,Astros,Mariners,1,May 4,41,25,29,39
+5,Athletics,Rays,0,May 4,23,45,36,30
+5,Phillies,Rangers,0,May 4,36,32,31,35
+5,Orioles,Twins,1,May 4,30,38,38,30
+5,Blue Jays,Yankees,1,May 4,38,28,49,17
+5,Red Sox,Angels,0,May 4,36,31,33,36
+5,Brewers,Reds,1,May 4,38,30,23,43
+5,Cubs,White Sox,0,May 4,25,41,31,33
+5,Rockies,Nationals,1,May 4,30,37,24,46
+5,Dodgers,Giants,1,May 4,40,25,37,28
+5,Red Sox,Angels,0,May 5,36,31,33,36
+5,Brewers,Reds,1,May 5,38,30,23,43
+5,Rockies,Nationals,1,May 5,30,37,24,46
+5,Guardians,Blue Jays,1,May 5,34,28,38,28
+5,Phillies,Mets,0,May 5,36,32,44,24
+5,Orioles,Twins,1,May 5,30,38,38,30
+5,Astros,Tigers,1,May 5,41,25,26,40
+5,Mariners,Rays,0,May 5,29,39,36,30
+5,Padres,Marlins,1,May 5,41,27,29,35
+5,Giants,Cardinals,0,May 5,37,28,38,30
+5,Red Sox,White Sox,0,May 6,36,31,31,33
+5,Braves,Brewers,0,May 6,38,29,38,30
+5,Astros,Tigers,1,May 6,41,25,26,40
+5,Twins,Athletics,1,May 6,38,30,23,45
+5,Angels,Nationals,1,May 6,33,36,24,46
+5,Padres,Marlins,1,May 6,41,27,29,35
+5,Diamondbacks,Rockies,1,May 6,32,36,30,37
+5,Mariners,Rays,0,May 6,29,39,36,30
+5,Giants,Cardinals,0,May 6,37,28,38,30
+5,Reds,Pirates,1,May 7,23,43,26,39
+5,Cubs,Dodgers,0,May 7,25,41,40,25
+5,Guardians,Blue Jays,1,May 7,34,28,38,28
+5,Twins,Athletics,1,May 7,38,30,23,45
+5,Astros,Tigers,1,May 7,41,25,26,40
+5,Red Sox,White Sox,0,May 7,36,31,31,33
+5,Guardians,Blue Jays,0,May 7,34,28,38,28
+5,Reds,Pirates,0,May 7,23,43,26,39
+5,Giants,Cardinals,1,May 7,37,28,38,30
+5,Braves,Brewers,1,May 7,38,29,38,30
+5,Cubs,Dodgers,0,May 7,25,41,40,25
+5,Diamondbacks,Rockies,0,May 7,32,36,30,37
+5,Padres,Marlins,0,May 7,41,27,29,35
+5,Angels,Nationals,0,May 7,33,36,24,46
+5,Mariners,Rays,0,May 7,29,39,36,30
+5,Red Sox,White Sox,0,May 8,36,31,31,33
+5,Phillies,Mets,0,May 8,36,32,44,24
+5,Phillies,Mets,1,May 8,36,32,44,24
+5,Yankees,Rangers,0,May 8,49,17,31,35
+5,Orioles,Royals,1,May 8,30,38,23,42
+5,Yankees,Rangers,1,May 8,49,17,31,35
+5,Braves,Brewers,1,May 8,38,29,38,30
+5,Orioles,Royals,0,May 8,30,38,23,42
+5,Guardians,Blue Jays,1,May 8,34,28,38,28
+5,Reds,Pirates,1,May 8,23,43,26,39
+5,Twins,Athletics,1,May 8,38,30,23,45
+5,Astros,Tigers,1,May 8,41,25,26,40
+5,Giants,Cardinals,1,May 8,37,28,38,30
+5,Angels,Nationals,1,May 8,33,36,24,46
+5,Diamondbacks,Rockies,1,May 8,32,36,30,37
+5,Mariners,Rays,1,May 8,29,39,36,30
+5,Padres,Marlins,1,May 8,41,27,29,35
+5,Cubs,Dodgers,0,May 8,25,41,40,25
+6,Orioles,Royals,1,May 9,30,38,23,42
+6,Yankees,Rangers,1,May 9,49,17,31,35
+6,Pirates,Dodgers,1,May 9,26,39,40,25
+6,Reds,Brewers,1,May 9,23,43,38,30
+6,Tigers,Athletics,0,May 9,26,40,23,45
+6,White Sox,Guardians,0,May 9,31,33,34,28
+6,Angels,Rays,1,May 9,33,36,36,30
+6,Mariners,Phillies,0,May 9,29,39,36,32
+6,Padres,Cubs,0,May 9,41,27,25,41
+6,Diamondbacks,Marlins,1,May 9,32,36,29,35
+6,Giants,Rockies,1,May 9,37,28,30,37
+6,Tigers,Athletics,0,May 10,26,40,23,45
+6,Tigers,Athletics,1,May 10,26,40,23,45
+6,Pirates,Dodgers,0,May 10,26,39,40,25
+6,Reds,Brewers,0,May 10,23,43,38,30
+6,Nationals,Mets,0,May 10,24,46,44,24
+6,Yankees,Blue Jays,1,May 10,49,17,38,28
+6,Braves,Red Sox,0,May 10,38,29,36,31
+6,Twins,Astros,0,May 10,38,30,41,25
+6,Cardinals,Orioles,0,May 10,38,30,30,38
+6,Rangers,Royals,1,May 10,31,35,23,42
+6,White Sox,Guardians,1,May 10,31,33,34,28
+6,Angels,Rays,1,May 10,33,36,36,30
+6,Mariners,Phillies,1,May 10,29,39,36,32
+6,Diamondbacks,Marlins,1,May 10,32,36,29,35
+6,Padres,Cubs,1,May 10,41,27,25,41
+6,Giants,Rockies,1,May 10,37,28,30,37
+6,Pirates,Dodgers,1,May 11,26,39,40,25
+6,Yankees,Blue Jays,1,May 11,49,17,38,28
+6,Reds,Brewers,1,May 11,23,43,38,30
+6,Diamondbacks,Marlins,0,May 11,32,36,29,35
+6,Mariners,Phillies,0,May 11,29,39,36,32
+6,Giants,Rockies,1,May 11,37,28,30,37
+6,Padres,Cubs,0,May 11,41,27,25,41
+6,Nationals,Mets,1,May 11,24,46,44,24
+6,Angels,Rays,0,May 11,33,36,36,30
+6,Tigers,Athletics,0,May 11,26,40,23,45
+6,Braves,Red Sox,1,May 11,38,29,36,31
+6,Cardinals,Orioles,1,May 11,38,30,30,38
+6,Rangers,Royals,0,May 11,31,35,23,42
+6,Nationals,Mets,0,May 12,24,46,44,24
+6,Twins,Astros,0,May 12,38,30,41,25
+6,Twins,Astros,0,May 12,38,30,41,25
+6,Tigers,Athletics,0,May 12,26,40,23,45
+6,Cardinals,Orioles,0,May 12,38,30,30,38
+6,Pirates,Reds,0,May 12,26,39,23,43
+6,Rangers,Royals,1,May 12,31,35,23,42
+6,White Sox,Yankees,0,May 12,31,33,49,17
+6,Dodgers,Phillies,0,May 12,40,25,36,32
+6,Pirates,Reds,0,May 13,26,39,23,43
+6,Marlins,Brewers,0,May 13,29,35,38,30
+6,Nationals,Astros,0,May 13,24,46,41,25
+6,Tigers,Orioles,1,May 13,26,40,30,38
+6,Mets,Mariners,0,May 13,44,24,29,39
+6,Rays,Blue Jays,1,May 13,36,30,38,28
+6,Braves,Padres,0,May 13,38,29,41,27
+6,Rangers,Red Sox,0,May 13,31,35,36,31
+6,Twins,Guardians,1,May 13,38,30,34,28
+6,White Sox,Yankees,0,May 13,31,33,49,17
+6,Cardinals,Giants,0,May 13,38,30,37,28
+6,Rockies,Royals,0,May 13,30,37,23,42
+6,Athletics,Angels,0,May 13,23,45,33,36
+6,Diamondbacks,Cubs,1,May 13,32,36,25,41
+6,Dodgers,Phillies,0,May 13,40,25,36,32
+6,Cardinals,Giants,1,May 14,38,30,37,28
+6,Braves,Padres,1,May 14,38,29,41,27
+6,Athletics,Angels,1,May 14,23,45,33,36
+6,Tigers,Orioles,1,May 14,26,40,30,38
+6,Marlins,Brewers,1,May 14,29,35,38,30
+6,Rays,Blue Jays,0,May 14,36,30,38,28
+6,Pirates,Reds,1,May 14,26,39,23,43
+6,Rangers,Red Sox,0,May 14,31,35,36,31
+6,Nationals,Astros,1,May 14,24,46,41,25
+6,Mets,Mariners,1,May 14,44,24,29,39
+6,Twins,Guardians,0,May 14,38,30,34,28
+6,White Sox,Yankees,1,May 14,31,33,49,17
+6,Diamondbacks,Cubs,0,May 14,32,36,25,41
+6,Rockies,Royals,1,May 14,30,37,23,42
+6,Athletics,Angels,0,May 14,23,45,33,36
+6,Dodgers,Phillies,0,May 14,40,25,36,32
+6,Braves,Padres,0,May 15,38,29,41,27
+6,Nationals,Astros,0,May 15,24,46,41,25
+6,Pirates,Reds,1,May 15,26,39,23,43
+6,Marlins,Brewers,0,May 15,29,35,38,30
+6,Tigers,Orioles,1,May 15,26,40,30,38
+6,Mets,Mariners,0,May 15,44,24,29,39
+6,Rays,Blue Jays,1,May 15,36,30,38,28
+6,Twins,Guardians,1,May 15,38,30,34,28
+6,White Sox,Yankees,0,May 15,31,33,49,17
+6,Rangers,Red Sox,1,May 15,31,35,36,31
+6,Rockies,Royals,0,May 15,30,37,23,42
+6,Athletics,Angels,0,May 15,23,45,33,36
+6,Diamondbacks,Cubs,0,May 15,32,36,25,41
+6,Dodgers,Phillies,1,May 15,40,25,36,32
+6,Cardinals,Giants,1,May 15,38,30,37,28
+7,Rays,Tigers,0,May 16,36,30,26,40
+7,Marlins,Nationals,1,May 16,29,35,24,46
+7,Orioles,Yankees,0,May 16,30,38,49,17
+7,Blue Jays,Mariners,1,May 16,38,28,29,39
+7,Red Sox,Astros,1,May 16,36,31,41,25
+7,Brewers,Braves,1,May 16,38,30,38,29
+7,Cubs,Pirates,1,May 16,25,41,26,39
+7,Rangers,Angels,1,May 16,31,35,33,36
+7,Royals,White Sox,0,May 16,23,42,31,33
+7,Rockies,Giants,0,May 16,30,37,37,28
+7,Athletics,Twins,0,May 16,23,45,38,30
+7,Dodgers,Diamondbacks,1,May 16,40,25,32,36
+7,Royals,White Sox,0,May 17,23,42,31,33
+7,Mets,Cardinals,0,May 17,44,24,38,30
+7,Dodgers,Diamondbacks,1,May 17,40,25,32,36
+7,Guardians,Reds,0,May 17,34,28,23,43
+7,Rays,Tigers,1,May 17,36,30,26,40
+7,Marlins,Nationals,1,May 17,29,35,24,46
+7,Phillies,Padres,0,May 17,36,32,41,27
+7,Orioles,Yankees,0,May 17,30,38,49,17
+7,Blue Jays,Mariners,1,May 17,38,28,29,39
+7,Royals,White Sox,1,May 17,23,42,31,33
+7,Mets,Cardinals,1,May 17,44,24,38,30
+7,Red Sox,Astros,0,May 17,36,31,41,25
+7,Cubs,Pirates,1,May 17,25,41,26,39
+7,Brewers,Braves,0,May 17,38,30,38,29
+7,Rangers,Angels,1,May 17,31,35,33,36
+7,Rockies,Giants,0,May 17,30,37,37,28
+7,Athletics,Twins,1,May 17,23,45,38,30
+7,Dodgers,Diamondbacks,1,May 17,40,25,32,36
+7,Rays,Tigers,1,May 18,36,30,26,40
+7,Brewers,Braves,1,May 18,38,30,38,29
+7,Rockies,Giants,1,May 18,30,37,37,28
+7,Athletics,Twins,0,May 18,23,45,38,30
+7,Dodgers,Diamondbacks,1,May 18,40,25,32,36
+7,Red Sox,Astros,1,May 18,36,31,41,25
+7,Marlins,Nationals,0,May 18,29,35,24,46
+7,Phillies,Padres,1,May 18,36,32,41,27
+7,Orioles,Yankees,0,May 18,30,38,49,17
+7,Blue Jays,Mariners,0,May 18,38,28,29,39
+7,Mets,Cardinals,1,May 18,44,24,38,30
+7,Cubs,Pirates,0,May 18,25,41,26,39
+7,Rangers,Angels,1,May 18,31,35,33,36
+7,Royals,White Sox,1,May 18,23,42,31,33
+7,Orioles,Yankees,1,May 19,30,38,49,17
+7,Phillies,Padres,0,May 19,36,32,41,27
+7,Guardians,Reds,0,May 19,34,28,23,43
+7,Mets,Cardinals,1,May 19,44,24,38,30
+7,Royals,White Sox,0,May 19,23,42,31,33
+7,Red Sox,Mariners,1,May 19,36,31,29,39
+7,Cubs,Diamondbacks,0,May 19,25,41,32,36
+7,Astros,Rangers,1,May 19,41,25,31,35
+7,Cubs,Diamondbacks,0,May 20,25,41,32,36
+7,Pirates,Cardinals,0,May 20,26,39,38,30
+7,Marlins,Braves,0,May 20,29,35,38,29
+7,Orioles,Rays,1,May 20,30,38,36,30
+7,Phillies,Dodgers,0,May 20,36,32,40,25
+7,Blue Jays,Reds,1,May 20,38,28,23,43
+7,Red Sox,Mariners,1,May 20,36,31,29,39
+7,Guardians,Tigers,1,May 20,34,28,26,40
+7,Astros,Rangers,0,May 20,41,25,31,35
+7,Royals,Twins,0,May 20,23,42,38,30
+7,Brewers,Nationals,1,May 20,38,30,24,46
+7,Angels,Athletics,0,May 20,33,36,23,45
+7,Giants,Padres,0,May 20,37,28,41,27
+7,Yankees,White Sox,1,May 21,49,17,31,33
+7,Cubs,Diamondbacks,0,May 21,25,41,32,36
+7,Blue Jays,Reds,1,May 21,38,28,23,43
+7,Rockies,Mets,0,May 21,30,37,44,24
+7,Giants,Padres,0,May 21,37,28,41,27
+7,Red Sox,Mariners,1,May 21,36,31,29,39
+7,Phillies,Dodgers,0,May 21,36,32,40,25
+7,Marlins,Braves,0,May 21,29,35,38,29
+7,Pirates,Cardinals,0,May 21,26,39,38,30
+7,Orioles,Rays,0,May 21,30,38,36,30
+7,Astros,Rangers,1,May 21,41,25,31,35
+7,Royals,Twins,0,May 21,23,42,38,30
+7,Brewers,Nationals,1,May 21,38,30,24,46
+7,Rockies,Mets,1,May 21,30,37,44,24
+7,Angels,Athletics,1,May 21,33,36,23,45
+7,Pirates,Cardinals,0,May 22,26,39,38,30
+7,Red Sox,Mariners,1,May 22,36,31,29,39
+7,Orioles,Rays,1,May 22,30,38,36,30
+7,Phillies,Dodgers,1,May 22,36,32,40,25
+7,Blue Jays,Reds,0,May 22,38,28,23,43
+7,Marlins,Braves,1,May 22,29,35,38,29
+7,Guardians,Tigers,0,May 22,34,28,26,40
+7,Astros,Rangers,1,May 22,41,25,31,35
+7,Brewers,Nationals,0,May 22,38,30,24,46
+7,Royals,Twins,0,May 22,23,42,38,30
+7,Cubs,Diamondbacks,1,May 22,25,41,32,36
+7,Yankees,White Sox,0,May 22,49,17,31,33
+7,Rockies,Mets,0,May 22,30,37,44,24
+7,Giants,Padres,0,May 22,37,28,41,27
+7,Angels,Athletics,1,May 22,33,36,23,45
+7,Yankees,White Sox,0,May 22,49,17,31,33
+8,Pirates,Rockies,1,May 23,26,39,30,37
+8,Reds,Cubs,0,May 23,23,43,25,41
+8,Nationals,Dodgers,0,May 23,24,46,40,25
+8,Yankees,Orioles,0,May 23,49,17,30,38
+8,Braves,Phillies,0,May 23,38,29,36,32
+8,Twins,Tigers,1,May 23,38,30,26,40
+8,Cardinals,Blue Jays,1,May 23,38,30,38,28
+8,Astros,Guardians,0,May 23,41,25,34,28
+8,Diamondbacks,Royals,1,May 23,32,36,23,42
+8,Mariners,Athletics,1,May 23,29,39,23,45
+8,Padres,Brewers,1,May 23,41,27,38,30
+8,Giants,Mets,0,May 23,37,28,44,24
+8,Pirates,Rockies,0,May 24,26,39,30,37
+8,Reds,Cubs,0,May 24,23,43,25,41
+8,Rays,Marlins,1,May 24,36,30,29,35
+8,Yankees,Orioles,1,May 24,49,17,30,38
+8,Nationals,Dodgers,0,May 24,24,46,40,25
+8,Braves,Phillies,1,May 24,38,29,36,32
+8,Twins,Tigers,1,May 24,38,30,26,40
+8,Cardinals,Blue Jays,0,May 24,38,30,38,28
+8,Astros,Guardians,1,May 24,41,25,34,28
+8,White Sox,Red Sox,0,May 24,31,33,36,31
+8,Angels,Rangers,1,May 24,33,36,31,35
+8,Padres,Brewers,0,May 24,41,27,38,30
+8,Mariners,Athletics,0,May 24,29,39,23,45
+8,Diamondbacks,Royals,1,May 24,32,36,23,42
+8,Giants,Mets,1,May 24,37,28,44,24
+8,Pirates,Rockies,1,May 25,26,39,30,37
+8,Twins,Tigers,0,May 25,38,30,26,40
+8,Giants,Mets,1,May 25,37,28,44,24
+8,Nationals,Dodgers,1,May 25,24,46,40,25
+8,Mariners,Athletics,0,May 25,29,39,23,45
+8,Padres,Brewers,0,May 25,41,27,38,30
+8,Rays,Marlins,1,May 25,36,30,29,35
+8,Reds,Cubs,1,May 25,23,43,25,41
+8,Yankees,Orioles,1,May 25,49,17,30,38
+8,Braves,Phillies,1,May 25,38,29,36,32
+8,White Sox,Red Sox,1,May 25,31,33,36,31
+8,Astros,Guardians,1,May 25,41,25,34,28
+8,Angels,Rangers,0,May 25,33,36,31,35
+8,Reds,Cubs,1,May 26,23,43,25,41
+8,Rays,Yankees,0,May 26,36,30,49,17
+8,Nationals,Rockies,1,May 26,24,46,30,37
+8,Tigers,Guardians,1,May 26,26,40,34,28
+8,Braves,Phillies,0,May 26,38,29,36,32
+8,Twins,Royals,0,May 26,38,30,23,42
+8,Cardinals,Brewers,0,May 26,38,30,38,30
+8,White Sox,Red Sox,0,May 26,31,33,36,31
+8,Angels,Blue Jays,0,May 26,33,36,38,28
+8,Diamondbacks,Dodgers,0,May 26,32,36,40,25
+8,Athletics,Rangers,0,May 26,23,45,31,35
+8,Reds,Giants,1,May 27,23,43,37,28
+8,Red Sox,Orioles,0,May 27,36,31,30,38
+8,Mets,Phillies,1,May 27,44,24,36,32
+8,Rays,Yankees,0,May 27,36,30,49,17
+8,Braves,Marlins,1,May 27,38,29,29,35
+8,Twins,Royals,1,May 27,38,30,23,42
+8,Cardinals,Brewers,1,May 27,38,30,38,30
+8,Angels,Blue Jays,0,May 27,33,36,38,28
+8,Padres,Pirates,1,May 27,41,27,26,39
+8,Athletics,Rangers,0,May 27,23,45,31,35
+8,Mariners,Astros,1,May 27,29,39,41,25
+8,Diamondbacks,Dodgers,0,May 27,32,36,40,25
+8,Nationals,Rockies,1,May 28,24,46,30,37
+8,Red Sox,Orioles,1,May 28,36,31,30,38
+8,Twins,Royals,0,May 28,38,30,23,42
+8,Cardinals,Brewers,1,May 28,38,30,38,30
+8,Athletics,Rangers,0,May 28,23,45,31,35
+8,Rays,Yankees,1,May 28,36,30,49,17
+8,Braves,Marlins,0,May 28,38,29,29,35
+8,Tigers,Guardians,0,May 28,26,40,34,28
+8,Reds,Giants,1,May 28,23,43,37,28
+8,Nationals,Rockies,0,May 28,24,46,30,37
+8,Red Sox,Orioles,0,May 28,36,31,30,38
+8,White Sox,Cubs,0,May 28,31,33,25,41
+8,Diamondbacks,Dodgers,0,May 28,32,36,40,25
+8,Mets,Phillies,1,May 28,44,24,36,32
+8,Angels,Blue Jays,0,May 28,33,36,38,28
+8,Mariners,Astros,1,May 28,29,39,41,25
+8,Padres,Pirates,0,May 28,41,27,26,39
+8,Reds,Giants,0,May 29,23,43,37,28
+8,Nationals,Rockies,1,May 29,24,46,30,37
+8,Braves,Marlins,1,May 29,38,29,29,35
+8,Red Sox,Orioles,1,May 29,36,31,30,38
+8,Rays,Yankees,1,May 29,36,30,49,17
+8,Tigers,Guardians,1,May 29,26,40,34,28
+8,White Sox,Cubs,1,May 29,31,33,25,41
+8,Twins,Royals,1,May 29,38,30,23,42
+8,Cardinals,Brewers,0,May 29,38,30,38,30
+8,Athletics,Rangers,1,May 29,23,45,31,35
+8,Angels,Blue Jays,0,May 29,33,36,38,28
+8,Mariners,Astros,0,May 29,29,39,41,25
+8,Diamondbacks,Dodgers,0,May 29,32,36,40,25
+8,Padres,Pirates,1,May 29,41,27,26,39
+8,Mets,Phillies,1,May 29,44,24,36,32
+9,Cubs,Brewers,0,May 30,25,41,38,30
+9,Tigers,Twins,1,May 30,26,40,38,30
+9,Cardinals,Padres,1,May 30,38,30,41,27
+9,Phillies,Giants,0,May 30,36,32,37,28
+9,Athletics,Astros,0,May 30,23,45,41,25
+9,Rockies,Marlins,1,May 30,30,37,29,35
+9,Guardians,Royals,1,May 30,34,28,23,42
+9,Red Sox,Orioles,0,May 30,36,31,30,38
+9,Mets,Nationals,1,May 30,44,24,24,46
+9,Cubs,Brewers,0,May 30,25,41,38,30
+9,Rangers,Rays,1,May 30,31,35,36,30
+9,Diamondbacks,Braves,1,May 30,32,36,38,29
+9,Dodgers,Pirates,0,May 30,40,25,26,39
+9,Tigers,Twins,0,May 31,26,40,38,30
+9,Guardians,Royals,1,May 31,34,28,23,42
+9,Phillies,Giants,0,May 31,36,32,37,28
+9,Orioles,Mariners,0,May 31,30,38,29,39
+9,Yankees,Angels,1,May 31,49,17,33,36
+9,Blue Jays,White Sox,1,May 31,38,28,31,33
+9,Red Sox,Reds,0,May 31,36,31,23,43
+9,Mets,Nationals,1,May 31,44,24,24,46
+9,Tigers,Twins,1,May 31,26,40,38,30
+9,Cardinals,Padres,1,May 31,38,30,41,27
+9,Rangers,Rays,1,May 31,31,35,36,30
+9,Cubs,Brewers,1,May 31,25,41,38,30
+9,Athletics,Astros,0,May 31,23,45,41,25
+9,Diamondbacks,Braves,1,May 31,32,36,38,29
+9,Dodgers,Pirates,0,May 31,40,25,26,39
+9,Mets,Nationals,1,Jun 1,44,24,24,46
+9,Guardians,Royals,1,Jun 1,34,28,23,42
+9,Cardinals,Padres,1,Jun 1,38,30,41,27
+9,Rockies,Marlins,1,Jun 1,30,37,29,35
+9,Rockies,Marlins,0,Jun 1,30,37,29,35
+9,Athletics,Astros,0,Jun 1,23,45,41,25
+9,Diamondbacks,Braves,0,Jun 1,32,36,38,29
+9,Phillies,Giants,1,Jun 1,36,32,37,28
+9,Orioles,Mariners,1,Jun 1,30,38,29,39
+9,Blue Jays,White Sox,1,Jun 1,38,28,31,33
+9,Tigers,Twins,1,Jun 1,26,40,38,30
+9,Red Sox,Reds,1,Jun 1,36,31,23,43
+9,Cubs,Brewers,1,Jun 1,25,41,38,30
+9,Rangers,Rays,0,Jun 1,31,35,36,30
+9,Dodgers,Pirates,0,Jun 1,40,25,26,39
+9,Yankees,Angels,1,Jun 2,49,17,33,36
+9,Tigers,Twins,1,Jun 2,26,40,38,30
+9,Rangers,Rays,0,Jun 2,31,35,36,30
+9,Blue Jays,White Sox,1,Jun 2,38,28,31,33
+9,Reds,Nationals,1,Jun 2,23,43,24,46
+9,Marlins,Giants,1,Jun 2,29,35,37,28
+9,Yankees,Angels,1,Jun 2,49,17,33,36
+9,Orioles,Mariners,0,Jun 2,30,38,29,39
+9,Brewers,Padres,1,Jun 2,38,30,41,27
+9,Cubs,Cardinals,1,Jun 2,25,41,38,30
+9,Rockies,Braves,0,Jun 2,30,37,38,29
+9,Dodgers,Mets,1,Jun 2,40,25,44,24
+9,Cubs,Cardinals,0,Jun 3,25,41,38,30
+9,Reds,Nationals,0,Jun 3,23,43,24,46
+9,Marlins,Giants,0,Jun 3,29,35,37,28
+9,Pirates,Diamondbacks,0,Jun 3,26,39,32,36
+9,Phillies,Angels,1,Jun 3,36,32,33,36
+9,Orioles,Guardians,0,Jun 3,30,38,34,28
+9,Yankees,Tigers,1,Jun 3,49,17,26,40
+9,Blue Jays,Twins,0,Jun 3,38,28,38,30
+9,Rays,White Sox,1,Jun 3,36,30,31,33
+9,Rangers,Mariners,0,Jun 3,31,35,29,39
+9,Royals,Astros,0,Jun 3,23,42,41,25
+9,Brewers,Padres,0,Jun 3,38,30,41,27
+9,Rockies,Braves,0,Jun 3,30,37,38,29
+9,Athletics,Red Sox,0,Jun 3,23,45,36,31
+9,Dodgers,Mets,1,Jun 3,40,25,44,24
+9,Yankees,Tigers,1,Jun 4,49,17,26,40
+9,Cubs,Cardinals,1,Jun 4,25,41,38,30
+9,Blue Jays,Twins,1,Jun 4,38,28,38,30
+9,Orioles,Guardians,1,Jun 4,30,38,34,28
+9,Pirates,Diamondbacks,1,Jun 4,26,39,32,36
+9,Rangers,Mariners,1,Jun 4,31,35,29,39
+9,Athletics,Red Sox,0,Jun 4,23,45,36,31
+9,Royals,Astros,1,Jun 4,23,42,41,25
+9,Brewers,Padres,0,Jun 4,38,30,41,27
+9,Reds,Nationals,0,Jun 4,23,43,24,46
+9,Rays,White Sox,0,Jun 4,36,30,31,33
+9,Marlins,Giants,1,Jun 4,29,35,37,28
+9,Cubs,Cardinals,0,Jun 4,25,41,38,30
+9,Phillies,Angels,1,Jun 4,36,32,33,36
+9,Rockies,Braves,0,Jun 4,30,37,38,29
+9,Dodgers,Mets,0,Jun 4,40,25,44,24
+9,Yankees,Tigers,1,Jun 5,49,17,26,40
+9,Phillies,Angels,1,Jun 5,36,32,33,36
+9,Orioles,Guardians,0,Jun 5,30,38,34,28
+9,Pirates,Diamondbacks,1,Jun 5,26,39,32,36
+9,Blue Jays,Twins,0,Jun 5,38,28,38,30
+9,Reds,Nationals,0,Jun 5,23,43,24,46
+9,Rays,White Sox,0,Jun 5,36,30,31,33
+9,Marlins,Giants,0,Jun 5,29,35,37,28
+9,Brewers,Padres,0,Jun 5,38,30,41,27
+9,Royals,Astros,0,Jun 5,23,42,41,25
+9,Rangers,Mariners,0,Jun 5,31,35,29,39
+9,Rockies,Braves,0,Jun 5,30,37,38,29
+9,Athletics,Red Sox,0,Jun 5,23,45,36,31
+9,Dodgers,Mets,0,Jun 5,40,25,44,24
+9,Cubs,Cardinals,0,Jun 5,25,41,38,30
+10,Reds,Diamondbacks,1,Jun 6,23,43,32,36
+10,Astros,Mariners,0,Jun 6,41,25,29,39
+10,Royals,Blue Jays,0,Jun 6,23,42,38,28
+10,Angels,Red Sox,0,Jun 6,33,36,36,31
+10,Padres,Mets,0,Jun 6,41,27,44,24
+10,Guardians,Rangers,0,Jun 7,34,28,31,35
+10,Reds,Diamondbacks,1,Jun 7,23,43,32,36
+10,Marlins,Nationals,1,Jun 7,29,35,24,46
+10,Pirates,Tigers,0,Jun 7,26,39,26,40
+10,Orioles,Cubs,1,Jun 7,30,38,25,41
+10,Guardians,Rangers,1,Jun 7,34,28,31,35
+10,Rays,Cardinals,1,Jun 7,36,30,38,30
+10,Braves,Athletics,1,Jun 7,38,29,23,45
+10,Twins,Yankees,0,Jun 7,38,30,49,17
+10,White Sox,Dodgers,1,Jun 7,31,33,40,25
+10,Brewers,Phillies,0,Jun 7,38,30,36,32
+10,Astros,Mariners,1,Jun 7,41,25,29,39
+10,Royals,Blue Jays,0,Jun 7,23,42,38,28
+10,Angels,Red Sox,0,Jun 7,33,36,36,31
+10,Padres,Mets,1,Jun 7,41,27,44,24
+10,Giants,Rockies,0,Jun 7,37,28,30,37
+10,Pirates,Tigers,0,Jun 8,26,39,26,40
+10,Royals,Blue Jays,1,Jun 8,23,42,38,28
+10,Astros,Mariners,0,Jun 8,41,25,29,39
+10,Marlins,Nationals,1,Jun 8,29,35,24,46
+10,Reds,Diamondbacks,0,Jun 8,23,43,32,36
+10,Rays,Cardinals,1,Jun 8,36,30,38,30
+10,Guardians,Rangers,1,Jun 8,34,28,31,35
+10,Braves,Athletics,1,Jun 8,38,29,23,45
+10,Twins,Yankees,1,Jun 8,38,30,49,17
+10,White Sox,Dodgers,0,Jun 8,31,33,40,25
+10,Brewers,Phillies,0,Jun 8,38,30,36,32
+10,Angels,Red Sox,0,Jun 8,33,36,36,31
+10,Padres,Mets,1,Jun 8,41,27,44,24
+10,Giants,Rockies,1,Jun 8,37,28,30,37
+10,Reds,Diamondbacks,0,Jun 9,23,43,32,36
+10,Rays,Cardinals,1,Jun 9,36,30,38,30
+10,White Sox,Dodgers,0,Jun 9,31,33,40,25
+10,Brewers,Phillies,0,Jun 9,38,30,36,32
+10,Giants,Rockies,0,Jun 9,37,28,30,37
+10,Marlins,Nationals,1,Jun 9,29,35,24,46
+10,Guardians,Athletics,1,Jun 9,34,28,23,45
+10,Braves,Pirates,1,Jun 9,38,29,26,39
+10,Twins,Yankees,0,Jun 9,38,30,49,17
+10,Royals,Orioles,1,Jun 9,23,42,30,38
+10,Angels,Red Sox,1,Jun 9,33,36,36,31
+10,Phillies,Diamondbacks,1,Jun 10,36,32,32,36
+10,Yankees,Cubs,1,Jun 10,49,17,25,41
+10,Nationals,Brewers,1,Jun 10,24,46,38,30
+10,Tigers,Blue Jays,0,Jun 10,26,40,38,28
+10,Guardians,Athletics,1,Jun 10,34,28,23,45
+10,Braves,Pirates,1,Jun 10,38,29,26,39
+10,Astros,Marlins,0,Jun 10,41,25,29,35
+10,White Sox,Rangers,1,Jun 10,31,33,31,35
+10,Royals,Orioles,1,Jun 10,23,42,30,38
+10,Twins,Rays,1,Jun 10,38,30,36,30
+10,Cardinals,Reds,1,Jun 10,38,30,23,43
+10,Angels,Mets,0,Jun 10,33,36,44,24
+10,Padres,Rockies,1,Jun 10,41,27,30,37
+10,Mariners,Red Sox,0,Jun 10,29,39,36,31
+10,Giants,Dodgers,1,Jun 10,37,28,40,25
+10,White Sox,Rangers,0,Jun 11,31,33,31,35
+10,Twins,Rays,1,Jun 11,38,30,36,30
+10,Cardinals,Reds,1,Jun 11,38,30,23,43
+10,Phillies,Diamondbacks,1,Jun 11,36,32,32,36
+10,Nationals,Brewers,1,Jun 11,24,46,38,30
+10,Padres,Rockies,1,Jun 11,41,27,30,37
+10,Braves,Pirates,1,Jun 11,38,29,26,39
+10,Tigers,Blue Jays,1,Jun 11,26,40,38,28
+10,Astros,Marlins,0,Jun 11,41,25,29,35
+10,Royals,Orioles,0,Jun 11,23,42,30,38
+10,Guardians,Athletics,0,Jun 11,34,28,23,45
+10,Yankees,Cubs,1,Jun 11,49,17,25,41
+10,Giants,Dodgers,1,Jun 11,37,28,40,25
+10,Angels,Mets,1,Jun 11,33,36,44,24
+10,Padres,Rockies,0,Jun 11,41,27,30,37
+10,Mariners,Red Sox,1,Jun 11,29,39,36,31
+10,Guardians,Athletics,1,Jun 12,34,28,23,45
+10,Braves,Pirates,1,Jun 12,38,29,26,39
+10,Yankees,Cubs,1,Jun 12,49,17,25,41
+10,Phillies,Diamondbacks,0,Jun 12,36,32,32,36
+10,Nationals,Brewers,0,Jun 12,24,46,38,30
+10,Tigers,Blue Jays,0,Jun 12,26,40,38,28
+10,Royals,Orioles,0,Jun 12,23,42,30,38
+10,Twins,Rays,0,Jun 12,38,30,36,30
+10,White Sox,Rangers,0,Jun 12,31,33,31,35
+10,Astros,Marlins,1,Jun 12,41,25,29,35
+10,Cardinals,Reds,0,Jun 12,38,30,23,43
+10,Giants,Dodgers,1,Jun 12,37,28,40,25
+10,Padres,Rockies,0,Jun 12,41,27,30,37
+10,Mariners,Red Sox,0,Jun 12,29,39,36,31
+10,Angels,Mets,0,Jun 12,33,36,44,24
+11,Phillies,Marlins,1,Jun 13,36,32,29,35
+11,Nationals,Braves,0,Jun 13,24,46,38,29
+11,Blue Jays,Orioles,1,Jun 13,38,28,30,38
+11,Tigers,White Sox,0,Jun 13,26,40,31,33
+11,Cardinals,Pirates,1,Jun 13,38,30,26,39
+11,Rangers,Astros,1,Jun 13,31,35,41,25
+11,Cubs,Padres,0,Jun 13,25,41,41,27
+11,Diamondbacks,Reds,0,Jun 13,32,36,23,43
+11,Giants,Royals,1,Jun 13,37,28,23,42
+11,Mariners,Twins,0,Jun 13,29,39,38,30
+11,Cardinals,Pirates,1,Jun 14,38,30,26,39
+11,Yankees,Rays,1,Jun 14,49,17,36,30
+11,Nationals,Braves,0,Jun 14,24,46,38,29
+11,Phillies,Marlins,0,Jun 14,36,32,29,35
+11,Blue Jays,Orioles,0,Jun 14,38,28,30,38
+11,Mets,Brewers,1,Jun 14,44,24,38,30
+11,Tigers,White Sox,0,Jun 14,26,40,31,33
+11,Red Sox,Athletics,1,Jun 14,36,31,23,45
+11,Cardinals,Pirates,1,Jun 14,38,30,26,39
+11,Cubs,Padres,0,Jun 14,25,41,41,27
+11,Rangers,Astros,0,Jun 14,31,35,41,25
+11,Rockies,Guardians,0,Jun 14,30,37,34,28
+11,Diamondbacks,Reds,0,Jun 14,32,36,23,43
+11,Giants,Royals,1,Jun 14,37,28,23,42
+11,Mariners,Twins,1,Jun 14,29,39,38,30
+11,Dodgers,Angels,1,Jun 14,40,25,33,36
+11,Phillies,Marlins,1,Jun 15,36,32,29,35
+11,Tigers,White Sox,0,Jun 15,26,40,31,33
+11,Rangers,Astros,0,Jun 15,31,35,41,25
+11,Diamondbacks,Reds,1,Jun 15,32,36,23,43
+11,Giants,Royals,0,Jun 15,37,28,23,42
+11,Mariners,Twins,0,Jun 15,29,39,38,30
+11,Nationals,Braves,0,Jun 15,24,46,38,29
+11,Yankees,Rays,1,Jun 15,49,17,36,30
+11,Blue Jays,Orioles,1,Jun 15,38,28,30,38
+11,Mets,Brewers,0,Jun 15,44,24,38,30
+11,Red Sox,Athletics,1,Jun 15,36,31,23,45
+11,Cardinals,Pirates,0,Jun 15,38,30,26,39
+11,Cubs,Padres,0,Jun 15,25,41,41,27
+11,Rockies,Guardians,0,Jun 15,30,37,34,28
+11,Dodgers,Angels,1,Jun 15,40,25,33,36
+11,Red Sox,Athletics,0,Jun 16,36,31,23,45
+11,Cubs,Padres,0,Jun 16,25,41,41,27
+11,Blue Jays,Orioles,0,Jun 16,38,28,30,38
+11,Rockies,Guardians,0,Jun 16,30,37,34,28
+11,Yankees,Rays,1,Jun 16,49,17,36,30
+11,Nationals,Phillies,0,Jun 16,24,46,36,32
+11,Mets,Brewers,1,Jun 16,44,24,38,30
+11,Tigers,Rangers,0,Jun 16,26,40,31,35
+11,Mariners,Angels,0,Jun 16,29,39,33,36
+11,Nationals,Phillies,0,Jun 17,24,46,36,32
+11,Cubs,Braves,1,Jun 17,25,41,38,29
+11,Orioles,Rays,1,Jun 17,30,38,36,30
+11,Reds,Brewers,0,Jun 17,23,43,38,30
+11,Pirates,Giants,0,Jun 17,26,39,37,28
+11,Nationals,Phillies,0,Jun 17,24,46,36,32
+11,Blue Jays,Yankees,0,Jun 17,38,28,49,17
+11,Mets,Marlins,1,Jun 17,44,24,29,35
+11,Tigers,Rangers,0,Jun 17,26,40,31,35
+11,Red Sox,Cardinals,1,Jun 17,36,31,38,30
+11,Astros,White Sox,1,Jun 17,41,25,31,33
+11,Rockies,Padres,1,Jun 17,30,37,41,27
+11,Athletics,Royals,0,Jun 17,23,45,23,42
+11,Diamondbacks,Twins,1,Jun 17,32,36,38,30
+11,Dodgers,Guardians,0,Jun 17,40,25,34,28
+11,Mariners,Angels,1,Jun 17,29,39,33,36
+11,Cubs,Braves,1,Jun 18,25,41,38,29
+11,Blue Jays,Yankees,0,Jun 18,38,28,49,17
+11,Pirates,Giants,0,Jun 18,26,39,37,28
+11,Orioles,Rays,0,Jun 18,30,38,36,30
+11,Athletics,Royals,0,Jun 18,23,45,23,42
+11,Reds,Brewers,0,Jun 18,23,43,38,30
+11,Tigers,Rangers,1,Jun 18,26,40,31,35
+11,Mets,Marlins,1,Jun 18,44,24,29,35
+11,Astros,White Sox,0,Jun 18,41,25,31,33
+11,Mariners,Angels,0,Jun 18,29,39,33,36
+11,Nationals,Phillies,0,Jun 18,24,46,36,32
+11,Red Sox,Cardinals,0,Jun 18,36,31,38,30
+11,Dodgers,Guardians,1,Jun 18,40,25,34,28
+11,Rockies,Padres,1,Jun 18,30,37,41,27
+11,Mariners,Angels,0,Jun 18,29,39,33,36
+11,Diamondbacks,Twins,0,Jun 18,32,36,38,30
+11,Nationals,Phillies,1,Jun 19,24,46,36,32
+11,Red Sox,Cardinals,1,Jun 19,36,31,38,30
+11,Orioles,Rays,1,Jun 19,30,38,36,30
+11,Pirates,Giants,1,Jun 19,26,39,37,28
+11,Blue Jays,Yankees,1,Jun 19,38,28,49,17
+11,Tigers,Rangers,1,Jun 19,26,40,31,35
+11,Mets,Marlins,0,Jun 19,44,24,29,35
+11,Reds,Brewers,0,Jun 19,23,43,38,30
+11,Cubs,Braves,0,Jun 19,25,41,38,29
+11,Rockies,Padres,1,Jun 19,30,37,41,27
+11,Athletics,Royals,1,Jun 19,23,45,23,42
+11,Diamondbacks,Twins,1,Jun 19,32,36,38,30
+11,Mariners,Angels,0,Jun 19,29,39,33,36
+11,Dodgers,Guardians,0,Jun 19,40,25,34,28
+11,Astros,White Sox,1,Jun 19,41,25,31,33
+12,Mets,Marlins,No Result,Jun 20,44,24,29,35
+12,Pirates,Cubs,No Result,Jun 20,26,39,25,41
+12,Red Sox,Tigers,No Result,Jun 20,36,31,26,40
+12,Rays,Yankees,No Result,Jun 20,36,30,49,17
+12,Braves,Giants,No Result,Jun 20,38,29,37,28
+12,White Sox,Blue Jays,No Result,Jun 20,31,33,38,28
+12,Brewers,Cardinals,No Result,Jun 20,38,30,38,30
+12,Angels,Royals,No Result,Jun 20,33,36,23,42
+12,Padres,Diamondbacks,No Result,Jun 20,41,27,32,36
+12,Reds,Dodgers,No Result,Jun 21,23,43,40,25
+12,Marlins,Rockies,No Result,Jun 21,29,35,30,37
+12,Pirates,Cubs,No Result,Jun 21,26,39,25,41
+12,Orioles,Nationals,No Result,Jun 21,30,38,24,46
+12,Rays,Yankees,No Result,Jun 21,36,30,49,17
+12,Red Sox,Tigers,No Result,Jun 21,36,31,26,40
+12,Braves,Giants,No Result,Jun 21,38,29,37,28
+12,Twins,Guardians,No Result,Jun 21,38,30,34,28
+12,Rangers,Phillies,No Result,Jun 21,31,35,36,32
+12,Astros,Mets,No Result,Jun 21,41,25,44,24
+12,White Sox,Blue Jays,No Result,Jun 21,31,33,38,28
+12,Brewers,Cardinals,No Result,Jun 21,38,30,38,30
+12,Angels,Royals,No Result,Jun 21,33,36,23,42
+12,Padres,Diamondbacks,No Result,Jun 21,41,27,32,36
+12,Athletics,Mariners,No Result,Jun 21,23,45,29,39
+12,White Sox,Blue Jays,No Result,Jun 22,31,33,38,28
+12,Astros,Mets,No Result,Jun 22,41,25,44,24
+12,Rangers,Phillies,No Result,Jun 22,31,35,36,32
+12,Padres,Diamondbacks,No Result,Jun 22,41,27,32,36
+12,Reds,Dodgers,No Result,Jun 22,23,43,40,25
+12,Marlins,Rockies,No Result,Jun 22,29,35,30,37
+12,Pirates,Cubs,No Result,Jun 22,26,39,25,41
+12,Orioles,Nationals,No Result,Jun 22,30,38,24,46
+12,Red Sox,Tigers,No Result,Jun 22,36,31,26,40
+12,Rays,Yankees,No Result,Jun 22,36,30,49,17
+12,Braves,Giants,No Result,Jun 22,38,29,37,28
+12,Twins,Guardians,No Result,Jun 22,38,30,34,28
+12,Brewers,Cardinals,No Result,Jun 22,38,30,38,30
+12,Athletics,Mariners,No Result,Jun 22,23,45,29,39
+12,Angels,Royals,No Result,Jun 22,33,36,23,42
+12,Marlins,Rockies,No Result,Jun 23,29,35,30,37
+12,Braves,Giants,No Result,Jun 23,38,29,37,28
+12,Reds,Dodgers,No Result,Jun 23,23,43,40,25
+12,Pirates,Cubs,No Result,Jun 23,26,39,25,41
+12,Twins,Guardians,No Result,Jun 23,38,30,34,28
+12,Brewers,Cardinals,No Result,Jun 23,38,30,38,30
+12,Athletics,Mariners,No Result,Jun 23,23,45,29,39
+12,Yankees,Astros,No Result,Jun 23,49,17,41,25
+12,White Sox,Orioles,No Result,Jun 23,31,33,30,38
+12,Padres,Phillies,No Result,Jun 23,41,27,36,32
+12,Marlins,Mets,No Result,Jun 24,29,35,44,24
+12,Yankees,Astros,No Result,Jun 24,49,17,41,25
+12,Rays,Pirates,No Result,Jun 24,36,30,26,39
+12,Guardians,Red Sox,No Result,Jun 24,34,28,36,31
+12,Braves,Dodgers,No Result,Jun 24,38,29,40,25
+12,Rangers,Nationals,No Result,Jun 24,31,35,24,46
+12,White Sox,Orioles,No Result,Jun 24,31,33,30,38
+12,Brewers,Blue Jays,No Result,Jun 24,38,30,38,28
+12,Royals,Athletics,No Result,Jun 24,23,42,23,45
+12,Twins,Rockies,No Result,Jun 24,38,30,30,37
+12,Cardinals,Cubs,No Result,Jun 24,38,30,25,41
+12,Angels,Mariners,No Result,Jun 24,33,36,29,39
+12,Padres,Phillies,No Result,Jun 24,41,27,36,32
+12,Diamondbacks,Tigers,No Result,Jun 24,32,36,26,40
+12,Giants,Reds,No Result,Jun 24,37,28,23,43
+12,Yankees,Astros,No Result,Jun 25,49,17,41,25
+12,Rays,Pirates,No Result,Jun 25,36,30,26,39
+12,White Sox,Orioles,No Result,Jun 25,31,33,30,38
+12,Cardinals,Cubs,No Result,Jun 25,38,30,25,41
+12,Rangers,Nationals,No Result,Jun 25,31,35,24,46
+12,Marlins,Mets,No Result,Jun 25,29,35,44,24
+12,Brewers,Blue Jays,No Result,Jun 25,38,30,38,28
+12,Royals,Athletics,No Result,Jun 25,23,42,23,45
+12,Guardians,Red Sox,No Result,Jun 25,34,28,36,31
+12,Twins,Rockies,No Result,Jun 25,38,30,30,37
+12,Braves,Dodgers,No Result,Jun 25,38,29,40,25
+12,Giants,Reds,No Result,Jun 25,37,28,23,43
+12,Angels,Mariners,No Result,Jun 25,33,36,29,39
+12,Padres,Phillies,No Result,Jun 25,41,27,36,32
+12,Diamondbacks,Tigers,No Result,Jun 25,32,36,26,40
+12,Marlins,Mets,No Result,Jun 26,29,35,44,24
+12,Yankees,Astros,No Result,Jun 26,49,17,41,25
+12,Rays,Pirates,No Result,Jun 26,36,30,26,39
+12,Guardians,Red Sox,No Result,Jun 26,34,28,36,31
+12,Royals,Athletics,No Result,Jun 26,23,42,23,45
+12,Twins,Rockies,No Result,Jun 26,38,30,30,37
+12,White Sox,Orioles,No Result,Jun 26,31,33,30,38
+12,Brewers,Blue Jays,No Result,Jun 26,38,30,38,28
+12,Cardinals,Cubs,No Result,Jun 26,38,30,25,41
+12,Rangers,Nationals,No Result,Jun 26,31,35,24,46
+12,Giants,Reds,No Result,Jun 26,37,28,23,43
+12,Angels,Mariners,No Result,Jun 26,33,36,29,39
+12,Padres,Phillies,No Result,Jun 26,41,27,36,32
+12,Diamondbacks,Tigers,No Result,Jun 26,32,36,26,40
+12,Braves,Dodgers,No Result,Jun 26,38,29,40,25
+13,Nationals,Pirates,No Result,Jun 27,24,46,26,39
+13,Yankees,Athletics,No Result,Jun 27,49,17,23,45
+13,Blue Jays,Red Sox,No Result,Jun 27,38,28,36,31
+13,Guardians,Twins,No Result,Jun 27,34,28,38,30
+13,Cardinals,Marlins,No Result,Jun 27,38,30,29,35
+13,Royals,Rangers,No Result,Jun 27,23,42,31,35
+13,Rockies,Dodgers,No Result,Jun 27,30,37,40,25
+13,Angels,White Sox,No Result,Jun 27,33,36,31,33
+13,Mariners,Orioles,No Result,Jun 27,29,39,30,38
+13,Guardians,Twins,No Result,Jun 28,34,28,38,30
+13,Nationals,Pirates,No Result,Jun 28,24,46,26,39
+13,Phillies,Braves,No Result,Jun 28,36,32,38,29
+13,Yankees,Athletics,No Result,Jun 28,49,17,23,45
+13,Blue Jays,Red Sox,No Result,Jun 28,38,28,36,31
+13,Guardians,Twins,No Result,Jun 28,34,28,38,30
+13,Mets,Astros,No Result,Jun 28,44,24,41,25
+13,Rays,Brewers,No Result,Jun 28,36,30,38,30
+13,Cardinals,Marlins,No Result,Jun 28,38,30,29,35
+13,Cubs,Reds,No Result,Jun 28,25,41,23,43
+13,Royals,Rangers,No Result,Jun 28,23,42,31,35
+13,Rockies,Dodgers,No Result,Jun 28,30,37,40,25
+13,Angels,White Sox,No Result,Jun 28,33,36,31,33
+13,Diamondbacks,Padres,No Result,Jun 28,32,36,41,27
+13,Giants,Tigers,No Result,Jun 28,37,28,26,40
+13,Mariners,Orioles,No Result,Jun 28,29,39,30,38
+13,Rays,Brewers,No Result,Jun 29,36,30,38,30
+13,Nationals,Pirates,No Result,Jun 29,24,46,26,39
+13,Yankees,Athletics,No Result,Jun 29,49,17,23,45
+13,Mets,Astros,No Result,Jun 29,44,24,41,25
+13,Royals,Rangers,No Result,Jun 29,23,42,31,35
+13,Diamondbacks,Padres,No Result,Jun 29,32,36,41,27
+13,Giants,Tigers,No Result,Jun 29,37,28,26,40
+13,Mariners,Orioles,No Result,Jun 29,29,39,30,38
+13,Phillies,Braves,No Result,Jun 29,36,32,38,29
+13,Blue Jays,Red Sox,No Result,Jun 29,38,28,36,31
+13,Guardians,Twins,No Result,Jun 29,34,28,38,30
+13,Cardinals,Marlins,No Result,Jun 29,38,30,29,35
+13,Cubs,Reds,No Result,Jun 29,25,41,23,43
+13,Rockies,Dodgers,No Result,Jun 29,30,37,40,25
+13,Angels,White Sox,No Result,Jun 29,33,36,31,33
+13,Guardians,Twins,No Result,Jun 30,34,28,38,30
+13,Phillies,Braves,No Result,Jun 30,36,32,38,29
+13,Astros,Yankees,No Result,Jun 30,41,25,49,17
+13,Pirates,Brewers,No Result,Jun 30,26,39,38,30
+13,Blue Jays,Rays,No Result,Jun 30,38,28,36,30
+13,Cubs,Reds,No Result,Jun 30,25,41,23,43
+13,Mariners,Athletics,No Result,Jun 30,29,39,23,45
+13,Dodgers,Padres,No Result,Jun 30,40,25,41,27
+13,Cubs,Red Sox,No Result,Jul 1,25,41,36,31
+13,Blue Jays,Rays,No Result,Jul 1,38,28,36,30
+13,Nationals,Marlins,No Result,Jul 1,24,46,29,35
+13,Phillies,Cardinals,No Result,Jul 1,36,32,38,30
+13,Reds,Braves,No Result,Jul 1,23,43,38,29
+13,Pirates,Brewers,No Result,Jul 1,26,39,38,30
+13,Guardians,Yankees,No Result,Jul 1,34,28,49,17
+13,Tigers,Royals,No Result,Jul 1,26,40,23,42
+13,Mets,Rangers,No Result,Jul 1,44,24,31,35
+13,Rockies,Diamondbacks,No Result,Jul 1,30,37,32,36
+13,Astros,Angels,No Result,Jul 1,41,25,33,36
+13,Twins,Orioles,No Result,Jul 1,38,30,30,38
+13,Dodgers,Padres,No Result,Jul 1,40,25,41,27
+13,Mariners,Athletics,No Result,Jul 1,29,39,23,45
+13,Giants,White Sox,No Result,Jul 1,37,28,31,33
+13,Blue Jays,Rays,No Result,Jul 2,38,28,36,30
+13,Twins,Orioles,No Result,Jul 2,38,30,30,38
+13,Phillies,Cardinals,No Result,Jul 2,36,32,38,30
+13,Giants,White Sox,No Result,Jul 2,37,28,31,33
+13,Nationals,Marlins,No Result,Jul 2,24,46,29,35
+13,Pirates,Brewers,No Result,Jul 2,26,39,38,30
+13,Mariners,Athletics,No Result,Jul 2,29,39,23,45
+13,Mets,Rangers,No Result,Jul 2,44,24,31,35
+13,Reds,Braves,No Result,Jul 2,23,43,38,29
+13,Astros,Angels,No Result,Jul 2,41,25,33,36
+13,Tigers,Royals,No Result,Jul 2,26,40,23,42
+13,Blue Jays,Rays,No Result,Jul 2,38,28,36,30
+13,Guardians,Yankees,No Result,Jul 2,34,28,49,17
+13,Cubs,Red Sox,No Result,Jul 2,25,41,36,31
+13,Dodgers,Padres,No Result,Jul 2,40,25,41,27
+13,Rockies,Diamondbacks,No Result,Jul 2,30,37,32,36
+13,Tigers,Royals,No Result,Jul 3,26,40,23,42
+13,Pirates,Brewers,No Result,Jul 3,26,39,38,30
+13,Nationals,Marlins,No Result,Jul 3,24,46,29,35
+13,Blue Jays,Rays,No Result,Jul 3,38,28,36,30
+13,Mets,Rangers,No Result,Jul 3,44,24,31,35
+13,Reds,Braves,No Result,Jul 3,23,43,38,29
+13,Guardians,Yankees,No Result,Jul 3,34,28,49,17
+13,Astros,Angels,No Result,Jul 3,41,25,33,36
+13,Twins,Orioles,No Result,Jul 3,38,30,30,38
+13,Cubs,Red Sox,No Result,Jul 3,25,41,36,31
+13,Rockies,Diamondbacks,No Result,Jul 3,30,37,32,36
+13,Giants,White Sox,No Result,Jul 3,37,28,31,33
+13,Dodgers,Padres,No Result,Jul 3,40,25,41,27
+13,Mariners,Athletics,No Result,Jul 3,29,39,23,45
+13,Phillies,Cardinals,No Result,Jul 3,36,32,38,30
+14,Nationals,Marlins,No Result,Jul 4,24,46,29,35
+14,Orioles,Rangers,No Result,Jul 4,30,38,31,35
+14,Tigers,Guardians,No Result,Jul 4,26,40,34,28
+14,Red Sox,Rays,No Result,Jul 4,36,31,36,30
+14,Astros,Royals,No Result,Jul 4,41,25,23,42
+14,Brewers,Cubs,No Result,Jul 4,38,30,25,41
+14,Diamondbacks,Giants,No Result,Jul 4,32,36,37,28
+14,Tigers,Guardians,No Result,Jul 4,26,40,34,28
+14,Reds,Mets,No Result,Jul 4,23,43,44,24
+14,Padres,Mariners,No Result,Jul 4,41,27,29,39
+14,Braves,Cardinals,No Result,Jul 4,38,29,38,30
+14,White Sox,Twins,No Result,Jul 4,31,33,38,30
+14,Athletics,Blue Jays,No Result,Jul 4,23,45,38,28
+14,Dodgers,Rockies,No Result,Jul 4,40,25,30,37
+14,Padres,Mariners,No Result,Jul 5,41,27,29,39
+14,Reds,Mets,No Result,Jul 5,23,43,44,24
+14,Marlins,Angels,No Result,Jul 5,29,35,33,36
+14,Pirates,Yankees,No Result,Jul 5,26,39,49,17
+14,Orioles,Rangers,No Result,Jul 5,30,38,31,35
+14,Phillies,Nationals,No Result,Jul 5,36,32,24,46
+14,Tigers,Guardians,No Result,Jul 5,26,40,34,28
+14,Red Sox,Rays,No Result,Jul 5,36,31,36,30
+14,Braves,Cardinals,No Result,Jul 5,38,29,38,30
+14,White Sox,Twins,No Result,Jul 5,31,33,38,30
+14,Brewers,Cubs,No Result,Jul 5,38,30,25,41
+14,Astros,Royals,No Result,Jul 5,41,25,23,42
+14,Athletics,Blue Jays,No Result,Jul 5,23,45,38,28
+14,Diamondbacks,Giants,No Result,Jul 5,32,36,37,28
+14,Dodgers,Rockies,No Result,Jul 5,40,25,30,37
+14,Tigers,Guardians,No Result,Jul 6,26,40,34,28
+14,Brewers,Cubs,No Result,Jul 6,38,30,25,41
+14,White Sox,Twins,No Result,Jul 6,31,33,38,30
+14,Athletics,Blue Jays,No Result,Jul 6,23,45,38,28
+14,Reds,Mets,No Result,Jul 6,23,43,44,24
+14,Marlins,Angels,No Result,Jul 6,29,35,33,36
+14,Pirates,Yankees,No Result,Jul 6,26,39,49,17
+14,Orioles,Rangers,No Result,Jul 6,30,38,31,35
+14,Phillies,Nationals,No Result,Jul 6,36,32,24,46
+14,Red Sox,Rays,No Result,Jul 6,36,31,36,30
+14,Braves,Cardinals,No Result,Jul 6,38,29,38,30
+14,Astros,Royals,No Result,Jul 6,41,25,23,42
+14,Diamondbacks,Giants,No Result,Jul 6,32,36,37,28
+14,Dodgers,Rockies,No Result,Jul 6,40,25,30,37
+14,Astros,Royals,No Result,Jul 7,41,25,23,42
+14,Reds,Pirates,No Result,Jul 7,23,43,26,39
+14,Phillies,Nationals,No Result,Jul 7,36,32,24,46
+14,Orioles,Angels,No Result,Jul 7,30,38,33,36
+14,Reds,Pirates,No Result,Jul 7,23,43,26,39
+14,Red Sox,Yankees,No Result,Jul 7,36,31,49,17
+14,Mets,Marlins,No Result,Jul 7,44,24,29,35
+14,Braves,Cardinals,No Result,Jul 7,38,29,38,30
+14,White Sox,Tigers,No Result,Jul 7,31,33,26,40
+14,Diamondbacks,Rockies,No Result,Jul 7,32,36,30,37
+14,Padres,Giants,No Result,Jul 7,41,27,37,28
+14,Dodgers,Cubs,No Result,Jul 7,40,25,25,41
+14,Mariners,Blue Jays,No Result,Jul 7,29,39,38,28
+14,Reds,Rays,No Result,Jul 8,23,43,36,30
+14,Orioles,Angels,No Result,Jul 8,30,38,33,36
+14,Mets,Marlins,No Result,Jul 8,44,24,29,35
+14,Red Sox,Yankees,No Result,Jul 8,36,31,49,17
+14,Braves,Nationals,No Result,Jul 8,38,29,24,46
+14,Rangers,Twins,No Result,Jul 8,31,35,38,30
+14,Brewers,Pirates,No Result,Jul 8,38,30,26,39
+14,Royals,Guardians,No Result,Jul 8,23,42,34,28
+14,White Sox,Tigers,No Result,Jul 8,31,33,26,40
+14,Cardinals,Phillies,No Result,Jul 8,38,30,36,32
+14,Athletics,Astros,No Result,Jul 8,23,45,41,25
+14,Padres,Giants,No Result,Jul 8,41,27,37,28
+14,Diamondbacks,Rockies,No Result,Jul 8,32,36,30,37
+14,Dodgers,Cubs,No Result,Jul 8,40,25,25,41
+14,Mariners,Blue Jays,No Result,Jul 8,29,39,38,28
+14,White Sox,Tigers,No Result,Jul 9,31,33,26,40
+14,Cardinals,Phillies,No Result,Jul 9,38,30,36,32
+14,Orioles,Angels,No Result,Jul 9,30,38,33,36
+14,Rangers,Twins,No Result,Jul 9,31,35,38,30
+14,Athletics,Astros,No Result,Jul 9,23,45,41,25
+14,Diamondbacks,Rockies,No Result,Jul 9,32,36,30,37
+14,Reds,Rays,No Result,Jul 9,23,43,36,30
+14,Brewers,Pirates,No Result,Jul 9,38,30,26,39
+14,Mets,Marlins,No Result,Jul 9,44,24,29,35
+14,Royals,Guardians,No Result,Jul 9,23,42,34,28
+14,Braves,Nationals,No Result,Jul 9,38,29,24,46
+14,Red Sox,Yankees,No Result,Jul 9,36,31,49,17
+14,Padres,Giants,No Result,Jul 9,41,27,37,28
+14,Mariners,Blue Jays,No Result,Jul 9,29,39,38,28
+14,Dodgers,Cubs,No Result,Jul 9,40,25,25,41
+14,Orioles,Angels,No Result,Jul 10,30,38,33,36
+14,Braves,Nationals,No Result,Jul 10,38,29,24,46
+14,Reds,Rays,No Result,Jul 10,23,43,36,30
+14,Mets,Marlins,No Result,Jul 10,44,24,29,35
+14,White Sox,Tigers,No Result,Jul 10,31,33,26,40
+14,Brewers,Pirates,No Result,Jul 10,38,30,26,39
+14,Royals,Guardians,No Result,Jul 10,23,42,34,28
+14,Cardinals,Phillies,No Result,Jul 10,38,30,36,32
+14,Rangers,Twins,No Result,Jul 10,31,35,38,30
+14,Athletics,Astros,No Result,Jul 10,23,45,41,25
+14,Dodgers,Cubs,No Result,Jul 10,40,25,25,41
+14,Diamondbacks,Rockies,No Result,Jul 10,32,36,30,37
+14,Mariners,Blue Jays,No Result,Jul 10,29,39,38,28
+14,Padres,Giants,No Result,Jul 10,41,27,37,28
+14,Red Sox,Yankees,No Result,Jul 10,36,31,49,17
+15,Royals,Tigers,No Result,Jul 11,23,42,26,40
+15,Marlins,Pirates,No Result,Jul 11,29,35,26,39
+15,Rays,Red Sox,No Result,Jul 11,36,30,36,31
+15,Guardians,White Sox,No Result,Jul 11,34,28,31,33
+15,Cardinals,Phillies,No Result,Jul 11,38,30,36,32
+15,Braves,Mets,No Result,Jul 11,38,29,44,24
+15,Rangers,Athletics,No Result,Jul 11,31,35,23,45
+15,Royals,Tigers,No Result,Jul 11,23,42,26,40
+15,Rockies,Padres,No Result,Jul 11,30,37,41,27
+15,Giants,Diamondbacks,No Result,Jul 11,37,28,32,36
+15,Guardians,White Sox,No Result,Jul 12,34,28,31,33
+15,Marlins,Pirates,No Result,Jul 12,29,35,26,39
+15,Nationals,Mariners,No Result,Jul 12,24,46,29,39
+15,Yankees,Reds,No Result,Jul 12,49,17,23,43
+15,Blue Jays,Phillies,No Result,Jul 12,38,28,36,32
+15,Guardians,White Sox,No Result,Jul 12,34,28,31,33
+15,Rays,Red Sox,No Result,Jul 12,36,30,36,31
+15,Braves,Mets,No Result,Jul 12,38,29,44,24
+15,Twins,Brewers,No Result,Jul 12,38,30,38,30
+15,Cardinals,Dodgers,No Result,Jul 12,38,30,40,25
+15,Rangers,Athletics,No Result,Jul 12,31,35,23,45
+15,Cubs,Orioles,No Result,Jul 12,25,41,30,38
+15,Royals,Tigers,No Result,Jul 12,23,42,26,40
+15,Rockies,Padres,No Result,Jul 12,30,37,41,27
+15,Angels,Astros,No Result,Jul 12,33,36,41,25
+15,Giants,Diamondbacks,No Result,Jul 12,37,28,32,36
+15,Nationals,Mariners,No Result,Jul 13,24,46,29,39
+15,Braves,Mets,No Result,Jul 13,38,29,44,24
+15,Twins,Brewers,No Result,Jul 13,38,30,38,30
+15,Royals,Tigers,No Result,Jul 13,23,42,26,40
+15,Giants,Diamondbacks,No Result,Jul 13,37,28,32,36
+15,Marlins,Pirates,No Result,Jul 13,29,35,26,39
+15,Yankees,Reds,No Result,Jul 13,49,17,23,43
+15,Blue Jays,Phillies,No Result,Jul 13,38,28,36,32
+15,Guardians,White Sox,No Result,Jul 13,34,28,31,33
+15,Rays,Red Sox,No Result,Jul 13,36,30,36,31
+15,Cardinals,Dodgers,No Result,Jul 13,38,30,40,25
+15,Cubs,Orioles,No Result,Jul 13,25,41,30,38
+15,Rangers,Athletics,No Result,Jul 13,31,35,23,45
+15,Rockies,Padres,No Result,Jul 13,30,37,41,27
+15,Angels,Astros,No Result,Jul 13,33,36,41,25
+15,Marlins,Pirates,No Result,Jul 14,29,35,26,39
+15,Rockies,Padres,No Result,Jul 14,30,37,41,27
+15,Nationals,Braves,No Result,Jul 14,24,46,38,29
+15,Yankees,Reds,No Result,Jul 14,49,17,23,43
+15,Blue Jays,Royals,No Result,Jul 14,38,28,23,42
+15,Guardians,Tigers,No Result,Jul 14,34,28,26,40
+15,Rays,Red Sox,No Result,Jul 14,36,30,36,31
+15,Cardinals,Dodgers,No Result,Jul 14,38,30,40,25
+15,Twins,White Sox,No Result,Jul 14,38,30,31,33
+15,Cubs,Mets,No Result,Jul 14,25,41,44,24
+15,Rangers,Mariners,No Result,Jul 14,31,35,29,39
+15,Angels,Astros,No Result,Jul 14,33,36,41,25
+15,Giants,Brewers,No Result,Jul 14,37,28,38,30
+15,Cubs,Mets,No Result,Jul 15,25,41,44,24
+15,Marlins,Phillies,No Result,Jul 15,29,35,36,32
+15,Nationals,Braves,No Result,Jul 15,24,46,38,29
+15,Yankees,Red Sox,No Result,Jul 15,49,17,36,31
+15,Blue Jays,Royals,No Result,Jul 15,38,28,23,42
+15,Guardians,Tigers,No Result,Jul 15,34,28,26,40
+15,Rays,Orioles,No Result,Jul 15,36,30,30,38
+15,Rangers,Mariners,No Result,Jul 15,31,35,29,39
+15,Twins,White Sox,No Result,Jul 15,38,30,31,33
+15,Astros,Athletics,No Result,Jul 15,41,25,23,45
+15,Cardinals,Reds,No Result,Jul 15,38,30,23,43
+15,Rockies,Pirates,No Result,Jul 15,30,37,26,39
+15,Angels,Dodgers,No Result,Jul 15,33,36,40,25
+15,Padres,Diamondbacks,No Result,Jul 15,41,27,32,36
+15,Giants,Brewers,No Result,Jul 15,37,28,38,30
+15,Twins,White Sox,No Result,Jul 16,38,30,31,33
+15,Cardinals,Reds,No Result,Jul 16,38,30,23,43
+15,Cubs,Mets,No Result,Jul 16,25,41,44,24
+15,Blue Jays,Royals,No Result,Jul 16,38,28,23,42
+15,Rockies,Pirates,No Result,Jul 16,30,37,26,39
+15,Rangers,Mariners,No Result,Jul 16,31,35,29,39
+15,Nationals,Braves,No Result,Jul 16,24,46,38,29
+15,Guardians,Tigers,No Result,Jul 16,34,28,26,40
+15,Marlins,Phillies,No Result,Jul 16,29,35,36,32
+15,Astros,Athletics,No Result,Jul 16,41,25,23,45
+15,Rays,Orioles,No Result,Jul 16,36,30,30,38
+15,Yankees,Red Sox,No Result,Jul 16,49,17,36,31
+15,Giants,Brewers,No Result,Jul 16,37,28,38,30
+15,Padres,Diamondbacks,No Result,Jul 16,41,27,32,36
+15,Angels,Dodgers,No Result,Jul 16,33,36,40,25
+15,Blue Jays,Royals,No Result,Jul 17,38,28,23,42
+15,Nationals,Braves,No Result,Jul 17,24,46,38,29
+15,Yankees,Red Sox,No Result,Jul 17,49,17,36,31
+15,Rays,Orioles,No Result,Jul 17,36,30,30,38
+15,Guardians,Tigers,No Result,Jul 17,34,28,26,40
+15,Marlins,Phillies,No Result,Jul 17,29,35,36,32
+15,Astros,Athletics,No Result,Jul 17,41,25,23,45
+15,Twins,White Sox,No Result,Jul 17,38,30,31,33
+15,Cardinals,Reds,No Result,Jul 17,38,30,23,43
+15,Cubs,Mets,No Result,Jul 17,25,41,44,24
+15,Rangers,Mariners,No Result,Jul 17,31,35,29,39
+15,Rockies,Pirates,No Result,Jul 17,30,37,26,39
+15,Giants,Brewers,No Result,Jul 17,37,28,38,30
+15,Padres,Diamondbacks,No Result,Jul 17,41,27,32,36
+16,Athletics,Tigers,No Result,Jul 21,23,45,26,40
+16,Marlins,Rangers,No Result,Jul 21,29,35,31,35
+16,Astros,Yankees,No Result,Jul 21,41,25,49,17
+16,Athletics,Tigers,No Result,Jul 21,23,45,26,40
+16,Astros,Yankees,No Result,Jul 21,41,25,49,17
+16,Dodgers,Giants,No Result,Jul 21,40,25,37,28
+16,Reds,Cardinals,No Result,Jul 22,23,43,38,30
+16,Phillies,Cubs,No Result,Jul 22,36,32,25,41
+16,Pirates,Marlins,No Result,Jul 22,26,39,29,35
+16,Orioles,Yankees,No Result,Jul 22,30,38,49,17
+16,Mets,Padres,No Result,Jul 22,44,24,41,27
+16,Red Sox,Blue Jays,No Result,Jul 22,36,31,38,28
+16,Braves,Angels,No Result,Jul 22,38,29,33,36
+16,Brewers,Rockies,No Result,Jul 22,38,30,30,37
+16,Royals,Rays,No Result,Jul 22,23,42,36,30
+16,White Sox,Guardians,No Result,Jul 22,31,33,34,28
+16,Athletics,Rangers,No Result,Jul 22,23,45,31,35
+16,Diamondbacks,Nationals,No Result,Jul 22,32,36,24,46
+16,Mariners,Astros,No Result,Jul 22,29,39,41,25
+16,Dodgers,Giants,No Result,Jul 22,40,25,37,28
+16,White Sox,Guardians,No Result,Jul 23,31,33,34,28
+16,Red Sox,Blue Jays,No Result,Jul 23,36,31,38,28
+16,Mariners,Astros,No Result,Jul 23,29,39,41,25
+16,Phillies,Cubs,No Result,Jul 23,36,32,25,41
+16,Tigers,Twins,No Result,Jul 23,26,40,38,30
+16,Reds,Cardinals,No Result,Jul 23,23,43,38,30
+16,Orioles,Yankees,No Result,Jul 23,30,38,49,17
+16,Pirates,Marlins,No Result,Jul 23,26,39,29,35
+16,Mets,Padres,No Result,Jul 23,44,24,41,27
+16,Royals,Rays,No Result,Jul 23,23,42,36,30
+16,Brewers,Rockies,No Result,Jul 23,38,30,30,37
+16,White Sox,Guardians,No Result,Jul 23,31,33,34,28
+16,Dodgers,Giants,No Result,Jul 23,40,25,37,28
+16,Braves,Angels,No Result,Jul 23,38,29,33,36
+16,Diamondbacks,Nationals,No Result,Jul 23,32,36,24,46
+16,Athletics,Rangers,No Result,Jul 23,23,45,31,35
+16,Phillies,Cubs,No Result,Jul 24,36,32,25,41
+16,Red Sox,Blue Jays,No Result,Jul 24,36,31,38,28
+16,Braves,Angels,No Result,Jul 24,38,29,33,36
+16,Pirates,Marlins,No Result,Jul 24,26,39,29,35
+16,Orioles,Yankees,No Result,Jul 24,30,38,49,17
+16,Tigers,Twins,No Result,Jul 24,26,40,38,30
+16,Mets,Padres,No Result,Jul 24,44,24,41,27
+16,Reds,Cardinals,No Result,Jul 24,23,43,38,30
+16,White Sox,Guardians,No Result,Jul 24,31,33,34,28
+16,Royals,Rays,No Result,Jul 24,23,42,36,30
+16,Brewers,Rockies,No Result,Jul 24,38,30,30,37
+16,Athletics,Rangers,No Result,Jul 24,23,45,31,35
+16,Diamondbacks,Nationals,No Result,Jul 24,32,36,24,46
+16,Mariners,Astros,No Result,Jul 24,29,39,41,25
+16,Dodgers,Giants,No Result,Jul 24,40,25,37,28
+17,Reds,Marlins,No Result,Jul 25,23,43,29,35
+17,Orioles,Rays,No Result,Jul 25,30,38,36,30
+17,Phillies,Braves,No Result,Jul 25,36,32,38,29
+17,Tigers,Padres,No Result,Jul 25,26,40,41,27
+17,Red Sox,Guardians,No Result,Jul 25,36,31,34,28
+17,Cubs,Pirates,No Result,Jul 25,25,41,26,39
+17,Royals,Angels,No Result,Jul 25,23,42,33,36
+17,Brewers,Rockies,No Result,Jul 25,38,30,30,37
+17,Athletics,Astros,No Result,Jul 25,23,45,41,25
+17,Diamondbacks,Giants,No Result,Jul 25,32,36,37,28
+17,Dodgers,Nationals,No Result,Jul 25,40,25,24,46
+17,Mariners,Rangers,No Result,Jul 25,29,39,31,35
+17,Cubs,Pirates,No Result,Jul 26,25,41,26,39
+17,Reds,Marlins,No Result,Jul 26,23,43,29,35
+17,Orioles,Rays,No Result,Jul 26,30,38,36,30
+17,Phillies,Braves,No Result,Jul 26,36,32,38,29
+17,Blue Jays,Cardinals,No Result,Jul 26,38,28,38,30
+17,Red Sox,Guardians,No Result,Jul 26,36,31,34,28
+17,Tigers,Padres,No Result,Jul 26,26,40,41,27
+17,Mets,Yankees,No Result,Jul 26,44,24,49,17
+17,Royals,Angels,No Result,Jul 26,23,42,33,36
+17,Brewers,Twins,No Result,Jul 26,38,30,38,30
+17,Rockies,White Sox,No Result,Jul 26,30,37,31,33
+17,Athletics,Astros,No Result,Jul 26,23,45,41,25
+17,Diamondbacks,Giants,No Result,Jul 26,32,36,37,28
+17,Dodgers,Nationals,No Result,Jul 26,40,25,24,46
+17,Mariners,Rangers,No Result,Jul 26,29,39,31,35
+17,Phillies,Braves,No Result,Jul 27,36,32,38,29
+17,Tigers,Padres,No Result,Jul 27,26,40,41,27
+17,Royals,Angels,No Result,Jul 27,23,42,33,36
+17,Brewers,Twins,No Result,Jul 27,38,30,38,30
+17,Dodgers,Nationals,No Result,Jul 27,40,25,24,46
+17,Rockies,White Sox,No Result,Jul 27,30,37,31,33
+17,Athletics,Astros,No Result,Jul 27,23,45,41,25
+17,Diamondbacks,Giants,No Result,Jul 27,32,36,37,28
+17,Mariners,Rangers,No Result,Jul 27,29,39,31,35
+17,Reds,Marlins,No Result,Jul 27,23,43,29,35
+17,Orioles,Rays,No Result,Jul 27,30,38,36,30
+17,Blue Jays,Cardinals,No Result,Jul 27,38,28,38,30
+17,Mets,Yankees,No Result,Jul 27,44,24,49,17
+17,Red Sox,Guardians,No Result,Jul 27,36,31,34,28
+17,Reds,Marlins,No Result,Jul 28,23,43,29,35
+17,Orioles,Rays,No Result,Jul 28,30,38,36,30
+17,Pirates,Phillies,No Result,Jul 28,26,39,36,32
+17,Yankees,Royals,No Result,Jul 28,49,17,23,42
+17,Blue Jays,Tigers,No Result,Jul 28,38,28,26,40
+17,Red Sox,Guardians,No Result,Jul 28,36,31,34,28
+17,Astros,Mariners,No Result,Jul 28,41,25,29,39
+17,Rockies,Dodgers,No Result,Jul 28,30,37,40,25
+17,Angels,Rangers,No Result,Jul 28,33,36,31,35
+17,Giants,Cubs,No Result,Jul 28,37,28,25,41
+17,Reds,Orioles,No Result,Jul 29,23,43,30,38
+17,Marlins,Mets,No Result,Jul 29,29,35,44,24
+17,Nationals,Cardinals,No Result,Jul 29,24,46,38,30
+17,Pirates,Phillies,No Result,Jul 29,26,39,36,32
+17,Yankees,Royals,No Result,Jul 29,49,17,23,42
+17,Blue Jays,Tigers,No Result,Jul 29,38,28,26,40
+17,Rays,Guardians,No Result,Jul 29,36,30,34,28
+17,Red Sox,Brewers,No Result,Jul 29,36,31,38,30
+17,Braves,Diamondbacks,No Result,Jul 29,38,29,32,36
+17,Astros,Mariners,No Result,Jul 29,41,25,29,39
+17,White Sox,Athletics,No Result,Jul 29,31,33,23,45
+17,Rockies,Dodgers,No Result,Jul 29,30,37,40,25
+17,Angels,Rangers,No Result,Jul 29,33,36,31,35
+17,Padres,Twins,No Result,Jul 29,41,27,38,30
+17,Giants,Cubs,No Result,Jul 29,37,28,25,41
+17,Rays,Guardians,No Result,Jul 30,36,30,34,28
+17,Yankees,Royals,No Result,Jul 30,49,17,23,42
+17,Blue Jays,Tigers,No Result,Jul 30,38,28,26,40
+17,Red Sox,Brewers,No Result,Jul 30,36,31,38,30
+17,Marlins,Mets,No Result,Jul 30,29,35,44,24
+17,Reds,Orioles,No Result,Jul 30,23,43,30,38
+17,Astros,Mariners,No Result,Jul 30,41,25,29,39
+17,Nationals,Cardinals,No Result,Jul 30,24,46,38,30
+17,Pirates,Phillies,No Result,Jul 30,26,39,36,32
+17,White Sox,Athletics,No Result,Jul 30,31,33,23,45
+17,Padres,Twins,No Result,Jul 30,41,27,38,30
+17,Braves,Diamondbacks,No Result,Jul 30,38,29,32,36
+17,Rockies,Dodgers,No Result,Jul 30,30,37,40,25
+17,Giants,Cubs,No Result,Jul 30,37,28,25,41
+17,Angels,Rangers,No Result,Jul 30,33,36,31,35
+17,Blue Jays,Tigers,No Result,Jul 31,38,28,26,40
+17,Nationals,Cardinals,No Result,Jul 31,24,46,38,30
+17,Pirates,Phillies,No Result,Jul 31,26,39,36,32
+17,Braves,Diamondbacks,No Result,Jul 31,38,29,32,36
+17,Yankees,Royals,No Result,Jul 31,49,17,23,42
+17,Red Sox,Brewers,No Result,Jul 31,36,31,38,30
+17,Rays,Guardians,No Result,Jul 31,36,30,34,28
+17,Marlins,Mets,No Result,Jul 31,29,35,44,24
+17,Reds,Orioles,No Result,Jul 31,23,43,30,38
+17,Astros,Mariners,No Result,Jul 31,41,25,29,39
+17,White Sox,Athletics,No Result,Jul 31,31,33,23,45
+17,Rockies,Dodgers,No Result,Jul 31,30,37,40,25
+17,Giants,Cubs,No Result,Jul 31,37,28,25,41
+17,Angels,Rangers,No Result,Jul 31,33,36,31,35
+17,Padres,Twins,No Result,Jul 31,41,27,38,30
+18,Marlins,Reds,No Result,Aug 1,29,35,23,43
+18,Nationals,Mets,No Result,Aug 1,24,46,44,24
+18,Yankees,Mariners,No Result,Aug 1,49,17,29,39
+18,Guardians,Diamondbacks,No Result,Aug 1,34,28,32,36
+18,Twins,Tigers,No Result,Aug 1,38,30,26,40
+18,Rangers,Orioles,No Result,Aug 1,31,35,30,38
+18,Astros,Red Sox,No Result,Aug 1,41,25,36,31
+18,White Sox,Royals,No Result,Aug 1,31,33,23,42
+18,Padres,Rockies,No Result,Aug 1,41,27,30,37
+18,Giants,Dodgers,No Result,Aug 1,37,28,40,25
+18,Padres,Rockies,No Result,Aug 2,41,27,30,37
+18,Marlins,Reds,No Result,Aug 2,29,35,23,43
+18,Nationals,Mets,No Result,Aug 2,24,46,44,24
+18,Yankees,Mariners,No Result,Aug 2,49,17,29,39
+18,Pirates,Brewers,No Result,Aug 2,26,39,38,30
+18,Guardians,Diamondbacks,No Result,Aug 2,34,28,32,36
+18,Rays,Blue Jays,No Result,Aug 2,36,30,38,28
+18,Braves,Phillies,No Result,Aug 2,38,29,36,32
+18,Twins,Tigers,No Result,Aug 2,38,30,26,40
+18,Cardinals,Cubs,No Result,Aug 2,38,30,25,41
+18,Rangers,Orioles,No Result,Aug 2,31,35,30,38
+18,White Sox,Royals,No Result,Aug 2,31,33,23,42
+18,Astros,Red Sox,No Result,Aug 2,41,25,36,31
+18,Angels,Athletics,No Result,Aug 2,33,36,23,45
+18,Giants,Dodgers,No Result,Aug 2,37,28,40,25
+18,Padres,Rockies,No Result,Aug 2,41,27,30,37
+18,Rays,Blue Jays,No Result,Aug 3,36,30,38,28
+18,Braves,Phillies,No Result,Aug 3,38,29,36,32
+18,Yankees,Mariners,No Result,Aug 3,49,17,29,39
+18,Guardians,Diamondbacks,No Result,Aug 3,34,28,32,36
+18,Twins,Tigers,No Result,Aug 3,38,30,26,40
+18,Rangers,Orioles,No Result,Aug 3,31,35,30,38
+18,Astros,Red Sox,No Result,Aug 3,41,25,36,31
+18,White Sox,Royals,No Result,Aug 3,31,33,23,42
+18,Nationals,Mets,No Result,Aug 3,24,46,44,24
+18,Marlins,Reds,No Result,Aug 3,29,35,23,43
+18,Pirates,Brewers,No Result,Aug 3,26,39,38,30
+18,Cardinals,Cubs,No Result,Aug 3,38,30,25,41
+18,Angels,Athletics,No Result,Aug 3,33,36,23,45
+18,Padres,Rockies,No Result,Aug 3,41,27,30,37
+18,Giants,Dodgers,No Result,Aug 3,37,28,40,25
+18,Pirates,Brewers,No Result,Aug 4,26,39,38,30
+18,Giants,Dodgers,No Result,Aug 4,37,28,40,25
+18,Angels,Athletics,No Result,Aug 4,33,36,23,45
+18,Padres,Rockies,No Result,Aug 4,41,27,30,37
+18,Phillies,Nationals,No Result,Aug 4,36,32,24,46
+18,Guardians,Astros,No Result,Aug 4,34,28,41,25
+18,Tigers,Rays,No Result,Aug 4,26,40,36,30
+18,Mets,Braves,No Result,Aug 4,44,24,38,29
+18,Twins,Blue Jays,No Result,Aug 4,38,30,38,28
+18,Cardinals,Cubs,No Result,Aug 4,38,30,25,41
+18,Rangers,White Sox,No Result,Aug 4,31,35,31,33
+18,Royals,Red Sox,No Result,Aug 4,23,42,36,31
+18,Cubs,Marlins,No Result,Aug 5,25,41,29,35
+18,Orioles,Pirates,No Result,Aug 5,30,38,26,39
+18,Phillies,Nationals,No Result,Aug 5,36,32,24,46
+18,Tigers,Rays,No Result,Aug 5,26,40,36,30
+18,Mets,Braves,No Result,Aug 5,44,24,38,29
+18,Guardians,Astros,No Result,Aug 5,34,28,41,25
+18,Rangers,White Sox,No Result,Aug 5,31,35,31,33
+18,Royals,Red Sox,No Result,Aug 5,23,42,36,31
+18,Twins,Blue Jays,No Result,Aug 5,38,30,38,28
+18,Brewers,Reds,No Result,Aug 5,38,30,23,43
+18,Cardinals,Yankees,No Result,Aug 5,38,30,49,17
+18,Diamondbacks,Rockies,No Result,Aug 5,32,36,30,37
+18,Dodgers,Padres,No Result,Aug 5,40,25,41,27
+18,Mariners,Angels,No Result,Aug 5,29,39,33,36
+18,Mets,Braves,No Result,Aug 6,44,24,38,29
+18,Cubs,Marlins,No Result,Aug 6,25,41,29,35
+18,Mariners,Angels,No Result,Aug 6,29,39,33,36
+18,Orioles,Pirates,No Result,Aug 6,30,38,26,39
+18,Phillies,Nationals,No Result,Aug 6,36,32,24,46
+18,Guardians,Astros,No Result,Aug 6,34,28,41,25
+18,Tigers,Rays,No Result,Aug 6,26,40,36,30
+18,Rangers,White Sox,No Result,Aug 6,31,35,31,33
+18,Athletics,Giants,No Result,Aug 6,23,45,37,28
+18,Twins,Blue Jays,No Result,Aug 6,38,30,38,28
+18,Royals,Red Sox,No Result,Aug 6,23,42,36,31
+18,Mets,Braves,No Result,Aug 6,44,24,38,29
+18,Brewers,Reds,No Result,Aug 6,38,30,23,43
+18,Cardinals,Yankees,No Result,Aug 6,38,30,49,17
+18,Diamondbacks,Rockies,No Result,Aug 6,32,36,30,37
+18,Dodgers,Padres,No Result,Aug 6,40,25,41,27
+18,Mariners,Angels,No Result,Aug 6,29,39,33,36
+18,Guardians,Astros,No Result,Aug 7,34,28,41,25
+18,Orioles,Pirates,No Result,Aug 7,30,38,26,39
+18,Phillies,Nationals,No Result,Aug 7,36,32,24,46
+18,Tigers,Rays,No Result,Aug 7,26,40,36,30
+18,Royals,Red Sox,No Result,Aug 7,23,42,36,31
+18,Twins,Blue Jays,No Result,Aug 7,38,30,38,28
+18,Brewers,Reds,No Result,Aug 7,38,30,23,43
+18,Cardinals,Yankees,No Result,Aug 7,38,30,49,17
+18,Cubs,Marlins,No Result,Aug 7,25,41,29,35
+18,Rangers,White Sox,No Result,Aug 7,31,35,31,33
+18,Athletics,Giants,No Result,Aug 7,23,45,37,28
+18,Dodgers,Padres,No Result,Aug 7,40,25,41,27
+18,Mets,Braves,No Result,Aug 7,44,24,38,29
+18,Mariners,Angels,No Result,Aug 7,29,39,33,36
+18,Diamondbacks,Rockies,No Result,Aug 7,32,36,30,37
+19,Orioles,Blue Jays,No Result,Aug 8,30,38,38,28
+19,Mets,Reds,No Result,Aug 8,44,24,23,43
+19,Cubs,Nationals,No Result,Aug 8,25,41,24,46
+19,Athletics,Angels,No Result,Aug 8,23,45,33,36
+19,Diamondbacks,Pirates,No Result,Aug 8,32,36,26,39
+19,Padres,Giants,No Result,Aug 8,41,27,37,28
+19,Mariners,Yankees,No Result,Aug 8,29,39,49,17
+19,Royals,White Sox,No Result,Aug 9,23,42,31,33
+19,Royals,White Sox,No Result,Aug 9,23,42,31,33
+19,Orioles,Blue Jays,No Result,Aug 9,30,38,38,28
+19,Phillies,Marlins,No Result,Aug 9,36,32,29,35
+19,Tigers,Guardians,No Result,Aug 9,26,40,34,28
+19,Mets,Reds,No Result,Aug 9,44,24,23,43
+19,Red Sox,Braves,No Result,Aug 9,36,31,38,29
+19,Cubs,Nationals,No Result,Aug 9,25,41,24,46
+19,Brewers,Rays,No Result,Aug 9,38,30,36,30
+19,Astros,Rangers,No Result,Aug 9,41,25,31,35
+19,Rockies,Cardinals,No Result,Aug 9,30,37,38,30
+19,Athletics,Angels,No Result,Aug 9,23,45,33,36
+19,Diamondbacks,Pirates,No Result,Aug 9,32,36,26,39
+19,Padres,Giants,No Result,Aug 9,41,27,37,28
+19,Mariners,Yankees,No Result,Aug 9,29,39,49,17
+19,Dodgers,Twins,No Result,Aug 9,40,25,38,30
+19,Mets,Reds,No Result,Aug 10,44,24,23,43
+19,Brewers,Rays,No Result,Aug 10,38,30,36,30
+19,Cubs,Nationals,No Result,Aug 10,25,41,24,46
+19,Athletics,Angels,No Result,Aug 10,23,45,33,36
+19,Padres,Giants,No Result,Aug 10,41,27,37,28
+19,Mariners,Yankees,No Result,Aug 10,29,39,49,17
+19,Orioles,Blue Jays,No Result,Aug 10,30,38,38,28
+19,Phillies,Marlins,No Result,Aug 10,36,32,29,35
+19,Tigers,Guardians,No Result,Aug 10,26,40,34,28
+19,Red Sox,Braves,No Result,Aug 10,36,31,38,29
+19,Royals,White Sox,No Result,Aug 10,23,42,31,33
+19,Astros,Rangers,No Result,Aug 10,41,25,31,35
+19,Rockies,Cardinals,No Result,Aug 10,30,37,38,30
+19,Diamondbacks,Pirates,No Result,Aug 10,32,36,26,39
+19,Dodgers,Twins,No Result,Aug 10,40,25,38,30
+19,Phillies,Marlins,No Result,Aug 11,36,32,29,35
+19,Tigers,Guardians,No Result,Aug 11,26,40,34,28
+19,Astros,Rangers,No Result,Aug 11,41,25,31,35
+19,Royals,White Sox,No Result,Aug 11,23,42,31,33
+19,Rockies,Cardinals,No Result,Aug 11,30,37,38,30
+19,Diamondbacks,Pirates,No Result,Aug 11,32,36,26,39
+19,Red Sox,Orioles,No Result,Aug 11,36,31,30,38
+19,Reds,Cubs,No Result,Aug 11,23,43,25,41
+19,Marlins,Braves,No Result,Aug 12,29,35,38,29
+19,Nationals,Padres,No Result,Aug 12,24,46,41,27
+19,Blue Jays,Guardians,No Result,Aug 12,38,28,34,28
+19,Rays,Orioles,No Result,Aug 12,36,30,30,38
+19,Mets,Phillies,No Result,Aug 12,44,24,36,32
+19,White Sox,Tigers,No Result,Aug 12,31,33,26,40
+19,Red Sox,Yankees,No Result,Aug 12,36,31,49,17
+19,Rangers,Mariners,No Result,Aug 12,31,35,29,39
+19,Royals,Dodgers,No Result,Aug 12,23,42,40,25
+19,Astros,Athletics,No Result,Aug 12,41,25,23,45
+19,Cardinals,Brewers,No Result,Aug 12,38,30,38,30
+19,Rockies,Diamondbacks,No Result,Aug 12,30,37,32,36
+19,Angels,Twins,No Result,Aug 12,33,36,38,30
+19,Giants,Pirates,No Result,Aug 12,37,28,26,39
+19,Marlins,Braves,No Result,Aug 13,29,35,38,29
+19,Blue Jays,Guardians,No Result,Aug 13,38,28,34,28
+19,Rays,Orioles,No Result,Aug 13,36,30,30,38
+19,Reds,Cubs,No Result,Aug 13,23,43,25,41
+19,Nationals,Padres,No Result,Aug 13,24,46,41,27
+19,Marlins,Braves,No Result,Aug 13,29,35,38,29
+19,Royals,Dodgers,No Result,Aug 13,23,42,40,25
+19,Astros,Athletics,No Result,Aug 13,41,25,23,45
+19,Mets,Phillies,No Result,Aug 13,44,24,36,32
+19,White Sox,Tigers,No Result,Aug 13,31,33,26,40
+19,Rangers,Mariners,No Result,Aug 13,31,35,29,39
+19,Red Sox,Yankees,No Result,Aug 13,36,31,49,17
+19,Cardinals,Brewers,No Result,Aug 13,38,30,38,30
+19,Rockies,Diamondbacks,No Result,Aug 13,30,37,32,36
+19,Giants,Pirates,No Result,Aug 13,37,28,26,39
+19,Angels,Twins,No Result,Aug 13,33,36,38,30
+19,Red Sox,Yankees,No Result,Aug 14,36,31,49,17
+19,Nationals,Padres,No Result,Aug 14,24,46,41,27
+19,Blue Jays,Guardians,No Result,Aug 14,38,28,34,28
+19,Reds,Cubs,No Result,Aug 14,23,43,25,41
+19,Rays,Orioles,No Result,Aug 14,36,30,30,38
+19,Mets,Phillies,No Result,Aug 14,44,24,36,32
+19,Marlins,Braves,No Result,Aug 14,29,35,38,29
+19,Royals,Dodgers,No Result,Aug 14,23,42,40,25
+19,Astros,Athletics,No Result,Aug 14,41,25,23,45
+19,White Sox,Tigers,No Result,Aug 14,31,33,26,40
+19,Cardinals,Brewers,No Result,Aug 14,38,30,38,30
+19,Rangers,Mariners,No Result,Aug 14,31,35,29,39
+19,Rockies,Diamondbacks,No Result,Aug 14,30,37,32,36
+19,Giants,Pirates,No Result,Aug 14,37,28,26,39
+19,Angels,Twins,No Result,Aug 14,33,36,38,30
+20,Reds,Phillies,No Result,Aug 15,23,43,36,32
+20,Marlins,Padres,No Result,Aug 15,29,35,41,27
+20,Nationals,Cubs,No Result,Aug 15,24,46,25,41
+20,Yankees,Rays,No Result,Aug 15,49,17,36,30
+20,Blue Jays,Orioles,No Result,Aug 15,38,28,30,38
+20,Guardians,Tigers,No Result,Aug 15,34,28,26,40
+20,Braves,Mets,No Result,Aug 15,38,29,44,24
+20,Twins,Royals,No Result,Aug 15,38,30,23,42
+20,Rangers,Athletics,No Result,Aug 15,31,35,23,45
+20,White Sox,Astros,No Result,Aug 15,31,33,41,25
+20,Brewers,Dodgers,No Result,Aug 15,38,30,40,25
+20,Angels,Mariners,No Result,Aug 15,33,36,29,39
+20,Giants,Diamondbacks,No Result,Aug 15,37,28,32,36
+20,Reds,Phillies,No Result,Aug 16,23,43,36,32
+20,Marlins,Padres,No Result,Aug 16,29,35,41,27
+20,Nationals,Cubs,No Result,Aug 16,24,46,25,41
+20,Pirates,Red Sox,No Result,Aug 16,26,39,36,31
+20,Yankees,Rays,No Result,Aug 16,49,17,36,30
+20,Blue Jays,Orioles,No Result,Aug 16,38,28,30,38
+20,Guardians,Tigers,No Result,Aug 16,34,28,26,40
+20,Braves,Mets,No Result,Aug 16,38,29,44,24
+20,Twins,Royals,No Result,Aug 16,38,30,23,42
+20,Cardinals,Rockies,No Result,Aug 16,38,30,30,37
+20,Rangers,Athletics,No Result,Aug 16,31,35,23,45
+20,White Sox,Astros,No Result,Aug 16,31,33,41,25
+20,Brewers,Dodgers,No Result,Aug 16,38,30,40,25
+20,Angels,Mariners,No Result,Aug 16,33,36,29,39
+20,Giants,Diamondbacks,No Result,Aug 16,37,28,32,36
+20,Reds,Phillies,No Result,Aug 17,23,43,36,32
+20,Nationals,Cubs,No Result,Aug 17,24,46,25,41
+20,Twins,Royals,No Result,Aug 17,38,30,23,42
+20,Blue Jays,Orioles,No Result,Aug 17,38,28,30,38
+20,Angels,Mariners,No Result,Aug 17,33,36,29,39
+20,Marlins,Padres,No Result,Aug 17,29,35,41,27
+20,Pirates,Red Sox,No Result,Aug 17,26,39,36,31
+20,Yankees,Rays,No Result,Aug 17,49,17,36,30
+20,Guardians,Tigers,No Result,Aug 17,34,28,26,40
+20,Braves,Mets,No Result,Aug 17,38,29,44,24
+20,Cardinals,Rockies,No Result,Aug 17,38,30,30,37
+20,Rangers,Athletics,No Result,Aug 17,31,35,23,45
+20,White Sox,Astros,No Result,Aug 17,31,33,41,25
+20,Brewers,Dodgers,No Result,Aug 17,38,30,40,25
+20,Giants,Diamondbacks,No Result,Aug 17,37,28,32,36
+20,Cardinals,Rockies,No Result,Aug 18,38,30,30,37
+20,Rangers,Athletics,No Result,Aug 18,31,35,23,45
+20,White Sox,Astros,No Result,Aug 18,31,33,41,25
+20,Brewers,Dodgers,No Result,Aug 18,38,30,40,25
+20,Orioles,Cubs,No Result,Aug 18,30,38,25,41
+20,Giants,Diamondbacks,No Result,Aug 18,37,28,32,36
+20,Pirates,Red Sox,No Result,Aug 18,26,39,36,31
+20,Yankees,Blue Jays,No Result,Aug 18,49,17,38,28
+20,Rays,Royals,No Result,Aug 18,36,30,23,42
+20,Braves,Mets,No Result,Aug 18,38,29,44,24
+20,Padres,Nationals,No Result,Aug 18,41,27,24,46
+20,Cubs,Brewers,No Result,Aug 19,25,41,38,30
+20,Yankees,Blue Jays,No Result,Aug 19,49,17,38,28
+20,Orioles,Red Sox,No Result,Aug 19,30,38,36,31
+20,Pirates,Reds,No Result,Aug 19,26,39,23,43
+20,Phillies,Mets,No Result,Aug 19,36,32,44,24
+20,Guardians,White Sox,No Result,Aug 19,34,28,31,33
+20,Tigers,Angels,No Result,Aug 19,26,40,33,36
+20,Rays,Royals,No Result,Aug 19,36,30,23,42
+20,Braves,Astros,No Result,Aug 19,38,29,41,25
+20,Twins,Rangers,No Result,Aug 19,38,30,31,35
+20,Rockies,Giants,No Result,Aug 19,30,37,37,28
+20,Padres,Nationals,No Result,Aug 19,41,27,24,46
+20,Athletics,Mariners,No Result,Aug 19,23,45,29,39
+20,Diamondbacks,Cardinals,No Result,Aug 19,32,36,38,30
+20,Dodgers,Marlins,No Result,Aug 19,40,25,29,35
+20,Yankees,Blue Jays,No Result,Aug 20,49,17,38,28
+20,Phillies,Mets,No Result,Aug 20,36,32,44,24
+20,Tigers,Angels,No Result,Aug 20,26,40,33,36
+20,Cubs,Brewers,No Result,Aug 20,25,41,38,30
+20,Orioles,Red Sox,No Result,Aug 20,30,38,36,31
+20,Rays,Royals,No Result,Aug 20,36,30,23,42
+20,Guardians,White Sox,No Result,Aug 20,34,28,31,33
+20,Pirates,Reds,No Result,Aug 20,26,39,23,43
+20,Twins,Rangers,No Result,Aug 20,38,30,31,35
+20,Phillies,Mets,No Result,Aug 20,36,32,44,24
+20,Athletics,Mariners,No Result,Aug 20,23,45,29,39
+20,Braves,Astros,No Result,Aug 20,38,29,41,25
+20,Rockies,Giants,No Result,Aug 20,30,37,37,28
+20,Diamondbacks,Cardinals,No Result,Aug 20,32,36,38,30
+20,Padres,Nationals,No Result,Aug 20,41,27,24,46
+20,Dodgers,Marlins,No Result,Aug 20,40,25,29,35
+20,Guardians,White Sox,No Result,Aug 21,34,28,31,33
+20,Pirates,Reds,No Result,Aug 21,26,39,23,43
+20,Phillies,Mets,No Result,Aug 21,36,32,44,24
+20,Braves,Astros,No Result,Aug 21,38,29,41,25
+20,Yankees,Blue Jays,No Result,Aug 21,49,17,38,28
+20,Tigers,Angels,No Result,Aug 21,26,40,33,36
+20,Rays,Royals,No Result,Aug 21,36,30,23,42
+20,Twins,Rangers,No Result,Aug 21,38,30,31,35
+20,Cubs,Brewers,No Result,Aug 21,25,41,38,30
+20,Rockies,Giants,No Result,Aug 21,30,37,37,28
+20,Athletics,Mariners,No Result,Aug 21,23,45,29,39
+20,Padres,Nationals,No Result,Aug 21,41,27,24,46
+20,Diamondbacks,Cardinals,No Result,Aug 21,32,36,38,30
+20,Dodgers,Marlins,No Result,Aug 21,40,25,29,35
+20,Orioles,Red Sox,No Result,Aug 21,30,38,36,31
+21,Royals,White Sox,No Result,Aug 22,23,42,31,33
+21,Phillies,Reds,No Result,Aug 22,36,32,23,43
+21,Pirates,Braves,No Result,Aug 22,26,39,38,29
+21,Yankees,Mets,No Result,Aug 22,49,17,44,24
+21,Rays,Angels,No Result,Aug 22,36,30,33,36
+21,Twins,Rangers,No Result,Aug 22,38,30,31,35
+21,Cubs,Cardinals,No Result,Aug 22,25,41,38,30
+21,Athletics,Marlins,No Result,Aug 22,23,45,29,35
+21,Dodgers,Brewers,No Result,Aug 22,40,25,38,30
+21,Cubs,Cardinals,No Result,Aug 23,25,41,38,30
+21,Phillies,Reds,No Result,Aug 23,36,32,23,43
+21,Pirates,Braves,No Result,Aug 23,26,39,38,29
+21,Orioles,White Sox,No Result,Aug 23,30,38,31,33
+21,Yankees,Mets,No Result,Aug 23,49,17,44,24
+21,Tigers,Giants,No Result,Aug 23,26,40,37,28
+21,Rays,Angels,No Result,Aug 23,36,30,33,36
+21,Red Sox,Blue Jays,No Result,Aug 23,36,31,38,28
+21,Cubs,Cardinals,No Result,Aug 23,25,41,38,30
+21,Royals,Diamondbacks,No Result,Aug 23,23,42,32,36
+21,Astros,Twins,No Result,Aug 23,41,25,38,30
+21,Rockies,Rangers,No Result,Aug 23,30,37,31,35
+21,Padres,Guardians,No Result,Aug 23,41,27,34,28
+21,Athletics,Marlins,No Result,Aug 23,23,45,29,35
+21,Mariners,Nationals,No Result,Aug 23,29,39,24,46
+21,Dodgers,Brewers,No Result,Aug 23,40,25,38,30
+21,Pirates,Braves,No Result,Aug 24,26,39,38,29
+21,Tigers,Giants,No Result,Aug 24,26,40,37,28
+21,Rockies,Rangers,No Result,Aug 24,30,37,31,35
+21,Athletics,Marlins,No Result,Aug 24,23,45,29,35
+21,Padres,Guardians,No Result,Aug 24,41,27,34,28
+21,Mariners,Nationals,No Result,Aug 24,29,39,24,46
+21,Phillies,Reds,No Result,Aug 24,36,32,23,43
+21,Orioles,White Sox,No Result,Aug 24,30,38,31,33
+21,Rays,Angels,No Result,Aug 24,36,30,33,36
+21,Red Sox,Blue Jays,No Result,Aug 24,36,31,38,28
+21,Cubs,Cardinals,No Result,Aug 24,25,41,38,30
+21,Royals,Diamondbacks,No Result,Aug 24,23,42,32,36
+21,Astros,Twins,No Result,Aug 24,41,25,38,30
+21,Dodgers,Brewers,No Result,Aug 24,40,25,38,30
+21,Rays,Angels,No Result,Aug 25,36,30,33,36
+21,Cubs,Cardinals,No Result,Aug 25,25,41,38,30
+21,Mariners,Guardians,No Result,Aug 25,29,39,34,28
+21,Phillies,Reds,No Result,Aug 25,36,32,23,43
+21,Orioles,White Sox,No Result,Aug 25,30,38,31,33
+21,Mets,Rockies,No Result,Aug 25,44,24,30,37
+21,Red Sox,Blue Jays,No Result,Aug 25,36,31,38,28
+21,Astros,Twins,No Result,Aug 25,41,25,38,30
+21,Athletics,Yankees,No Result,Aug 25,23,45,49,17
+21,Marlins,Dodgers,No Result,Aug 26,29,35,40,25
+21,Nationals,Reds,No Result,Aug 26,24,46,23,43
+21,Phillies,Pirates,No Result,Aug 26,36,32,26,39
+21,Blue Jays,Angels,No Result,Aug 26,38,28,33,36
+21,Mets,Rockies,No Result,Aug 26,44,24,30,37
+21,Red Sox,Rays,No Result,Aug 26,36,31,36,30
+21,Rangers,Tigers,No Result,Aug 26,31,35,26,40
+21,Astros,Orioles,No Result,Aug 26,41,25,30,38
+21,Royals,Padres,No Result,Aug 26,23,42,41,27
+21,Twins,Giants,No Result,Aug 26,38,30,37,28
+21,White Sox,Diamondbacks,No Result,Aug 26,31,33,32,36
+21,Brewers,Cubs,No Result,Aug 26,38,30,25,41
+21,Cardinals,Braves,No Result,Aug 26,38,30,38,29
+21,Athletics,Yankees,No Result,Aug 26,23,45,49,17
+21,Mariners,Guardians,No Result,Aug 26,29,39,34,28
+21,Blue Jays,Angels,No Result,Aug 27,38,28,33,36
+21,Red Sox,Rays,No Result,Aug 27,36,31,36,30
+21,Phillies,Pirates,No Result,Aug 27,36,32,26,39
+21,Marlins,Dodgers,No Result,Aug 27,29,35,40,25
+21,Nationals,Reds,No Result,Aug 27,24,46,23,43
+21,Rangers,Tigers,No Result,Aug 27,31,35,26,40
+21,Astros,Orioles,No Result,Aug 27,41,25,30,38
+21,Mets,Rockies,No Result,Aug 27,44,24,30,37
+21,Royals,Padres,No Result,Aug 27,23,42,41,27
+21,White Sox,Diamondbacks,No Result,Aug 27,31,33,32,36
+21,Brewers,Cubs,No Result,Aug 27,38,30,25,41
+21,Twins,Giants,No Result,Aug 27,38,30,37,28
+21,Cardinals,Braves,No Result,Aug 27,38,30,38,29
+21,Athletics,Yankees,No Result,Aug 27,23,45,49,17
+21,Mariners,Guardians,No Result,Aug 27,29,39,34,28
+21,Red Sox,Rays,No Result,Aug 28,36,31,36,30
+21,Marlins,Dodgers,No Result,Aug 28,29,35,40,25
+21,Nationals,Reds,No Result,Aug 28,24,46,23,43
+21,Phillies,Pirates,No Result,Aug 28,36,32,26,39
+21,Blue Jays,Angels,No Result,Aug 28,38,28,33,36
+21,Mets,Rockies,No Result,Aug 28,44,24,30,37
+21,Astros,Orioles,No Result,Aug 28,41,25,30,38
+21,Royals,Padres,No Result,Aug 28,23,42,41,27
+21,Twins,Giants,No Result,Aug 28,38,30,37,28
+21,White Sox,Diamondbacks,No Result,Aug 28,31,33,32,36
+21,Brewers,Cubs,No Result,Aug 28,38,30,25,41
+21,Cardinals,Braves,No Result,Aug 28,38,30,38,29
+21,Rangers,Tigers,No Result,Aug 28,31,35,26,40
+21,Athletics,Yankees,No Result,Aug 28,23,45,49,17
+21,Mariners,Guardians,No Result,Aug 28,29,39,34,28
+22,Reds,Cardinals,No Result,Aug 29,23,43,38,30
+22,Marlins,Dodgers,No Result,Aug 29,29,35,40,25
+22,Blue Jays,Cubs,No Result,Aug 29,38,28,25,41
+22,Twins,Red Sox,No Result,Aug 29,38,30,36,31
+22,Brewers,Pirates,No Result,Aug 29,38,30,26,39
+22,Angels,Yankees,No Result,Aug 29,33,36,49,17
+22,Diamondbacks,Phillies,No Result,Aug 29,32,36,36,32
+22,Giants,Padres,No Result,Aug 29,37,28,41,27
+22,Guardians,Orioles,No Result,Aug 30,34,28,30,38
+22,Reds,Cardinals,No Result,Aug 30,23,43,38,30
+22,Marlins,Rays,No Result,Aug 30,29,35,36,30
+22,Nationals,Athletics,No Result,Aug 30,24,46,23,45
+22,Blue Jays,Cubs,No Result,Aug 30,38,28,25,41
+22,Mets,Dodgers,No Result,Aug 30,44,24,40,25
+22,Tigers,Mariners,No Result,Aug 30,26,40,29,39
+22,Braves,Rockies,No Result,Aug 30,38,29,30,37
+22,Twins,Red Sox,No Result,Aug 30,38,30,36,31
+22,Rangers,Astros,No Result,Aug 30,31,35,41,25
+22,White Sox,Royals,No Result,Aug 30,31,33,23,42
+22,Brewers,Pirates,No Result,Aug 30,38,30,26,39
+22,Angels,Yankees,No Result,Aug 30,33,36,49,17
+22,Diamondbacks,Phillies,No Result,Aug 30,32,36,36,32
+22,Giants,Padres,No Result,Aug 30,37,28,41,27
+22,Rangers,Astros,No Result,Aug 31,31,35,41,25
+22,Brewers,Pirates,No Result,Aug 31,38,30,26,39
+22,Giants,Padres,No Result,Aug 31,37,28,41,27
+22,Guardians,Orioles,No Result,Aug 31,34,28,30,38
+22,Reds,Cardinals,No Result,Aug 31,23,43,38,30
+22,Marlins,Rays,No Result,Aug 31,29,35,36,30
+22,Nationals,Athletics,No Result,Aug 31,24,46,23,45
+22,Blue Jays,Cubs,No Result,Aug 31,38,28,25,41
+22,Mets,Dodgers,No Result,Aug 31,44,24,40,25
+22,Tigers,Mariners,No Result,Aug 31,26,40,29,39
+22,Braves,Rockies,No Result,Aug 31,38,29,30,37
+22,Twins,Red Sox,No Result,Aug 31,38,30,36,31
+22,White Sox,Royals,No Result,Aug 31,31,33,23,42
+22,Angels,Yankees,No Result,Aug 31,33,36,49,17
+22,Diamondbacks,Phillies,No Result,Aug 31,32,36,36,32
+22,Tigers,Mariners,No Result,Sep 1,26,40,29,39
+22,White Sox,Royals,No Result,Sep 1,31,33,23,42
+22,Nationals,Athletics,No Result,Sep 1,24,46,23,45
+22,Mets,Dodgers,No Result,Sep 1,44,24,40,25
+22,Guardians,Orioles,No Result,Sep 1,34,28,30,38
+22,Red Sox,Rangers,No Result,Sep 1,36,31,31,35
+22,Braves,Rockies,No Result,Sep 1,38,29,30,37
+22,Diamondbacks,Brewers,No Result,Sep 1,32,36,38,30
+22,Pirates,Blue Jays,No Result,Sep 2,26,39,38,28
+22,Reds,Rockies,No Result,Sep 2,23,43,30,37
+22,Orioles,Athletics,No Result,Sep 2,30,38,23,45
+22,Tigers,Royals,No Result,Sep 2,26,40,23,42
+22,Mets,Nationals,No Result,Sep 2,44,24,24,46
+22,Guardians,Mariners,No Result,Sep 2,34,28,29,39
+22,Red Sox,Rangers,No Result,Sep 2,36,31,31,35
+22,Rays,Yankees,No Result,Sep 2,36,30,49,17
+22,Braves,Marlins,No Result,Sep 2,38,29,29,35
+22,White Sox,Twins,No Result,Sep 2,31,33,38,30
+22,Cardinals,Cubs,No Result,Sep 2,38,30,25,41
+22,Angels,Astros,No Result,Sep 2,33,36,41,25
+22,Diamondbacks,Brewers,No Result,Sep 2,32,36,38,30
+22,Dodgers,Padres,No Result,Sep 2,40,25,41,27
+22,Giants,Phillies,No Result,Sep 2,37,28,36,32
+22,Giants,Phillies,No Result,Sep 3,37,28,36,32
+22,Red Sox,Rangers,No Result,Sep 3,36,31,31,35
+22,Tigers,Royals,No Result,Sep 3,26,40,23,42
+22,Rays,Yankees,No Result,Sep 3,36,30,49,17
+22,Pirates,Blue Jays,No Result,Sep 3,26,39,38,28
+22,Reds,Rockies,No Result,Sep 3,23,43,30,37
+22,Orioles,Athletics,No Result,Sep 3,30,38,23,45
+22,White Sox,Twins,No Result,Sep 3,31,33,38,30
+22,Mets,Nationals,No Result,Sep 3,44,24,24,46
+22,Guardians,Mariners,No Result,Sep 3,34,28,29,39
+22,Cardinals,Cubs,No Result,Sep 3,38,30,25,41
+22,Braves,Marlins,No Result,Sep 3,38,29,29,35
+22,Diamondbacks,Brewers,No Result,Sep 3,32,36,38,30
+22,Angels,Astros,No Result,Sep 3,33,36,41,25
+22,Dodgers,Padres,No Result,Sep 3,40,25,41,27
+22,Guardians,Mariners,No Result,Sep 4,34,28,29,39
+22,Pirates,Blue Jays,No Result,Sep 4,26,39,38,28
+22,Red Sox,Rangers,No Result,Sep 4,36,31,31,35
+22,Braves,Marlins,No Result,Sep 4,38,29,29,35
+22,Orioles,Athletics,No Result,Sep 4,30,38,23,45
+22,Tigers,Royals,No Result,Sep 4,26,40,23,42
+22,Mets,Nationals,No Result,Sep 4,44,24,24,46
+22,Rays,Yankees,No Result,Sep 4,36,30,49,17
+22,Reds,Rockies,No Result,Sep 4,23,43,30,37
+22,White Sox,Twins,No Result,Sep 4,31,33,38,30
+22,Cardinals,Cubs,No Result,Sep 4,38,30,25,41
+22,Giants,Phillies,No Result,Sep 4,37,28,36,32
+22,Angels,Astros,No Result,Sep 4,33,36,41,25
+22,Diamondbacks,Brewers,No Result,Sep 4,32,36,38,30
+22,Dodgers,Padres,No Result,Sep 4,40,25,41,27
+23,Pirates,Mets,No Result,Sep 5,26,39,44,24
+23,Orioles,Blue Jays,No Result,Sep 5,30,38,38,28
+23,Yankees,Twins,No Result,Sep 5,49,17,38,30
+23,Rays,Red Sox,No Result,Sep 5,36,30,36,31
+23,Rockies,Brewers,No Result,Sep 5,30,37,38,30
+23,Cardinals,Nationals,No Result,Sep 5,38,30,24,46
+23,Padres,Diamondbacks,No Result,Sep 5,41,27,32,36
+23,Mariners,White Sox,No Result,Sep 5,29,39,31,33
+23,Astros,Rangers,No Result,Sep 5,41,25,31,35
+23,Royals,Guardians,No Result,Sep 5,23,42,34,28
+23,Angels,Tigers,No Result,Sep 5,33,36,26,40
+23,Dodgers,Giants,No Result,Sep 5,40,25,37,28
+23,Pirates,Mets,No Result,Sep 6,26,39,44,24
+23,Rays,Red Sox,No Result,Sep 6,36,30,36,31
+23,Phillies,Marlins,No Result,Sep 6,36,32,29,35
+23,Orioles,Blue Jays,No Result,Sep 6,30,38,38,28
+23,Yankees,Twins,No Result,Sep 6,49,17,38,30
+23,Cubs,Reds,No Result,Sep 6,25,41,23,43
+23,Cardinals,Nationals,No Result,Sep 6,38,30,24,46
+23,Royals,Guardians,No Result,Sep 6,23,42,34,28
+23,Astros,Rangers,No Result,Sep 6,41,25,31,35
+23,Rockies,Brewers,No Result,Sep 6,30,37,38,30
+23,Angels,Tigers,No Result,Sep 6,33,36,26,40
+23,Padres,Diamondbacks,No Result,Sep 6,41,27,32,36
+23,Athletics,Braves,No Result,Sep 6,23,45,38,29
+23,Mariners,White Sox,No Result,Sep 6,29,39,31,33
+23,Dodgers,Giants,No Result,Sep 6,40,25,37,28
+23,Rockies,Brewers,No Result,Sep 7,30,37,38,30
+23,Athletics,Braves,No Result,Sep 7,23,45,38,29
+23,Angels,Tigers,No Result,Sep 7,33,36,26,40
+23,Dodgers,Giants,No Result,Sep 7,40,25,37,28
+23,Mariners,White Sox,No Result,Sep 7,29,39,31,33
+23,Pirates,Mets,No Result,Sep 7,26,39,44,24
+23,Rays,Red Sox,No Result,Sep 7,36,30,36,31
+23,Phillies,Marlins,No Result,Sep 7,36,32,29,35
+23,Orioles,Blue Jays,No Result,Sep 7,30,38,38,28
+23,Yankees,Twins,No Result,Sep 7,49,17,38,30
+23,Cubs,Reds,No Result,Sep 7,25,41,23,43
+23,Cardinals,Nationals,No Result,Sep 7,38,30,24,46
+23,Royals,Guardians,No Result,Sep 7,23,42,34,28
+23,Astros,Rangers,No Result,Sep 7,41,25,31,35
+23,Padres,Diamondbacks,No Result,Sep 7,41,27,32,36
+23,Brewers,Giants,No Result,Sep 8,38,30,37,28
+23,Cardinals,Nationals,No Result,Sep 8,38,30,24,46
+23,Cubs,Reds,No Result,Sep 8,25,41,23,43
+23,Brewers,Giants,No Result,Sep 8,38,30,37,28
+23,Phillies,Marlins,No Result,Sep 8,36,32,29,35
+23,Yankees,Twins,No Result,Sep 8,49,17,38,30
+23,Athletics,White Sox,No Result,Sep 8,23,45,31,33
+23,Cubs,Giants,No Result,Sep 9,25,41,37,28
+23,Pirates,Cardinals,No Result,Sep 9,26,39,38,30
+23,Marlins,Mets,No Result,Sep 9,29,35,44,24
+23,Orioles,Red Sox,No Result,Sep 9,30,38,36,31
+23,Phillies,Nationals,No Result,Sep 9,36,32,24,46
+23,Yankees,Rays,No Result,Sep 9,49,17,36,30
+23,Rangers,Blue Jays,No Result,Sep 9,31,35,38,28
+23,Astros,Angels,No Result,Sep 9,41,25,33,36
+23,Royals,Tigers,No Result,Sep 9,23,42,26,40
+23,Twins,Guardians,No Result,Sep 9,38,30,34,28
+23,Brewers,Reds,No Result,Sep 9,38,30,23,43
+23,Rockies,Diamondbacks,No Result,Sep 9,30,37,32,36
+23,Padres,Dodgers,No Result,Sep 9,41,27,40,25
+23,Mariners,Braves,No Result,Sep 9,29,39,38,29
+23,Athletics,White Sox,No Result,Sep 9,23,45,31,33
+23,Yankees,Rays,No Result,Sep 10,49,17,36,30
+23,Cubs,Giants,No Result,Sep 10,25,41,37,28
+23,Athletics,White Sox,No Result,Sep 10,23,45,31,33
+23,Orioles,Red Sox,No Result,Sep 10,30,38,36,31
+23,Phillies,Nationals,No Result,Sep 10,36,32,24,46
+23,Marlins,Mets,No Result,Sep 10,29,35,44,24
+23,Rangers,Blue Jays,No Result,Sep 10,31,35,38,28
+23,Royals,Tigers,No Result,Sep 10,23,42,26,40
+23,Twins,Guardians,No Result,Sep 10,38,30,34,28
+23,Astros,Angels,No Result,Sep 10,41,25,33,36
+23,Brewers,Reds,No Result,Sep 10,38,30,23,43
+23,Pirates,Cardinals,No Result,Sep 10,26,39,38,30
+23,Rockies,Diamondbacks,No Result,Sep 10,30,37,32,36
+23,Padres,Dodgers,No Result,Sep 10,41,27,40,25
+23,Mariners,Braves,No Result,Sep 10,29,39,38,29
+23,Orioles,Red Sox,No Result,Sep 11,30,38,36,31
+23,Phillies,Nationals,No Result,Sep 11,36,32,24,46
+23,Pirates,Cardinals,No Result,Sep 11,26,39,38,30
+23,Yankees,Rays,No Result,Sep 11,49,17,36,30
+23,Marlins,Mets,No Result,Sep 11,29,35,44,24
+23,Astros,Angels,No Result,Sep 11,41,25,33,36
+23,Royals,Tigers,No Result,Sep 11,23,42,26,40
+23,Twins,Guardians,No Result,Sep 11,38,30,34,28
+23,Brewers,Reds,No Result,Sep 11,38,30,23,43
+23,Cubs,Giants,No Result,Sep 11,25,41,37,28
+23,Rangers,Blue Jays,No Result,Sep 11,31,35,38,28
+23,Rockies,Diamondbacks,No Result,Sep 11,30,37,32,36
+23,Athletics,White Sox,No Result,Sep 11,23,45,31,33
+23,Padres,Dodgers,No Result,Sep 11,41,27,40,25
+23,Mariners,Braves,No Result,Sep 11,29,39,38,29
+24,Marlins,Rangers,No Result,Sep 12,29,35,31,35
+24,Guardians,Angels,No Result,Sep 12,34,28,33,36
+24,Tigers,Astros,No Result,Sep 12,26,40,41,25
+24,Reds,Pirates,No Result,Sep 12,23,43,26,39
+24,Blue Jays,Rays,No Result,Sep 12,38,28,36,30
+24,Marlins,Rangers,No Result,Sep 12,29,35,31,35
+24,Mets,Cubs,No Result,Sep 12,44,24,25,41
+24,Diamondbacks,Dodgers,No Result,Sep 12,32,36,40,25
+24,Giants,Braves,No Result,Sep 12,37,28,38,29
+24,Reds,Pirates,No Result,Sep 13,23,43,26,39
+24,Blue Jays,Rays,No Result,Sep 13,38,28,36,30
+24,Guardians,Angels,No Result,Sep 13,34,28,33,36
+24,Reds,Pirates,No Result,Sep 13,23,43,26,39
+24,Tigers,Astros,No Result,Sep 13,26,40,41,25
+24,Marlins,Phillies,No Result,Sep 13,29,35,36,32
+24,Nationals,Orioles,No Result,Sep 13,24,46,30,38
+24,Blue Jays,Rays,No Result,Sep 13,38,28,36,30
+24,Mets,Cubs,No Result,Sep 13,44,24,25,41
+24,Red Sox,Yankees,No Result,Sep 13,36,31,49,17
+24,Twins,Royals,No Result,Sep 13,38,30,23,42
+24,Cardinals,Brewers,No Result,Sep 13,38,30,38,30
+24,Rangers,Athletics,No Result,Sep 13,31,35,23,45
+24,White Sox,Rockies,No Result,Sep 13,31,33,30,37
+24,Diamondbacks,Dodgers,No Result,Sep 13,32,36,40,25
+24,Mariners,Padres,No Result,Sep 13,29,39,41,27
+24,Giants,Braves,No Result,Sep 13,37,28,38,29
+24,Reds,Pirates,No Result,Sep 14,23,43,26,39
+24,Guardians,Angels,No Result,Sep 14,34,28,33,36
+24,Tigers,Astros,No Result,Sep 14,26,40,41,25
+24,Giants,Braves,No Result,Sep 14,37,28,38,29
+24,Mariners,Padres,No Result,Sep 14,29,39,41,27
+24,Marlins,Phillies,No Result,Sep 14,29,35,36,32
+24,Nationals,Orioles,No Result,Sep 14,24,46,30,38
+24,Blue Jays,Rays,No Result,Sep 14,38,28,36,30
+24,Mets,Cubs,No Result,Sep 14,44,24,25,41
+24,Red Sox,Yankees,No Result,Sep 14,36,31,49,17
+24,Twins,Royals,No Result,Sep 14,38,30,23,42
+24,Cardinals,Brewers,No Result,Sep 14,38,30,38,30
+24,Rangers,Athletics,No Result,Sep 14,31,35,23,45
+24,White Sox,Rockies,No Result,Sep 14,31,33,30,37
+24,Diamondbacks,Dodgers,No Result,Sep 14,32,36,40,25
+24,Blue Jays,Rays,No Result,Sep 15,38,28,36,30
+24,Marlins,Phillies,No Result,Sep 15,29,35,36,32
+24,Mets,Pirates,No Result,Sep 15,44,24,26,39
+24,Twins,Royals,No Result,Sep 15,38,30,23,42
+24,Cardinals,Reds,No Result,Sep 15,38,30,23,43
+24,Astros,Athletics,No Result,Sep 15,41,25,23,45
+24,Diamondbacks,Padres,No Result,Sep 15,32,36,41,27
+24,Cubs,Rockies,No Result,Sep 16,25,41,30,37
+24,Nationals,Marlins,No Result,Sep 16,24,46,29,35
+24,Blue Jays,Orioles,No Result,Sep 16,38,28,30,38
+24,Red Sox,Royals,No Result,Sep 16,36,31,23,42
+24,Mets,Pirates,No Result,Sep 16,44,24,26,39
+24,Rays,Rangers,No Result,Sep 16,36,30,31,35
+24,Guardians,Twins,No Result,Sep 16,34,28,38,30
+24,Tigers,White Sox,No Result,Sep 16,26,40,31,33
+24,Braves,Phillies,No Result,Sep 16,38,29,36,32
+24,Astros,Athletics,No Result,Sep 16,41,25,23,45
+24,Brewers,Yankees,No Result,Sep 16,38,30,49,17
+24,Cardinals,Reds,No Result,Sep 16,38,30,23,43
+24,Angels,Mariners,No Result,Sep 16,33,36,29,39
+24,Diamondbacks,Padres,No Result,Sep 16,32,36,41,27
+24,Giants,Dodgers,No Result,Sep 16,37,28,40,25
+24,Guardians,Twins,No Result,Sep 17,34,28,38,30
+24,Cubs,Rockies,No Result,Sep 17,25,41,30,37
+24,Blue Jays,Orioles,No Result,Sep 17,38,28,30,38
+24,Nationals,Marlins,No Result,Sep 17,24,46,29,35
+24,Red Sox,Royals,No Result,Sep 17,36,31,23,42
+24,Rays,Rangers,No Result,Sep 17,36,30,31,35
+24,Tigers,White Sox,No Result,Sep 17,26,40,31,33
+24,Guardians,Twins,No Result,Sep 17,34,28,38,30
+24,Astros,Athletics,No Result,Sep 17,41,25,23,45
+24,Mets,Pirates,No Result,Sep 17,44,24,26,39
+24,Brewers,Yankees,No Result,Sep 17,38,30,49,17
+24,Cardinals,Reds,No Result,Sep 17,38,30,23,43
+24,Braves,Phillies,No Result,Sep 17,38,29,36,32
+24,Diamondbacks,Padres,No Result,Sep 17,32,36,41,27
+24,Giants,Dodgers,No Result,Sep 17,37,28,40,25
+24,Angels,Mariners,No Result,Sep 17,33,36,29,39
+24,Rays,Rangers,No Result,Sep 18,36,30,31,35
+24,Tigers,White Sox,No Result,Sep 18,26,40,31,33
+24,Red Sox,Royals,No Result,Sep 18,36,31,23,42
+24,Braves,Phillies,No Result,Sep 18,38,29,36,32
+24,Nationals,Marlins,No Result,Sep 18,24,46,29,35
+24,Blue Jays,Orioles,No Result,Sep 18,38,28,30,38
+24,Mets,Pirates,No Result,Sep 18,44,24,26,39
+24,Guardians,Twins,No Result,Sep 18,34,28,38,30
+24,Astros,Athletics,No Result,Sep 18,41,25,23,45
+24,Brewers,Yankees,No Result,Sep 18,38,30,49,17
+24,Cardinals,Reds,No Result,Sep 18,38,30,23,43
+24,Cubs,Rockies,No Result,Sep 18,25,41,30,37
+24,Giants,Dodgers,No Result,Sep 18,37,28,40,25
+24,Angels,Mariners,No Result,Sep 18,33,36,29,39
+24,Diamondbacks,Padres,No Result,Sep 18,32,36,41,27
+25,Guardians,Twins,No Result,Sep 19,34,28,38,30
+25,Angels,Mariners,No Result,Sep 19,33,36,29,39
+25,Rays,Astros,No Result,Sep 19,36,30,41,25
+25,Marlins,Cubs,No Result,Sep 19,29,35,25,41
+25,Orioles,Tigers,No Result,Sep 19,30,38,26,40
+25,Braves,Nationals,No Result,Sep 19,38,29,24,46
+25,Brewers,Mets,No Result,Sep 19,38,30,44,24
+25,Rockies,Giants,No Result,Sep 19,30,37,37,28
+25,Dodgers,Diamondbacks,No Result,Sep 19,40,25,32,36
+25,Dodgers,Diamondbacks,No Result,Sep 20,40,25,32,36
+25,Reds,Red Sox,No Result,Sep 20,23,43,36,31
+25,Rays,Astros,No Result,Sep 20,36,30,41,25
+25,Marlins,Cubs,No Result,Sep 20,29,35,25,41
+25,Phillies,Blue Jays,No Result,Sep 20,36,32,38,28
+25,Orioles,Tigers,No Result,Sep 20,30,38,26,40
+25,Yankees,Pirates,No Result,Sep 20,49,17,26,39
+25,Braves,Nationals,No Result,Sep 20,38,29,24,46
+25,Brewers,Mets,No Result,Sep 20,38,30,44,24
+25,Rangers,Angels,No Result,Sep 20,31,35,33,36
+25,Royals,Twins,No Result,Sep 20,23,42,38,30
+25,White Sox,Guardians,No Result,Sep 20,31,33,34,28
+25,Rockies,Giants,No Result,Sep 20,30,37,37,28
+25,Athletics,Mariners,No Result,Sep 20,23,45,29,39
+25,Padres,Cardinals,No Result,Sep 20,41,27,38,30
+25,Dodgers,Diamondbacks,No Result,Sep 20,40,25,32,36
+25,Braves,Nationals,No Result,Sep 21,38,29,24,46
+25,Brewers,Mets,No Result,Sep 21,38,30,44,24
+25,Reds,Red Sox,No Result,Sep 21,23,43,36,31
+25,Rays,Astros,No Result,Sep 21,36,30,41,25
+25,Marlins,Cubs,No Result,Sep 21,29,35,25,41
+25,Phillies,Blue Jays,No Result,Sep 21,36,32,38,28
+25,Orioles,Tigers,No Result,Sep 21,30,38,26,40
+25,Yankees,Pirates,No Result,Sep 21,49,17,26,39
+25,Rangers,Angels,No Result,Sep 21,31,35,33,36
+25,Royals,Twins,No Result,Sep 21,23,42,38,30
+25,White Sox,Guardians,No Result,Sep 21,31,33,34,28
+25,Rockies,Giants,No Result,Sep 21,30,37,37,28
+25,Athletics,Mariners,No Result,Sep 21,23,45,29,39
+25,Padres,Cardinals,No Result,Sep 21,41,27,38,30
+25,Dodgers,Diamondbacks,No Result,Sep 21,40,25,32,36
+25,Rangers,Angels,No Result,Sep 22,31,35,33,36
+25,Royals,Twins,No Result,Sep 22,23,42,38,30
+25,Rockies,Giants,No Result,Sep 22,30,37,37,28
+25,Athletics,Mariners,No Result,Sep 22,23,45,29,39
+25,Padres,Cardinals,No Result,Sep 22,41,27,38,30
+25,Pirates,Cubs,No Result,Sep 22,26,39,25,41
+25,Rays,Blue Jays,No Result,Sep 22,36,30,38,28
+25,Reds,Brewers,No Result,Sep 22,23,43,38,30
+25,Phillies,Braves,No Result,Sep 22,36,32,38,29
+25,Orioles,Astros,No Result,Sep 22,30,38,41,25
+25,Yankees,Red Sox,No Result,Sep 22,49,17,36,31
+25,White Sox,Guardians,No Result,Sep 22,31,33,34,28
+25,Dodgers,Diamondbacks,No Result,Sep 22,40,25,32,36
+25,Pirates,Cubs,No Result,Sep 23,26,39,25,41
+25,Marlins,Nationals,No Result,Sep 23,29,35,24,46
+25,Reds,Brewers,No Result,Sep 23,23,43,38,30
+25,Orioles,Astros,No Result,Sep 23,30,38,41,25
+25,Phillies,Braves,No Result,Sep 23,36,32,38,29
+25,Yankees,Red Sox,No Result,Sep 23,49,17,36,31
+25,Rays,Blue Jays,No Result,Sep 23,36,30,38,28
+25,Rangers,Guardians,No Result,Sep 23,31,35,34,28
+25,Rockies,Padres,No Result,Sep 23,30,37,41,27
+25,Royals,Mariners,No Result,Sep 23,23,42,29,39
+25,Twins,Angels,No Result,Sep 23,38,30,33,36
+25,White Sox,Tigers,No Result,Sep 23,31,33,26,40
+25,Athletics,Mets,No Result,Sep 23,23,45,44,24
+25,Diamondbacks,Giants,No Result,Sep 23,32,36,37,28
+25,Dodgers,Cardinals,No Result,Sep 23,40,25,38,30
+25,Yankees,Red Sox,No Result,Sep 24,49,17,36,31
+25,Phillies,Braves,No Result,Sep 24,36,32,38,29
+25,Athletics,Mets,No Result,Sep 24,23,45,44,24
+25,Rays,Blue Jays,No Result,Sep 24,36,30,38,28
+25,Marlins,Nationals,No Result,Sep 24,29,35,24,46
+25,Pirates,Cubs,No Result,Sep 24,26,39,25,41
+25,Reds,Brewers,No Result,Sep 24,23,43,38,30
+25,Orioles,Astros,No Result,Sep 24,30,38,41,25
+25,Rangers,Guardians,No Result,Sep 24,31,35,34,28
+25,Royals,Mariners,No Result,Sep 24,23,42,29,39
+25,Twins,Angels,No Result,Sep 24,38,30,33,36
+25,White Sox,Tigers,No Result,Sep 24,31,33,26,40
+25,Rockies,Padres,No Result,Sep 24,30,37,41,27
+25,Diamondbacks,Giants,No Result,Sep 24,32,36,37,28
+25,Dodgers,Cardinals,No Result,Sep 24,40,25,38,30
+25,Orioles,Astros,No Result,Sep 25,30,38,41,25
+25,Phillies,Braves,No Result,Sep 25,36,32,38,29
+25,Rays,Blue Jays,No Result,Sep 25,36,30,38,28
+25,Pirates,Cubs,No Result,Sep 25,26,39,25,41
+25,Yankees,Red Sox,No Result,Sep 25,49,17,36,31
+25,Marlins,Nationals,No Result,Sep 25,29,35,24,46
+25,Reds,Brewers,No Result,Sep 25,23,43,38,30
+25,Royals,Mariners,No Result,Sep 25,23,42,29,39
+25,Twins,Angels,No Result,Sep 25,38,30,33,36
+25,White Sox,Tigers,No Result,Sep 25,31,33,26,40
+25,Rangers,Guardians,No Result,Sep 25,31,35,34,28
+25,Rockies,Padres,No Result,Sep 25,30,37,41,27
+25,Athletics,Mets,No Result,Sep 25,23,45,44,24
+25,Diamondbacks,Giants,No Result,Sep 25,32,36,37,28
+25,Dodgers,Cardinals,No Result,Sep 25,40,25,38,30
+26,Pirates,Reds,No Result,Sep 26,26,39,23,43
+26,Nationals,Braves,No Result,Sep 26,24,46,38,29
+26,Blue Jays,Yankees,No Result,Sep 26,38,28,49,17
+26,Red Sox,Orioles,No Result,Sep 26,36,31,30,38
+26,Guardians,Rays,No Result,Sep 27,34,28,36,30
+26,Pirates,Reds,No Result,Sep 27,26,39,23,43
+26,Tigers,Royals,No Result,Sep 27,26,40,23,42
+26,Nationals,Braves,No Result,Sep 27,24,46,38,29
+26,Blue Jays,Yankees,No Result,Sep 27,38,28,49,17
+26,Red Sox,Orioles,No Result,Sep 27,36,31,30,38
+26,Mets,Marlins,No Result,Sep 27,44,24,29,35
+26,Cubs,Phillies,No Result,Sep 27,25,41,36,32
+26,Twins,White Sox,No Result,Sep 27,38,30,31,33
+26,Brewers,Cardinals,No Result,Sep 27,38,30,38,30
+26,Astros,Diamondbacks,No Result,Sep 27,41,25,32,36
+26,Angels,Athletics,No Result,Sep 27,33,36,23,45
+26,Padres,Dodgers,No Result,Sep 27,41,27,40,25
+26,Mariners,Rangers,No Result,Sep 27,29,39,31,35
+26,Giants,Rockies,No Result,Sep 27,37,28,30,37
+26,Pirates,Reds,No Result,Sep 28,26,39,23,43
+26,Guardians,Rays,No Result,Sep 28,34,28,36,30
+26,Tigers,Royals,No Result,Sep 28,26,40,23,42
+26,Nationals,Braves,No Result,Sep 28,24,46,38,29
+26,Blue Jays,Yankees,No Result,Sep 28,38,28,49,17
+26,Red Sox,Orioles,No Result,Sep 28,36,31,30,38
+26,Mets,Marlins,No Result,Sep 28,44,24,29,35
+26,Cubs,Phillies,No Result,Sep 28,25,41,36,32
+26,Twins,White Sox,No Result,Sep 28,38,30,31,33
+26,Brewers,Cardinals,No Result,Sep 28,38,30,38,30
+26,Astros,Diamondbacks,No Result,Sep 28,41,25,32,36
+26,Angels,Athletics,No Result,Sep 28,33,36,23,45
+26,Padres,Dodgers,No Result,Sep 28,41,27,40,25
+26,Mariners,Rangers,No Result,Sep 28,29,39,31,35
+26,Giants,Rockies,No Result,Sep 28,37,28,30,37
+26,Tigers,Royals,No Result,Sep 29,26,40,23,42
+26,Twins,White Sox,No Result,Sep 29,38,30,31,33
+26,Red Sox,Orioles,No Result,Sep 29,36,31,30,38
+26,Cubs,Phillies,No Result,Sep 29,25,41,36,32
+26,Guardians,Rays,No Result,Sep 29,34,28,36,30
+26,Brewers,Marlins,No Result,Sep 29,38,30,29,35
+26,Angels,Athletics,No Result,Sep 29,33,36,23,45
+26,Padres,Dodgers,No Result,Sep 29,41,27,40,25
+26,Mariners,Rangers,No Result,Sep 29,29,39,31,35
+26,Giants,Rockies,No Result,Sep 29,37,28,30,37
+26,Cubs,Reds,No Result,Sep 30,25,41,23,43
+26,Nationals,Phillies,No Result,Sep 30,24,46,36,32
+26,Yankees,Orioles,No Result,Sep 30,49,17,30,38
+26,Blue Jays,Red Sox,No Result,Sep 30,38,28,36,31
+26,Guardians,Royals,No Result,Sep 30,34,28,23,42
+26,Tigers,Twins,No Result,Sep 30,26,40,38,30
+26,Braves,Mets,No Result,Sep 30,38,29,44,24
+26,Astros,Rays,No Result,Sep 30,41,25,36,30
+26,Brewers,Marlins,No Result,Sep 30,38,30,29,35
+26,Cardinals,Pirates,No Result,Sep 30,38,30,26,39
+26,Angels,Rangers,No Result,Sep 30,33,36,31,35
+26,Mariners,Athletics,No Result,Sep 30,29,39,23,45
+26,Padres,White Sox,No Result,Sep 30,41,27,31,33
+26,Dodgers,Rockies,No Result,Sep 30,40,25,30,37
+26,Giants,Diamondbacks,No Result,Sep 30,37,28,32,36
+26,Nationals,Phillies,No Result,Oct 1,24,46,36,32
+26,Yankees,Orioles,No Result,Oct 1,49,17,30,38
+26,Cubs,Reds,No Result,Oct 1,25,41,23,43
+26,Blue Jays,Red Sox,No Result,Oct 1,38,28,36,31
+26,Giants,Diamondbacks,No Result,Oct 1,37,28,32,36
+26,Mariners,Athletics,No Result,Oct 1,29,39,23,45
+26,Guardians,Royals,No Result,Oct 1,34,28,23,42
+26,Tigers,Twins,No Result,Oct 1,26,40,38,30
+26,Nationals,Phillies,No Result,Oct 1,24,46,36,32
+26,Astros,Rays,No Result,Oct 1,41,25,36,30
+26,Brewers,Marlins,No Result,Oct 1,38,30,29,35
+26,Cardinals,Pirates,No Result,Oct 1,38,30,26,39
+26,Braves,Mets,No Result,Oct 1,38,29,44,24
+26,Padres,White Sox,No Result,Oct 1,41,27,31,33
+26,Angels,Rangers,No Result,Oct 1,33,36,31,35
+26,Dodgers,Rockies,No Result,Oct 1,40,25,30,37
+26,Tigers,Twins,No Result,Oct 2,26,40,38,30
+26,Nationals,Phillies,No Result,Oct 2,24,46,36,32
+26,Braves,Mets,No Result,Oct 2,38,29,44,24
+26,Yankees,Orioles,No Result,Oct 2,49,17,30,38
+26,Blue Jays,Red Sox,No Result,Oct 2,38,28,36,31
+26,Guardians,Royals,No Result,Oct 2,34,28,23,42
+26,Astros,Rays,No Result,Oct 2,41,25,36,30
+26,Brewers,Marlins,No Result,Oct 2,38,30,29,35
+26,Cardinals,Pirates,No Result,Oct 2,38,30,26,39
+26,Cubs,Reds,No Result,Oct 2,25,41,23,43
+26,Giants,Diamondbacks,No Result,Oct 2,37,28,32,36
+26,Angels,Rangers,No Result,Oct 2,33,36,31,35
+26,Dodgers,Rockies,No Result,Oct 2,40,25,30,37
+26,Mariners,Athletics,No Result,Oct 2,29,39,23,45
+26,Padres,White Sox,No Result,Oct 2,41,27,31,33
+27,Guardians,Royals,No Result,Oct 3,34,28,23,42
+27,Pirates,Cardinals,No Result,Oct 3,26,39,38,30
+27,Reds,Cubs,No Result,Oct 3,23,43,25,41
+27,Marlins,Braves,No Result,Oct 3,29,35,38,29
+27,Orioles,Blue Jays,No Result,Oct 3,30,38,38,28
+27,Rangers,Yankees,No Result,Oct 3,31,35,49,17
+27,Mets,Nationals,No Result,Oct 3,44,24,24,46
+27,Red Sox,Rays,No Result,Oct 3,36,31,36,30
+27,Brewers,Diamondbacks,No Result,Oct 3,38,30,32,36
+27,Astros,Phillies,No Result,Oct 3,41,25,36,32
+27,White Sox,Twins,No Result,Oct 3,31,33,38,30
+27,Athletics,Angels,No Result,Oct 3,23,45,33,36
+27,Mariners,Tigers,No Result,Oct 3,29,39,26,40
+27,Padres,Giants,No Result,Oct 3,41,27,37,28
+27,Dodgers,Rockies,No Result,Oct 3,40,25,30,37
+27,Mariners,Tigers,No Result,Oct 4,29,39,26,40
+27,Rangers,Yankees,No Result,Oct 4,31,35,49,17
+27,Guardians,Royals,No Result,Oct 4,34,28,23,42
+27,Mariners,Tigers,No Result,Oct 4,29,39,26,40
+27,Pirates,Cardinals,No Result,Oct 4,26,39,38,30
+27,Reds,Cubs,No Result,Oct 4,23,43,25,41
+27,Marlins,Braves,No Result,Oct 4,29,35,38,29
+27,Orioles,Blue Jays,No Result,Oct 4,30,38,38,28
+27,Mets,Nationals,No Result,Oct 4,44,24,24,46
+27,Red Sox,Rays,No Result,Oct 4,36,31,36,30
+27,Brewers,Diamondbacks,No Result,Oct 4,38,30,32,36
+27,Rangers,Yankees,No Result,Oct 4,31,35,49,17
+27,Astros,Phillies,No Result,Oct 4,41,25,36,32
+27,White Sox,Twins,No Result,Oct 4,31,33,38,30
+27,Athletics,Angels,No Result,Oct 4,23,45,33,36
+27,Padres,Giants,No Result,Oct 4,41,27,37,28
+27,Dodgers,Rockies,No Result,Oct 4,40,25,30,37
+27,Athletics,Angels,No Result,Oct 5,23,45,33,36
+27,Pirates,Cardinals,No Result,Oct 5,26,39,38,30
+27,Orioles,Blue Jays,No Result,Oct 5,30,38,38,28
+27,Rangers,Yankees,No Result,Oct 5,31,35,49,17
+27,Reds,Cubs,No Result,Oct 5,23,43,25,41
+27,Guardians,Royals,No Result,Oct 5,34,28,23,42
+27,Mets,Nationals,No Result,Oct 5,44,24,24,46
+27,Red Sox,Rays,No Result,Oct 5,36,31,36,30
+27,Marlins,Braves,No Result,Oct 5,29,35,38,29
+27,Astros,Phillies,No Result,Oct 5,41,25,36,32
+27,White Sox,Twins,No Result,Oct 5,31,33,38,30
+27,Brewers,Diamondbacks,No Result,Oct 5,38,30,32,36
+27,Mariners,Tigers,No Result,Oct 5,29,39,26,40
+27,Padres,Giants,No Result,Oct 5,41,27,37,28
+27,Dodgers,Rockies,No Result,Oct 5,40,25,30,37
