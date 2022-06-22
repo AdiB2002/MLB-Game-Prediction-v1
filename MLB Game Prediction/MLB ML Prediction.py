@@ -47,6 +47,17 @@ class ML():
         X = self.df.drop([target_column_name], axis=1)
         y = self.df[target_column_name]
         self.X_train, self.X_test, self.y_train, self.y_test = train_test_split(X, y, test_size = test_size, random_state = 22)
+        
+    # splits into training and testing datasets 
+    def special_train_test_split(self, test_size=.2, target_column_name=''): 
+        
+        df_train = self.df.iloc[:round((1-test_size)*len(self.df))-1]
+        df_test = self.df.iloc[round((1-test_size)*len(self.df))-1:]
+        
+        self.X_train = df_train.drop([target_column_name], axis=1)
+        self.y_train = df_train[target_column_name]
+        self.X_test = df_test.drop([target_column_name], axis=1)
+        self.y_test = df_test[target_column_name]
     
     # analysis using ML models on data (for model accuracy testing)
     def ML_analysis(self):
@@ -107,7 +118,7 @@ class ML():
         # with kfold can also see proba plots
         
         # splits into training and testing data
-        self.train_test_split(.2, 'Result')
+        self.special_train_test_split(.2, 'Result')
         
         # fits model to data
         model.fit(self.X_train, self.y_train)
@@ -417,7 +428,7 @@ class Feature_Eng_Sel():
             
             # creates ML object and splits df into train test split
             ML_obj = ML(df)
-            ML_obj.train_test_split(test_size=.2, target_column_name='Result')
+            ML_obj.special_train_test_split(test_size=.2, target_column_name='Result')
            
             # gets results for those features and the max accuracy
             # index of model_accuracy is for basing accuracy on specific model
@@ -436,7 +447,7 @@ class Feature_Eng_Sel():
             fisher_feature_list = self.fisher_score(X, y, list(X.columns), number)
             df = data_preparation(team_stats_df, game_data_df, fisher_feature_list)
             ML_obj = ML(df)
-            ML_obj.train_test_split(test_size=.2, target_column_name='Result')
+            ML_obj.special_train_test_split(test_size=.2, target_column_name='Result')
             results_df = ML_obj.ML_analysis()
             column_max = results_df['Accuracy'][model_accuracy]
             if(column_max > max_accuracy):
@@ -450,7 +461,7 @@ class Feature_Eng_Sel():
                 recursive_feature_list = self.recursive_feature_elimination(X, y, number)
                 df = data_preparation(team_stats_df, game_data_df, recursive_feature_list)
                 ML_obj = ML(df)
-                ML_obj.train_test_split(test_size=.2, target_column_name='Result')
+                ML_obj.special_train_test_split(test_size=.2, target_column_name='Result')
                 results_df = ML_obj.ML_analysis()
                 column_max = list(results_df['Accuracy'])[model_accuracy]
                 if(column_max > max_accuracy):
@@ -461,7 +472,7 @@ class Feature_Eng_Sel():
                 forest_feature_list = self.random_forest_selection(X, y, number)
                 df = data_preparation(team_stats_df, game_data_df, forest_feature_list)
                 ML_obj = ML(df)
-                ML_obj.train_test_split(test_size=.2, target_column_name='Result')
+                ML_obj.special_train_test_split(test_size=.2, target_column_name='Result')
                 results_df = ML_obj.ML_analysis()
                 column_max = results_df['Accuracy'][model_accuracy]
                 if(column_max > max_accuracy):
@@ -568,8 +579,8 @@ def load_ML_model(file = ''):
 def main():
     
     # reads in the team stats which can be downloaded and converted to csv manually at https://www.baseball-reference.com/leagues/majors/2022.shtml
-    team_batting_stats_df = pd.read_csv('C:/Computer Science/MLB Game Prediction/Team Batting Statistics.csv', index_col=0)
-    team_pitching_stats_df = pd.read_csv('C:/Computer Science/MLB Game Prediction/Team Pitching Statistics.csv', index_col=0)
+    team_batting_stats_df = pd.read_csv('C:/Computer Science/MLB-Game-Prediction-v1/MLB Game Prediction/Team Batting Statistics.csv', index_col=0)
+    team_pitching_stats_df = pd.read_csv('C:/Computer Science/MLB-Game-Prediction-v1/MLB Game Prediction/Team Pitching Statistics.csv', index_col=0)
     
     # adds TB_ in front of team batting columns and TP_ in front of team pitching columns
     new_batting_columns = []
@@ -585,7 +596,7 @@ def main():
     team_stats_df = pd.concat([team_batting_stats_df, team_pitching_stats_df], axis=1)
     
     # gets the game data
-    game_data_df = pd.read_csv('C:/Computer Science/MLB Game Prediction/Complete MLB Game Data.csv')
+    game_data_df = pd.read_csv('C:/Computer Science/MLB-Game-Prediction-v1/MLB Game Prediction/Complete MLB Game Data.csv')
 
     # drops the date column and moves the result column to the end
     game_data_df = game_data_df.drop(columns=['Date'])
@@ -625,10 +636,10 @@ def main():
     # lists for testing multiple models 
     # enter names for models and respective features
     model_to_use_list = ['Logistic_Regression', 'RF', 'SVC', 'NB']
-    feature_lists = [['Away_TP_W-L%', 'Away_Pitching_Win', 'Away_Pitching_Loss', 'Away_Pitching_ERA', 'Away_Pitching_SO', 'Home_Pitching_Win', 'Home_Pitching_Loss', 'Home_Pitching_ERA', 'Home_Pitching_SO', 'Away_B6_PB_BA', 'Away_B7_PB_SLG', 'Away_B7_PB_OPS+', 'Away_B8_PB_BA', 'Away_B8_PB_OPS+', 'Home_B6_PB_OBP', 'Home_B7_PB_SLG', 'Home_B8_PB_AB', 'Home_B8_PB_SLG', 'Home_B8_PB_OPS+', 'Home_B8_PB_TB'],
-                     ['Home_TP_RA/G', 'Home_TP_W', 'Home_TP_W-L%', 'Away_Pitching_Win', 'Away_Pitching_Loss', 'Away_Pitching_ERA', 'Away_Pitching_SO', 'Home_Pitching_Win', 'Home_Pitching_Loss', 'Home_Pitching_ERA', 'Home_Pitching_SO', 'Away_B7_PB_R', 'Away_B7_PB_OBP', 'Away_B7_PB_SLG', 'Away_B8_PB_BA', 'Home_B6_PB_BA', 'Home_B6_PB_OPS+', 'Home_B7_PB_AB', 'Home_B7_PB_OPS', 'Home_B8_PB_G', 'Home_B8_PB_PA', 'Home_B8_PB_AB', 'Home_B8_PB_SLG'],
-                     ['Home_TP_IBB', 'Away_Pitching_Win', 'Away_Pitching_Loss', 'Away_Pitching_ERA', 'Home_Pitching_Win', 'Home_Pitching_Loss', 'Home_Pitching_ERA', 'Away_B3_PB_SB', 'Away_B5_PB_HBP', 'Away_B6_PB_HBP', 'Away_B7_PB_HBP', 'Away_B8_PB_HR', 'Home_B1_PB_Age', 'Home_B1_PB_CS', 'Home_B1_PB_HBP', 'Home_B3_PB_HBP', 'Home_B5_PB_SF', 'Home_B6_PB_GDP', 'Home_B7_PB_Age', 'Home_B7_PB_3B', 'Home_B7_PB_CS', 'Home_B7_PB_HBP', 'Home_B7_PB_SF', 'Home_B8_PB_GDP', 'Home_B8_PB_HBP', 'Home_B8_PB_SF'],
-                     ['Home_TP_IBB', 'Away_Pitching_Win', 'Away_Pitching_Loss', 'Away_Pitching_ERA', 'Home_Pitching_Win', 'Home_Pitching_Loss', 'Home_Pitching_ERA', 'Away_B6_PB_HBP', 'Away_B7_PB_HBP', 'Home_B5_PB_SF', 'Home_B7_PB_3B', 'Home_B7_PB_CS', 'Home_B7_PB_HBP', 'Home_B7_PB_SF', 'Home_B8_PB_SF']]
+    feature_lists = [['Away_TP_W', 'Away_Team_Win', 'Home_TP_BB9', 'Home_TP_WHIP', 'Home_TP_ER', 'Home_TP_R', 'Home_TP_SO/W', 'Home_TP_RA/G', 'Home_TP_ERA', 'Home_TP_FIP', 'Home_TP_ERA+', 'Away_Pitching_Win', 'Home_Pitching_Win', 'Home_TP_W', 'Home_TP_W-L%', 'Home_TP_L', 'Away_Pitching_Loss', 'Home_Pitching_Loss', 'Home_Pitching_ERA', 'Away_Pitching_ERA'],
+                     ['Away_Pitching_Win', 'Away_Pitching_Loss', 'Away_Pitching_ERA', 'Home_Pitching_Win', 'Home_Pitching_Loss', 'Home_Pitching_ERA', 'Away_B9_PB_Age', 'Home_B3_PB_HBP', 'Home_B5_PB_SF', 'Home_B6_PB_GDP', 'Home_B7_PB_Age', 'Home_B7_PB_HBP'],
+                     ['Away_Pitching_Win', 'Away_Pitching_Loss', 'Away_Pitching_ERA', 'Home_Pitching_Win', 'Home_Pitching_Loss', 'Home_Pitching_ERA', 'Away_B9_PB_Age', 'Home_B3_PB_HBP', 'Home_B5_PB_SF', 'Home_B7_PB_HBP'],
+                     ['Home_TP_W', 'Home_TP_L', 'Away_Pitching_Win', 'Away_Pitching_Loss', 'Away_Pitching_ERA', 'Away_Pitching_SO', 'Home_Pitching_Win', 'Home_Pitching_Loss', 'Home_Pitching_ERA', 'Home_Pitching_SO', 'Home_B6_PB_OBP', 'Home_B6_PB_OPS+']]
     
     # loops through models 
     for i in range(0, len(model_to_use_list)):
@@ -643,13 +654,13 @@ def main():
         
         # testing for all feature selection methods
         # needs team_stats_df, game_data_df, X, y, start feature number, max feature number, interval, and the respective model on as parameters 
-        #print(Feature_Eng_Sel_obj.test_feature_selection(team_stats_df, game_data_df, df.iloc[:, 0:-1], df['Result'], 20, 30, 1, i))
+        #print(Feature_Eng_Sel_obj.test_feature_selection(team_stats_df, game_data_df, df.iloc[:, 0:-1], df['Result'], 21, 28, 1, i))
         
         # creates a ML object
         ML_obj = ML(df)
         
         # train test split that takes test size and target column name as parameters 
-        ML_obj.train_test_split(test_size=.2, target_column_name='Result')
+        ML_obj.special_train_test_split(test_size=.2, target_column_name='Result')
         
         # tests multiple ML model accuracies and prints them out and takes no parameters
         print(ML_obj.ML_analysis(), end='\n\n')
@@ -663,10 +674,10 @@ def main():
         model = ML_obj.ML_training(model_to_use_list[i])
         
         # saves a ML model and takes a model and file as parameters
-        save_ML_model(model, 'C:/Computer Science/MLB Game Prediction/Trained MLB Model.pkl')
+        save_ML_model(model, 'C:/Computer Science/MLB-Game-Prediction-v1/MLB Game Prediction/Trained MLB Model.pkl')
         
         # loads and returns a saved model and takes a file as a parameter
-        #model = load_ML_model('C:/Computer Science/MLB Game Prediction/Trained MLB Model.pkl')
+        #model = load_ML_model('C:/Computer Science/MLB-Game-Prediction-v1/MLB Game Prediction/Trained MLB Model.pkl')
         
         # data preparation again and this time taking future game data so going to be predicting data
         pred_df = data_preparation(team_stats_df, future_game_df, feature_lists[i])
@@ -699,6 +710,42 @@ def main():
     final_df['Average_Return'] = final_df[model_to_use_list].mean(axis=1)
     
     # exports dataframe to csv
-    final_df.to_csv('C:/Computer Science/MLB Game Prediction/MLB Prediction Data.csv', index = False)
+    final_df.to_csv('C:/Computer Science/MLB-Game-Prediction-v1/MLB Game Prediction/MLB Prediction Data.csv', index = False)
     
 main()
+
+'''
+LR
+* (0.7128712871287128, 'Correlation', 13, ['Home_TP_RA/G', 'Home_TP_ERA', 'Home_TP_FIP', 'Home_TP_ERA+', 'Away_Pitching_Win', 'Home_Pitching_Win', 'Home_TP_W', 'Home_TP_W-L%', 'Home_TP_L', 'Away_Pitching_Loss', 'Home_Pitching_Loss', 'Home_Pitching_ERA', 'Away_Pitching_ERA'])
+(0.698019801980198, 'Correlation', 24, ['Home_TP_BB', 'Away_TP_L', 'Away_TP_W-L%', 'Away_Team_Loss', 'Away_TP_W', 'Away_Team_Win', 'Home_TP_BB9', 'Home_TP_WHIP', 'Home_TP_ER', 'Home_TP_R', 'Home_TP_SO/W', 'Home_TP_RA/G', 'Home_TP_ERA', 'Home_TP_FIP', 'Home_TP_ERA+', 'Away_Pitching_Win', 'Home_Pitching_Win', 'Home_TP_W', 'Home_TP_W-L%', 'Home_TP_L', 'Away_Pitching_Loss', 'Home_Pitching_Loss', 'Home_Pitching_ERA', 'Away_Pitching_ERA'])
+
+RF
+* (0.6732673267326733, 'Recursive', 10, ['Away_Pitching_Win', 'Away_Pitching_Loss', 'Away_Pitching_ERA', 'Home_Pitching_Win', 'Home_Pitching_Loss', 'Home_Pitching_ERA', 'Away_B9_PB_Age', 'Home_B3_PB_HBP', 'Home_B5_PB_SF', 'Home_B7_PB_HBP'])
+(0.6584158415841584, 'Recursive', 26, ['Home_TP_IBB', 'Away_Pitching_Win', 'Away_Pitching_Loss', 'Away_Pitching_ERA', 'Home_Pitching_Win', 'Home_Pitching_Loss', 'Home_Pitching_ERA', 'Away_B3_PB_HR', 'Away_B3_PB_RBI', 'Away_B3_PB_SB', 'Away_B3_PB_IBB', 'Away_B5_PB_Age', 'Away_B7_PB_H', 'Away_B7_PB_RBI', 'Away_B7_PB_GDP', 'Away_B8_PB_2B', 'Away_B8_PB_HR', 'Away_B9_PB_Age', 'Home_B1_PB_Age', 'Home_B3_PB_HBP', 'Home_B5_PB_GDP', 'Home_B5_PB_SF', 'Home_B6_PB_GDP', 'Home_B7_PB_Age', 'Home_B7_PB_HBP', 'Home_B9_PB_SB'])
+
+SVC
+* (0.6732673267326733, 'Recursive', 10, ['Away_Pitching_Win', 'Away_Pitching_Loss', 'Away_Pitching_ERA', 'Home_Pitching_Win', 'Home_Pitching_Loss', 'Home_Pitching_ERA', 'Away_B9_PB_Age', 'Home_B3_PB_HBP', 'Home_B5_PB_SF', 'Home_B7_PB_HBP'])
+(0.6435643564356436, 'Recursive', 21, ['Home_TP_IBB', 'Away_Pitching_Win', 'Away_Pitching_Loss', 'Away_Pitching_ERA', 'Home_Pitching_Win', 'Home_Pitching_Loss', 'Home_Pitching_ERA', 'Away_B3_PB_HR', 'Away_B3_PB_SB', 'Away_B3_PB_IBB', 'Away_B7_PB_RBI', 'Away_B7_PB_GDP', 'Away_B8_PB_HR', 'Away_B9_PB_Age', 'Home_B1_PB_Age', 'Home_B3_PB_HBP', 'Home_B5_PB_SF', 'Home_B6_PB_GDP', 'Home_B7_PB_Age', 'Home_B7_PB_HBP', 'Home_B9_PB_SB'])
+
+NB
+* (0.6683168316831684, 'Forest', 12, ['Home_TP_W-L%', 'Away_Pitching_Win', 'Away_Pitching_Loss', 'Away_Pitching_ERA', 'Away_Pitching_SO', 'Home_Pitching_Win', 'Home_Pitching_Loss', 'Home_Pitching_ERA', 'Away_B7_PB_SLG', 'Away_B8_PB_OBP', 'Home_B6_PB_OBP', 'Home_B8_PB_OBP'])
+(0.6336633663366337, 'Recursive', 21, ['Home_TP_IBB', 'Away_Pitching_Win', 'Away_Pitching_Loss', 'Away_Pitching_ERA', 'Home_Pitching_Win', 'Home_Pitching_Loss', 'Home_Pitching_ERA', 'Away_B3_PB_HR', 'Away_B3_PB_SB', 'Away_B3_PB_IBB', 'Away_B7_PB_RBI', 'Away_B7_PB_GDP', 'Away_B8_PB_HR', 'Away_B9_PB_Age', 'Home_B1_PB_Age', 'Home_B3_PB_HBP', 'Home_B5_PB_SF', 'Home_B6_PB_GDP', 'Home_B7_PB_Age', 'Home_B7_PB_HBP', 'Home_B9_PB_SB'])
+'''
+
+'''
+LR
+* (0.7079207920792079, 'Correlation', 20, ['Away_TP_W', 'Away_Team_Win', 'Home_TP_BB9', 'Home_TP_WHIP', 'Home_TP_ER', 'Home_TP_R', 'Home_TP_SO/W', 'Home_TP_RA/G', 'Home_TP_ERA', 'Home_TP_FIP', 'Home_TP_ERA+', 'Away_Pitching_Win', 'Home_Pitching_Win', 'Home_TP_W', 'Home_TP_W-L%', 'Home_TP_L', 'Away_Pitching_Loss', 'Home_Pitching_Loss', 'Home_Pitching_ERA', 'Away_Pitching_ERA'])
+(0.7029702970297029, 'Correlation', 24, ['Home_TP_BB', 'Away_TP_L', 'Away_TP_W-L%', 'Away_Team_Loss', 'Away_TP_W', 'Away_Team_Win', 'Home_TP_BB9', 'Home_TP_WHIP', 'Home_TP_ER', 'Home_TP_R', 'Home_TP_SO/W', 'Home_TP_RA/G', 'Home_TP_ERA', 'Home_TP_FIP', 'Home_TP_ERA+', 'Away_Pitching_Win', 'Home_Pitching_Win', 'Home_TP_W', 'Home_TP_W-L%', 'Home_TP_L', 'Away_Pitching_Loss', 'Home_Pitching_Loss', 'Home_Pitching_ERA', 'Away_Pitching_ERA'])
+
+RF
+* (0.7079207920792079, 'Recursive', 12, ['Away_Pitching_Win', 'Away_Pitching_Loss', 'Away_Pitching_ERA', 'Home_Pitching_Win', 'Home_Pitching_Loss', 'Home_Pitching_ERA', 'Away_B9_PB_Age', 'Home_B3_PB_HBP', 'Home_B5_PB_SF', 'Home_B6_PB_GDP', 'Home_B7_PB_Age', 'Home_B7_PB_HBP'])
+(0.7029702970297029, 'Forest', 21, ['Home_TP_W', 'Home_TP_L', 'Home_TP_W-L%', 'Away_Pitching_Win', 'Away_Pitching_Loss', 'Away_Pitching_ERA', 'Home_Pitching_Win', 'Home_Pitching_Loss', 'Home_Pitching_ERA', 'Home_Pitching_SO', 'Away_B7_PB_OPS', 'Away_B8_PB_RBI', 'Away_B9_PB_BA', 'Home_B6_PB_OPS', 'Home_B8_PB_RBI', 'Home_B8_PB_SO', 'Home_B8_PB_BA', 'Home_B8_PB_SLG', 'Home_B8_PB_OPS+', 'Home_B9_PB_OBP', 'Home_B9_PB_SLG'])
+
+SVC
+* (0.698019801980198, 'Recursive', 10, ['Away_Pitching_Win', 'Away_Pitching_Loss', 'Away_Pitching_ERA', 'Home_Pitching_Win', 'Home_Pitching_Loss', 'Home_Pitching_ERA', 'Away_B9_PB_Age', 'Home_B3_PB_HBP', 'Home_B5_PB_SF', 'Home_B7_PB_HBP'])
+(0.6782178217821783, 'Recursive', 22, ['Home_TP_IBB', 'Away_Pitching_Win', 'Away_Pitching_Loss', 'Away_Pitching_ERA', 'Home_Pitching_Win', 'Home_Pitching_Loss', 'Home_Pitching_ERA', 'Away_B3_PB_HR', 'Away_B3_PB_SB', 'Away_B3_PB_IBB', 'Away_B7_PB_RBI', 'Away_B7_PB_GDP', 'Away_B8_PB_HR', 'Away_B9_PB_Age', 'Home_B1_PB_Age', 'Home_B3_PB_HBP', 'Home_B5_PB_GDP', 'Home_B5_PB_SF', 'Home_B6_PB_GDP', 'Home_B7_PB_Age', 'Home_B7_PB_HBP', 'Home_B9_PB_SB'])
+
+NB
+* (0.7079207920792079, 'Forest', 12, ['Home_TP_W', 'Home_TP_L', 'Away_Pitching_Win', 'Away_Pitching_Loss', 'Away_Pitching_ERA', 'Away_Pitching_SO', 'Home_Pitching_Win', 'Home_Pitching_Loss', 'Home_Pitching_ERA', 'Home_Pitching_SO', 'Home_B6_PB_OBP', 'Home_B6_PB_OPS+'])
+(0.7079207920792079, 'Forest', 22, ['Home_TP_W', 'Home_TP_L', 'Away_Pitching_Win', 'Away_Pitching_Loss', 'Away_Pitching_ERA', 'Away_Pitching_SO', 'Home_Pitching_Win', 'Home_Pitching_Loss', 'Home_Pitching_ERA', 'Home_Pitching_SO', 'Away_B7_PB_SLG', 'Away_B7_PB_OPS', 'Away_B7_PB_OPS+', 'Away_B8_PB_BA', 'Home_B6_PB_OBP', 'Home_B7_PB_PA', 'Home_B8_PB_G', 'Home_B8_PB_PA', 'Home_B8_PB_BA', 'Home_B8_PB_SLG', 'Home_B8_PB_OPS', 'Home_B8_PB_OPS+'])
+'''

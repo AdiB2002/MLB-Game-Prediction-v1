@@ -483,19 +483,19 @@ def main():
     
     # scraper object
     Scraper_obj = Scraper()
-    
+    '''
     # scrapes past games and doesn't take any parameters 
     df = Scraper_obj.scrape_past_games()
     
     # exports df to csv 
-    df.to_csv('C:/Computer Science/MLB Game Prediction/Dated MLB Game Data.csv', index = False) 
-    
+    df.to_csv('C:/Computer Science/MLB-Game-Prediction-v1/MLB Game Prediction/Dated MLB Game Data.csv', index = False) 
+    '''
     # can read in game data instead of scraping it
-    game_data_df = pd.read_csv('C:/Computer Science/MLB Game Prediction/Dated MLB Game Data.csv')
+    game_data_df = pd.read_csv('C:/Computer Science/MLB-Game-Prediction-v1/MLB Game Prediction/Dated MLB Game Data.csv')
     Scraper_obj.df = game_data_df
     
     # reads in the batter statistics data
-    batter_stats_df = pd.read_csv('C:/Computer Science/MLB Game Prediction/Batter Statistics.csv')
+    batter_stats_df = pd.read_csv('C:/Computer Science/MLB-Game-Prediction-v1/MLB Game Prediction/Batter Statistics.csv')
     
     # prepares the batter dataframe and takes the batter dataframe as a parameter
     batter_stats_df = data_preparation(batter_stats_df)
@@ -503,7 +503,7 @@ def main():
     # reads in past mlb game data to try and avoid scraping what has already been scraped before 
     # try except in case there is no past mlb game data
     try:
-        mlb_game_df = pd.read_csv('C:/Computer Science/MLB Game Prediction/MLB Game Data.csv')
+        mlb_game_df = pd.read_csv('C:/Computer Science/MLB-Game-Prediction-v1/MLB Game Prediction/MLB Game Data.csv')
         
         # need to rescrape data which didn't have a result for so removing that data
         mlb_game_df = mlb_game_df[mlb_game_df['Result']!='No Result']
@@ -512,7 +512,8 @@ def main():
         print(list(mlb_game_df['Date'])[-1])
         
         # enter the date that was printed in correct format yyyy-mm-dd
-        game_date = input('Enter the date that was printed in correct format yyyy-mm-dd: ') 
+        #game_date = input('Enter the date that was printed in correct format yyyy-mm-dd: ') 
+        game_date = '2022-06-20'
     
     # if couldn't find file set game date to default value
     except:
@@ -532,16 +533,16 @@ def main():
         mlb_game_df = df
     
     # exports df to csv
-    mlb_game_df.to_csv('C:/Computer Science/MLB Game Prediction/MLB Game Data.csv', index = False) 
+    mlb_game_df.to_csv('C:/Computer Science/MLB-Game-Prediction-v1/MLB Game Prediction/MLB Game Data.csv', index = False) 
     
     # can read in mlb game data instead of scraping it 
-    mlb_game_df = pd.read_csv('C:/Computer Science/MLB Game Prediction/MLB Game Data.csv')
+    mlb_game_df = pd.read_csv('C:/Computer Science/MLB-Game-Prediction-v1/MLB Game Prediction/MLB Game Data.csv')
     
     # scrapes betting lines for upcoming games and takes mlb game data df as a parameter
     complete_game_df = Scraper_obj.scrape_betting_lines(mlb_game_df)
     
     # exports df to csv
-    complete_game_df.to_csv('C:/Computer Science/MLB Game Prediction/Complete MLB Game Data.csv', index = False) 
+    complete_game_df.to_csv('C:/Computer Science/MLB-Game-Prediction-v1/MLB Game Prediction/Complete MLB Game Data.csv', index = False) 
     
     # quits browser after done
     Scraper_obj.browser.quit()
