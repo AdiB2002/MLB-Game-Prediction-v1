@@ -483,13 +483,13 @@ def main():
     
     # scraper object
     Scraper_obj = Scraper()
-    '''
+    
     # scrapes past games and doesn't take any parameters 
     df = Scraper_obj.scrape_past_games()
     
     # exports df to csv 
     df.to_csv('C:/Computer Science/MLB-Game-Prediction-v1/MLB Game Prediction/Dated MLB Game Data.csv', index = False) 
-    '''
+    
     # can read in game data instead of scraping it
     game_data_df = pd.read_csv('C:/Computer Science/MLB-Game-Prediction-v1/MLB Game Prediction/Dated MLB Game Data.csv')
     Scraper_obj.df = game_data_df
@@ -512,8 +512,7 @@ def main():
         print(list(mlb_game_df['Date'])[-1])
         
         # enter the date that was printed in correct format yyyy-mm-dd
-        #game_date = input('Enter the date that was printed in correct format yyyy-mm-dd: ') 
-        game_date = '2022-06-21'
+        game_date = input('Enter the date that was printed in correct format yyyy-mm-dd: ') 
     
     # if couldn't find file set game date to default value
     except:

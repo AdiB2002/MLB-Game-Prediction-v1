@@ -25,7 +25,7 @@ import os
 # for feature selection which is just one call to a method (commented out right now in main) an important thing to remember is to remove feature_lists[i] from the data preparation method call above it 
 # for feature selection i would comment out the code below the method call and when done comment out feature selection method call and of course put feature_lists[i] back in
 # if not doing feature selection simply use preset features 
-# for ML_training you can also choose for it to print out a 80/20 accuracy or a kfold one (currently commented out) just comment out the other ones code
+# for ML_training you can also choose for it to print out a 80/20 train test split accuracy or a kfold one (currently commented out) just comment out the other ones code
 
 # global removal of convergence warning
 if not sys.warnoptions:
@@ -48,12 +48,14 @@ class ML():
         y = self.df[target_column_name]
         self.X_train, self.X_test, self.y_train, self.y_test = train_test_split(X, y, test_size = test_size, random_state = 22)
         
-    # splits into training and testing datasets 
+    # special version that splits into training and testing datasets but uses the end of data as the test set 
     def special_train_test_split(self, test_size=.2, target_column_name=''): 
         
+        # splits dataframe into training and testing
         df_train = self.df.iloc[:round((1-test_size)*len(self.df))-1]
         df_test = self.df.iloc[round((1-test_size)*len(self.df))-1:]
         
+        # splits training and testing into X and y
         self.X_train = df_train.drop([target_column_name], axis=1)
         self.y_train = df_train[target_column_name]
         self.X_test = df_test.drop([target_column_name], axis=1)
@@ -713,39 +715,3 @@ def main():
     final_df.to_csv('C:/Computer Science/MLB-Game-Prediction-v1/MLB Game Prediction/MLB Prediction Data.csv', index = False)
     
 main()
-
-'''
-LR
-* (0.7128712871287128, 'Correlation', 13, ['Home_TP_RA/G', 'Home_TP_ERA', 'Home_TP_FIP', 'Home_TP_ERA+', 'Away_Pitching_Win', 'Home_Pitching_Win', 'Home_TP_W', 'Home_TP_W-L%', 'Home_TP_L', 'Away_Pitching_Loss', 'Home_Pitching_Loss', 'Home_Pitching_ERA', 'Away_Pitching_ERA'])
-(0.698019801980198, 'Correlation', 24, ['Home_TP_BB', 'Away_TP_L', 'Away_TP_W-L%', 'Away_Team_Loss', 'Away_TP_W', 'Away_Team_Win', 'Home_TP_BB9', 'Home_TP_WHIP', 'Home_TP_ER', 'Home_TP_R', 'Home_TP_SO/W', 'Home_TP_RA/G', 'Home_TP_ERA', 'Home_TP_FIP', 'Home_TP_ERA+', 'Away_Pitching_Win', 'Home_Pitching_Win', 'Home_TP_W', 'Home_TP_W-L%', 'Home_TP_L', 'Away_Pitching_Loss', 'Home_Pitching_Loss', 'Home_Pitching_ERA', 'Away_Pitching_ERA'])
-
-RF
-* (0.6732673267326733, 'Recursive', 10, ['Away_Pitching_Win', 'Away_Pitching_Loss', 'Away_Pitching_ERA', 'Home_Pitching_Win', 'Home_Pitching_Loss', 'Home_Pitching_ERA', 'Away_B9_PB_Age', 'Home_B3_PB_HBP', 'Home_B5_PB_SF', 'Home_B7_PB_HBP'])
-(0.6584158415841584, 'Recursive', 26, ['Home_TP_IBB', 'Away_Pitching_Win', 'Away_Pitching_Loss', 'Away_Pitching_ERA', 'Home_Pitching_Win', 'Home_Pitching_Loss', 'Home_Pitching_ERA', 'Away_B3_PB_HR', 'Away_B3_PB_RBI', 'Away_B3_PB_SB', 'Away_B3_PB_IBB', 'Away_B5_PB_Age', 'Away_B7_PB_H', 'Away_B7_PB_RBI', 'Away_B7_PB_GDP', 'Away_B8_PB_2B', 'Away_B8_PB_HR', 'Away_B9_PB_Age', 'Home_B1_PB_Age', 'Home_B3_PB_HBP', 'Home_B5_PB_GDP', 'Home_B5_PB_SF', 'Home_B6_PB_GDP', 'Home_B7_PB_Age', 'Home_B7_PB_HBP', 'Home_B9_PB_SB'])
-
-SVC
-* (0.6732673267326733, 'Recursive', 10, ['Away_Pitching_Win', 'Away_Pitching_Loss', 'Away_Pitching_ERA', 'Home_Pitching_Win', 'Home_Pitching_Loss', 'Home_Pitching_ERA', 'Away_B9_PB_Age', 'Home_B3_PB_HBP', 'Home_B5_PB_SF', 'Home_B7_PB_HBP'])
-(0.6435643564356436, 'Recursive', 21, ['Home_TP_IBB', 'Away_Pitching_Win', 'Away_Pitching_Loss', 'Away_Pitching_ERA', 'Home_Pitching_Win', 'Home_Pitching_Loss', 'Home_Pitching_ERA', 'Away_B3_PB_HR', 'Away_B3_PB_SB', 'Away_B3_PB_IBB', 'Away_B7_PB_RBI', 'Away_B7_PB_GDP', 'Away_B8_PB_HR', 'Away_B9_PB_Age', 'Home_B1_PB_Age', 'Home_B3_PB_HBP', 'Home_B5_PB_SF', 'Home_B6_PB_GDP', 'Home_B7_PB_Age', 'Home_B7_PB_HBP', 'Home_B9_PB_SB'])
-
-NB
-* (0.6683168316831684, 'Forest', 12, ['Home_TP_W-L%', 'Away_Pitching_Win', 'Away_Pitching_Loss', 'Away_Pitching_ERA', 'Away_Pitching_SO', 'Home_Pitching_Win', 'Home_Pitching_Loss', 'Home_Pitching_ERA', 'Away_B7_PB_SLG', 'Away_B8_PB_OBP', 'Home_B6_PB_OBP', 'Home_B8_PB_OBP'])
-(0.6336633663366337, 'Recursive', 21, ['Home_TP_IBB', 'Away_Pitching_Win', 'Away_Pitching_Loss', 'Away_Pitching_ERA', 'Home_Pitching_Win', 'Home_Pitching_Loss', 'Home_Pitching_ERA', 'Away_B3_PB_HR', 'Away_B3_PB_SB', 'Away_B3_PB_IBB', 'Away_B7_PB_RBI', 'Away_B7_PB_GDP', 'Away_B8_PB_HR', 'Away_B9_PB_Age', 'Home_B1_PB_Age', 'Home_B3_PB_HBP', 'Home_B5_PB_SF', 'Home_B6_PB_GDP', 'Home_B7_PB_Age', 'Home_B7_PB_HBP', 'Home_B9_PB_SB'])
-'''
-
-'''
-LR
-* (0.7079207920792079, 'Correlation', 20, ['Away_TP_W', 'Away_Team_Win', 'Home_TP_BB9', 'Home_TP_WHIP', 'Home_TP_ER', 'Home_TP_R', 'Home_TP_SO/W', 'Home_TP_RA/G', 'Home_TP_ERA', 'Home_TP_FIP', 'Home_TP_ERA+', 'Away_Pitching_Win', 'Home_Pitching_Win', 'Home_TP_W', 'Home_TP_W-L%', 'Home_TP_L', 'Away_Pitching_Loss', 'Home_Pitching_Loss', 'Home_Pitching_ERA', 'Away_Pitching_ERA'])
-(0.7029702970297029, 'Correlation', 24, ['Home_TP_BB', 'Away_TP_L', 'Away_TP_W-L%', 'Away_Team_Loss', 'Away_TP_W', 'Away_Team_Win', 'Home_TP_BB9', 'Home_TP_WHIP', 'Home_TP_ER', 'Home_TP_R', 'Home_TP_SO/W', 'Home_TP_RA/G', 'Home_TP_ERA', 'Home_TP_FIP', 'Home_TP_ERA+', 'Away_Pitching_Win', 'Home_Pitching_Win', 'Home_TP_W', 'Home_TP_W-L%', 'Home_TP_L', 'Away_Pitching_Loss', 'Home_Pitching_Loss', 'Home_Pitching_ERA', 'Away_Pitching_ERA'])
-
-RF
-* (0.7079207920792079, 'Recursive', 12, ['Away_Pitching_Win', 'Away_Pitching_Loss', 'Away_Pitching_ERA', 'Home_Pitching_Win', 'Home_Pitching_Loss', 'Home_Pitching_ERA', 'Away_B9_PB_Age', 'Home_B3_PB_HBP', 'Home_B5_PB_SF', 'Home_B6_PB_GDP', 'Home_B7_PB_Age', 'Home_B7_PB_HBP'])
-(0.7029702970297029, 'Forest', 21, ['Home_TP_W', 'Home_TP_L', 'Home_TP_W-L%', 'Away_Pitching_Win', 'Away_Pitching_Loss', 'Away_Pitching_ERA', 'Home_Pitching_Win', 'Home_Pitching_Loss', 'Home_Pitching_ERA', 'Home_Pitching_SO', 'Away_B7_PB_OPS', 'Away_B8_PB_RBI', 'Away_B9_PB_BA', 'Home_B6_PB_OPS', 'Home_B8_PB_RBI', 'Home_B8_PB_SO', 'Home_B8_PB_BA', 'Home_B8_PB_SLG', 'Home_B8_PB_OPS+', 'Home_B9_PB_OBP', 'Home_B9_PB_SLG'])
-
-SVC
-* (0.698019801980198, 'Recursive', 10, ['Away_Pitching_Win', 'Away_Pitching_Loss', 'Away_Pitching_ERA', 'Home_Pitching_Win', 'Home_Pitching_Loss', 'Home_Pitching_ERA', 'Away_B9_PB_Age', 'Home_B3_PB_HBP', 'Home_B5_PB_SF', 'Home_B7_PB_HBP'])
-(0.6782178217821783, 'Recursive', 22, ['Home_TP_IBB', 'Away_Pitching_Win', 'Away_Pitching_Loss', 'Away_Pitching_ERA', 'Home_Pitching_Win', 'Home_Pitching_Loss', 'Home_Pitching_ERA', 'Away_B3_PB_HR', 'Away_B3_PB_SB', 'Away_B3_PB_IBB', 'Away_B7_PB_RBI', 'Away_B7_PB_GDP', 'Away_B8_PB_HR', 'Away_B9_PB_Age', 'Home_B1_PB_Age', 'Home_B3_PB_HBP', 'Home_B5_PB_GDP', 'Home_B5_PB_SF', 'Home_B6_PB_GDP', 'Home_B7_PB_Age', 'Home_B7_PB_HBP', 'Home_B9_PB_SB'])
-
-NB
-* (0.7079207920792079, 'Forest', 12, ['Home_TP_W', 'Home_TP_L', 'Away_Pitching_Win', 'Away_Pitching_Loss', 'Away_Pitching_ERA', 'Away_Pitching_SO', 'Home_Pitching_Win', 'Home_Pitching_Loss', 'Home_Pitching_ERA', 'Home_Pitching_SO', 'Home_B6_PB_OBP', 'Home_B6_PB_OPS+'])
-(0.7079207920792079, 'Forest', 22, ['Home_TP_W', 'Home_TP_L', 'Away_Pitching_Win', 'Away_Pitching_Loss', 'Away_Pitching_ERA', 'Away_Pitching_SO', 'Home_Pitching_Win', 'Home_Pitching_Loss', 'Home_Pitching_ERA', 'Home_Pitching_SO', 'Away_B7_PB_SLG', 'Away_B7_PB_OPS', 'Away_B7_PB_OPS+', 'Away_B8_PB_BA', 'Home_B6_PB_OBP', 'Home_B7_PB_PA', 'Home_B8_PB_G', 'Home_B8_PB_PA', 'Home_B8_PB_BA', 'Home_B8_PB_SLG', 'Home_B8_PB_OPS', 'Home_B8_PB_OPS+'])
-'''
