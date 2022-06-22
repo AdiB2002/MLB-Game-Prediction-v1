@@ -513,7 +513,7 @@ def main():
         
         # enter the date that was printed in correct format yyyy-mm-dd
         #game_date = input('Enter the date that was printed in correct format yyyy-mm-dd: ') 
-        game_date = '2022-06-20'
+        game_date = '2022-06-21'
     
     # if couldn't find file set game date to default value
     except:
